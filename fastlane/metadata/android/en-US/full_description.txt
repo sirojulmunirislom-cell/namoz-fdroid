@@ -1,0 +1,22 @@
+Namoz
+
+Find nearby mosques, prayer times, Qibla and daily adhkar
+
+New city. A mosque nearby. Namoz helps you find places of prayer on the map, see their distances and open walking directions in your maps app. Search around your selected city or device location. Results depend on available open data and may be incomplete.
+
+Prayer times, Qibla direction and daily adhkar come together in a calm, simple app. Namoz is free to use, with no ads, subscriptions or paid features.
+
+Plan your day around prayer. See the daily timetable and a countdown to the next prayer. Select a city manually or use your device’s location, then choose your time zone, calculation method and Asr preference. Reminder settings are available for prayers and Islamic events.
+
+Begin and end your day with remembrance. Browse morning and evening adhkar, open any entry or follow the reading sequence. The reader brings together the Arabic original, transliteration, translation of the meaning and source references. Adjust the text size, count repetitions and return to your saved reading progress.
+
+Find your direction. View the Qibla bearing for your selected location and open the map. Saved mosque results remain available when you return to the same location.
+
+Keep meaningful dates close. Browse Ramadan, Eid and other Islamic events, with information about the expected dates.
+
+Make Namoz feel familiar. Choose a light or dark theme and use the interface in English, Russian or Uzbek, with Latin and Cyrillic options for Uzbek.
+
+Prayer times depend on your location and calculation settings; compare them with your local mosque’s timetable. Islamic dates may vary with local moon sighting. Location, compass and reminder features depend on your device and permissions.
+
+
+F-Droid edition: open source under GPL-3.0. Android location works without Google Play services. Local prayer and event reminders are supported; cloud push notifications are not included. Optional accounts use the Namoz API. Mosque coverage varies by location.

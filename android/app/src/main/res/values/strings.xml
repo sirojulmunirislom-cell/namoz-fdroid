@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Namoz F-Droid</string>
+    <string name="title_activity_main">Namoz F-Droid</string>
+    <string name="adhkar_widget_name">Namoz F-Droid · Azkorlar</string>
+    <string name="package_name">app.namoz.prayer.fdroid</string>
+    <string name="custom_url_scheme">app.namoz.prayer.fdroid</string>
+</resources>

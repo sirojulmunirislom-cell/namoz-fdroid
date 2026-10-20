@@ -1,0 +1,2704 @@
+[
+  {
+    "id": "jamaat-muslim-656a",
+    "kind": "jamaat",
+    "categoryId": "",
+    "translations": {
+      "uz-Latn": {
+        "title": "Xufton va bomdod jamoat bilan",
+        "body": "Kim xuftonni jamoat bilan o‘qisa, go‘yo yarim kecha namoz o‘qigandek bo‘ladi. Kim bomdodni jamoat bilan o‘qisa, go‘yo butun kecha namoz o‘qigandek bo‘ladi.",
+        "transliteration": "",
+        "videoUrl": "",
+        "sourceText": "Usmon ibn Affon. Sahih Muslim, 656a."
+      },
+      "uz-Cyrl": {
+        "title": "Хуфтон ва бомдод жамоат билан",
+        "body": "Ким хуфтонни жамоат билан ўқиса, гўё ярим кеча намоз ўқигандек бўлади. Ким бомдодни жамоат билан ўқиса, гўё бутун кеча намоз ўқигандек бўлади.",
+        "transliteration": "",
+        "videoUrl": "",
+        "sourceText": "Усмон ибн Аффон. Саҳиҳ Муслим, 656a."
+      },
+      "ru": {
+        "title": "Иша и фаджр в джамаате",
+        "body": "Совершивший иша в джамаате словно молился половину ночи, а совершивший утреннюю молитву в джамаате словно молился всю ночь.",
+        "transliteration": "",
+        "videoUrl": "",
+        "sourceText": "Усман ибн Аффан. Сахих Муслим, 656a."
+      },
+      "en": {
+        "title": "Isha and Fajr in congregation",
+        "body": "Whoever prays Isha in congregation is like one who prayed half the night; whoever prays the morning prayer in congregation is like one who prayed the whole night.",
+        "transliteration": "",
+        "videoUrl": "",
+        "sourceText": "Uthman ibn Affan. Sahih Muslim, 656a."
+      }
+    },
+    "arabic": "مَنْ صَلَّى الْعِشَاءَ فِي جَمَاعَةٍ فَكَأَنَّمَا قَامَ نِصْفَ اللَّيْلِ وَمَنْ صَلَّى الصُّبْحَ فِي جَمَاعَةٍ فَكَأَنَّمَا صَلَّى اللَّيْلَ كُلَّهُ",
+    "transmitter": "Uthman ibn Affan",
+    "collection": "Sahih Muslim",
+    "hadithNumber": "656a",
+    "grade": "sahih",
+    "grader": "",
+    "repetitions": null,
+    "order": 2,
+    "status": "published",
+    "verified": true,
+    "imageUrl": "",
+    "event": null,
+    "updatedAt": "2026-10-06T05:36:35.930Z",
+    "revision": 2,
+    "prayerScope": [
+      "fajr",
+      "isha"
+    ]
+  },
+  {
+    "id": "jamaat-bukhari-645",
+    "kind": "jamaat",
+    "categoryId": "",
+    "translations": {
+      "uz-Latn": {
+        "title": "Jamoat namozining fazilati",
+        "body": "Jamoat namozi yolg‘iz o‘qilgan namozdan yigirma yetti daraja afzaldir.",
+        "transliteration": "",
+        "videoUrl": "",
+        "sourceText": "Abdulloh ibn Umar. Sahih al-Buxoriy, 645."
+      },
+      "uz-Cyrl": {
+        "title": "Жамоат намозининг фазилати",
+        "body": "Жамоат намози ёлғиз ўқилган намоздан йигирма етти даража афзалдир.",
+        "transliteration": "",
+        "videoUrl": "",
+        "sourceText": "Абдуллоҳ ибн Умар. Саҳиҳ ал-Бухорий, 645."
+      },
+      "ru": {
+        "title": "Достоинство коллективной молитвы",
+        "body": "Коллективная молитва превосходит молитву в одиночку на двадцать семь степеней.",
+        "transliteration": "",
+        "videoUrl": "",
+        "sourceText": "Абдуллах ибн Умар. Сахих аль-Бухари, 645."
+      },
+      "en": {
+        "title": "The merit of congregational prayer",
+        "body": "Congregational prayer is twenty-seven degrees better than prayer offered alone.",
+        "transliteration": "",
+        "videoUrl": "",
+        "sourceText": "Abdullah ibn Umar. Sahih al-Bukhari, 645."
+      }
+    },
+    "arabic": "صَلَاةُ الْجَمَاعَةِ تَفْضُلُ صَلَاةَ الْفَذِّ بِسَبْعٍ وَعِشْرِينَ دَرَجَةً",
+    "transmitter": "Abdullah ibn Umar",
+    "collection": "Sahih al-Bukhari",
+    "hadithNumber": "645",
+    "grade": "sahih",
+    "grader": "",
+    "repetitions": null,
+    "order": 0,
+    "status": "published",
+    "verified": true,
+    "imageUrl": "",
+    "event": null,
+    "updatedAt": "2026-10-06T05:36:35.929Z",
+    "revision": 2,
+    "prayerScope": [
+      "fajr",
+      "dhuhr",
+      "asr",
+      "maghrib",
+      "isha"
+    ]
+  },
+  {
+    "id": "jamaat-bukhari-662",
+    "kind": "jamaat",
+    "categoryId": "",
+    "translations": {
+      "uz-Latn": {
+        "title": "Masjidga borishning fazilati",
+        "body": "Kim masjidga ertalab yoki kechqurun borsa, har safar borganida Alloh unga jannatda ziyofat tayyorlaydi.",
+        "transliteration": "",
+        "videoUrl": "",
+        "sourceText": "Abu Hurayra. Sahih al-Buxoriy, 662."
+      },
+      "uz-Cyrl": {
+        "title": "Масжидга боришнинг фазилати",
+        "body": "Ким масжидга эрталаб ёки кечқурун борса, ҳар сафар борганида Аллоҳ унга жаннатда зиёфат тайёрлайди.",
+        "transliteration": "",
+        "videoUrl": "",
+        "sourceText": "Абу Ҳурайра. Саҳиҳ ал-Бухорий, 662."
+      },
+      "ru": {
+        "title": "Достоинство посещения мечети",
+        "body": "Тому, кто отправляется в мечеть утром или вечером, Аллах готовит угощение в Раю каждый раз, когда он отправляется туда.",
+        "transliteration": "",
+        "videoUrl": "",
+        "sourceText": "Абу Хурайра. Сахих аль-Бухари, 662."
+      },
+      "en": {
+        "title": "The merit of going to the mosque",
+        "body": "For whoever goes to the mosque in the morning or evening, Allah prepares hospitality in Paradise each time they go.",
+        "transliteration": "",
+        "videoUrl": "",
+        "sourceText": "Abu Huraira. Sahih al-Bukhari, 662."
+      }
+    },
+    "arabic": "مَنْ غَدَا إِلَى الْمَسْجِدِ وَرَاحَ أَعَدَّ اللَّهُ لَهُ نُزُلَهُ مِنَ الْجَنَّةِ كُلَّمَا غَدَا أَوْ رَاحَ",
+    "transmitter": "Abu Huraira",
+    "collection": "Sahih al-Bukhari",
+    "hadithNumber": "662",
+    "grade": "sahih",
+    "grader": "",
+    "repetitions": null,
+    "order": 1,
+    "status": "published",
+    "verified": true,
+    "imageUrl": "",
+    "event": null,
+    "updatedAt": "2026-10-06T05:36:35.929Z",
+    "revision": 2,
+    "prayerScope": [
+      "fajr",
+      "dhuhr",
+      "asr",
+      "maghrib",
+      "isha"
+    ]
+  },
+  {
+    "id": "event-ramadan",
+    "kind": "event",
+    "translations": {
+      "uz-Latn": {
+        "title": "Ramazon boshlanishi",
+        "body": "Ramazon — farz ro‘za oyi. Oy boshlanishi hilol aniqlanishiga bog‘liq; mahalliy e’lonni tekshiring.",
+        "transliteration": "",
+        "videoUrl": "",
+        "sourceText": "Abdulloh ibn Umar. Sahih al-Buxoriy; Sahih Muslim, 8; 16."
+      },
+      "ru": {
+        "title": "Начало Рамадана",
+        "body": "Рамадан — месяц обязательного поста. Начало месяца уточняется по установлению начала лунного месяца; следите за местным объявлением.",
+        "transliteration": "",
+        "videoUrl": "",
+        "sourceText": "Абдуллах ибн Умар. Сахих аль-Бухари; Сахих Муслим, 8; 16."
+      },
+      "en": {
+        "title": "Ramadan begins",
+        "body": "Ramadan is the month of obligatory fasting. Confirm the start through the local announcement establishing the lunar month.",
+        "transliteration": "",
+        "videoUrl": "",
+        "sourceText": "Abdullah ibn Umar. Sahih al-Bukhari; Sahih Muslim, 8; 16."
+      },
+      "uz-Cyrl": {
+        "title": "Рамазон бошланиши",
+        "body": "Рамазон — фарз рўза ойи. Ой бошланиши ҳилол аниқланишига боғлиқ; маҳаллий э’лонни текширинг.",
+        "transliteration": "",
+        "videoUrl": "",
+        "sourceText": "Абдуллоҳ ибн Умар. Саҳиҳ ал-Бухорий; Саҳиҳ Муслим, 8; 16."
+      }
+    },
+    "transmitter": "Abdullah ibn Umar",
+    "collection": "Sahih al-Bukhari; Sahih Muslim",
+    "hadithNumber": "8; 16",
+    "grade": "sahih",
+    "grader": "",
+    "event": {
+      "hijriMonth": 9,
+      "hijriDay": 1,
+      "repeatMonthly": false,
+      "fasting": "obligatory",
+      "leadDays": 1
+    },
+    "order": 0,
+    "status": "published",
+    "verified": true,
+    "revision": 1,
+    "updatedAt": "2026-10-06T15:00:00.000Z"
+  },
+  {
+    "id": "event-last-ten",
+    "kind": "event",
+    "translations": {
+      "uz-Latn": {
+        "title": "Ramazonning oxirgi o‘n kechasi",
+        "body": "21-kun arafasida quyosh botishi bilan boshlanadi. Qadr kechasini oxirgi o‘n kechada, ayniqsa toq kechalarda izlang. Uni aniq 27-kecha deb belgilamaymiz.",
+        "transliteration": "",
+        "videoUrl": "",
+        "sourceText": "Abu Sa’id al-Xudriy. Sahih al-Buxoriy; Sahih Muslim, 813; 1167."
+      },
+      "ru": {
+        "title": "Последние десять ночей Рамадана",
+        "body": "Начинаются с заходом солнца перед 21-м днём. Ищите Ночь предопределения в последние десять ночей, особенно нечётные. Не устанавливаем её непременно на 27-ю ночь.",
+        "transliteration": "",
+        "videoUrl": "",
+        "sourceText": "Абу Саид аль-Худри. Сахих аль-Бухари; Сахих Муслим, 813; 1167."
+      },
+      "en": {
+        "title": "Last ten nights of Ramadan",
+        "body": "Begin at sunset before the 21st daytime. Seek Laylat al-Qadr in the last ten nights, especially the odd nights; do not fix it exclusively to the 27th.",
+        "transliteration": "",
+        "videoUrl": "",
+        "sourceText": "Abu Said al-Khudri. Sahih al-Bukhari; Sahih Muslim, 813; 1167."
+      },
+      "uz-Cyrl": {
+        "title": "Рамазоннинг охирги ўн кечаси",
+        "body": "21-кун арафасида қуёш ботиши билан бошланади. Қадр кечасини охирги ўн кечада, айниқса тоқ кечаларда изланг. Уни аниқ 27-кеча деб белгиламаймиз.",
+        "transliteration": "",
+        "videoUrl": "",
+        "sourceText": "Абу Са’ид ал-Худрий. Саҳиҳ ал-Бухорий; Саҳиҳ Муслим, 813; 1167."
+      }
+    },
+    "transmitter": "Abu Said al-Khudri",
+    "collection": "Sahih al-Bukhari; Sahih Muslim",
+    "hadithNumber": "813; 1167",
+    "grade": "sahih",
+    "grader": "",
+    "event": {
+      "hijriMonth": 9,
+      "hijriDay": 21,
+      "repeatMonthly": false,
+      "fasting": "none",
+      "leadDays": 1
+    },
+    "order": 1,
+    "status": "published",
+    "verified": true,
+    "revision": 1,
+    "updatedAt": "2026-10-06T15:00:00.000Z"
+  },
+  {
+    "id": "event-fitr",
+    "kind": "event",
+    "translations": {
+      "uz-Latn": {
+        "title": "Ramazon hayiti",
+        "body": "Bu hayit kuni ro‘za tutish taqiqlangan. Bayram sanasini mahalliy e’lon bilan aniqlashtiring.",
+        "transliteration": "",
+        "videoUrl": "",
+        "sourceText": "Abu Sa’id al-Xudriy. Sahih al-Buxoriy, 1992."
+      },
+      "ru": {
+        "title": "Ураза-байрам — Ид аль-Фитр",
+        "body": "В этот праздничный день пост запрещён. Уточняйте дату праздника по местному объявлению.",
+        "transliteration": "",
+        "videoUrl": "",
+        "sourceText": "Абу Саид аль-Худри. Сахих аль-Бухари, 1992."
+      },
+      "en": {
+        "title": "Eid al-Fitr",
+        "body": "Fasting is prohibited on this Eid day. Confirm the date through the local announcement.",
+        "transliteration": "",
+        "videoUrl": "",
+        "sourceText": "Abu Said al-Khudri. Sahih al-Bukhari, 1992."
+      },
+      "uz-Cyrl": {
+        "title": "Рамазон ҳайити",
+        "body": "Бу ҳайит куни рўза тутиш тақиқланган. Байрам санасини маҳаллий э’лон билан аниқлаштиринг.",
+        "transliteration": "",
+        "videoUrl": "",
+        "sourceText": "Абу Са’ид ал-Худрий. Саҳиҳ ал-Бухорий, 1992."
+      }
+    },
+    "transmitter": "Abu Said al-Khudri",
+    "collection": "Sahih al-Bukhari",
+    "hadithNumber": "1992",
+    "grade": "sahih",
+    "grader": "",
+    "event": {
+      "hijriMonth": 10,
+      "hijriDay": 1,
+      "repeatMonthly": false,
+      "fasting": "none",
+      "leadDays": 1
+    },
+    "order": 2,
+    "status": "published",
+    "verified": true,
+    "revision": 1,
+    "updatedAt": "2026-10-06T15:00:00.000Z"
+  },
+  {
+    "id": "event-adha",
+    "kind": "event",
+    "translations": {
+      "uz-Latn": {
+        "title": "Qurbon hayiti",
+        "body": "Bu hayit kuni ro‘za tutish taqiqlangan. Bayram sanasini mahalliy e’lon bilan aniqlashtiring.",
+        "transliteration": "",
+        "videoUrl": "",
+        "sourceText": "Abu Sa’id al-Xudriy. Sahih al-Buxoriy, 1992."
+      },
+      "ru": {
+        "title": "Курбан-байрам — Ид аль-Адха",
+        "body": "В этот праздничный день пост запрещён. Уточняйте дату праздника по местному объявлению.",
+        "transliteration": "",
+        "videoUrl": "",
+        "sourceText": "Абу Саид аль-Худри. Сахих аль-Бухари, 1992."
+      },
+      "en": {
+        "title": "Eid al-Adha",
+        "body": "Fasting is prohibited on this Eid day. Confirm the date through the local announcement.",
+        "transliteration": "",
+        "videoUrl": "",
+        "sourceText": "Abu Said al-Khudri. Sahih al-Bukhari, 1992."
+      },
+      "uz-Cyrl": {
+        "title": "Қурбон ҳайити",
+        "body": "Бу ҳайит куни рўза тутиш тақиқланган. Байрам санасини маҳаллий э’лон билан аниқлаштиринг.",
+        "transliteration": "",
+        "videoUrl": "",
+        "sourceText": "Абу Са’ид ал-Худрий. Саҳиҳ ал-Бухорий, 1992."
+      }
+    },
+    "transmitter": "Abu Said al-Khudri",
+    "collection": "Sahih al-Bukhari",
+    "hadithNumber": "1992",
+    "grade": "sahih",
+    "grader": "",
+    "event": {
+      "hijriMonth": 12,
+      "hijriDay": 10,
+      "repeatMonthly": false,
+      "fasting": "none",
+      "leadDays": 1
+    },
+    "order": 3,
+    "status": "published",
+    "verified": true,
+    "revision": 1,
+    "updatedAt": "2026-10-06T15:00:00.000Z"
+  },
+  {
+    "id": "event-shawwal",
+    "kind": "event",
+    "translations": {
+      "uz-Latn": {
+        "title": "Shavvolda olti kun ro‘za",
+        "body": "Ramazondan keyin Shavvol oyida olti kun nafl ro‘za tavsiya etiladi. 1-Shavvolda ro‘za tutilmaydi. 2-Shavvol — mumkin bo‘lgan birinchi kun; olti kunni o‘zingiz tanlaysiz.",
+        "transliteration": "",
+        "videoUrl": "",
+        "sourceText": "Abu Ayyub al-Ansoriy. Sahih Muslim, 1164."
+      },
+      "ru": {
+        "title": "Шесть дней поста Шавваля",
+        "body": "После Рамадана рекомендуется шесть дней добровольного поста в Шаввале. 1 Шавваля пост запрещён. 2-е — первый допустимый день, а шесть дней выбираете вы.",
+        "transliteration": "",
+        "videoUrl": "",
+        "sourceText": "Абу Айюб аль-Ансари. Сахих Муслим, 1164."
+      },
+      "en": {
+        "title": "Six days of Shawwal",
+        "body": "Six voluntary fasts in Shawwal after Ramadan are recommended. Do not fast on 1 Shawwal. The 2nd is the first permissible day; you choose your six days.",
+        "transliteration": "",
+        "videoUrl": "",
+        "sourceText": "Abu Ayyub al-Ansari. Sahih Muslim, 1164."
+      },
+      "uz-Cyrl": {
+        "title": "Шавволда олти кун рўза",
+        "body": "Рамазондан кейин Шаввол ойида олти кун нафл рўза тавсия этилади. 1-Шавволда рўза тутилмайди. 2-Шаввол — мумкин бўлган биринчи кун; олти кунни ўзингиз танлайсиз.",
+        "transliteration": "",
+        "videoUrl": "",
+        "sourceText": "Абу Айюб ал-Ансорий. Саҳиҳ Муслим, 1164."
+      }
+    },
+    "transmitter": "Abu Ayyub al-Ansari",
+    "collection": "Sahih Muslim",
+    "hadithNumber": "1164",
+    "grade": "sahih",
+    "grader": "",
+    "event": {
+      "hijriMonth": 10,
+      "hijriDay": 2,
+      "repeatMonthly": false,
+      "fasting": "recommended",
+      "leadDays": 1
+    },
+    "order": 4,
+    "status": "published",
+    "verified": true,
+    "revision": 1,
+    "updatedAt": "2026-10-06T15:00:00.000Z"
+  },
+  {
+    "id": "event-dhul-hijjah",
+    "kind": "event",
+    "translations": {
+      "uz-Latn": {
+        "title": "Zulhijjaning dastlabki o‘n kuni",
+        "body": "Bu kunlarda solih amallarni ko‘paytiring. Dastlabki to‘qqiz kunda nafl ro‘za tavsiya etiladi; 10-kun hayit bo‘lib, ro‘za taqiqlangan.",
+        "transliteration": "",
+        "videoUrl": "",
+        "sourceText": "Abdulloh ibn Abbos. Sahih al-Buxoriy, 969."
+      },
+      "ru": {
+        "title": "Первые десять дней Зуль-хиджи",
+        "body": "Умножайте благие дела в эти дни. В первые девять дней рекомендуется добровольный пост; 10-го, в праздник, пост запрещён.",
+        "transliteration": "",
+        "videoUrl": "",
+        "sourceText": "Абдуллах ибн Аббас. Сахих аль-Бухари, 969."
+      },
+      "en": {
+        "title": "First ten days of Dhul-Hijjah",
+        "body": "Increase righteous deeds during these days. Voluntary fasting is recommended on the first nine days; fasting on the 10th, Eid, is prohibited.",
+        "transliteration": "",
+        "videoUrl": "",
+        "sourceText": "Abdullah ibn Abbas. Sahih al-Bukhari, 969."
+      },
+      "uz-Cyrl": {
+        "title": "Зулҳижжанинг дастлабки ўн куни",
+        "body": "Бу кунларда солиҳ амалларни кўпайтиринг. Дастлабки тўққиз кунда нафл рўза тавсия этилади; 10-кун ҳайит бўлиб, рўза тақиқланган.",
+        "transliteration": "",
+        "videoUrl": "",
+        "sourceText": "Абдуллоҳ ибн Аббос. Саҳиҳ ал-Бухорий, 969."
+      }
+    },
+    "transmitter": "Abdullah ibn Abbas",
+    "collection": "Sahih al-Bukhari",
+    "hadithNumber": "969",
+    "grade": "sahih",
+    "grader": "",
+    "event": {
+      "hijriMonth": 12,
+      "hijriDay": 1,
+      "repeatMonthly": false,
+      "fasting": "none",
+      "leadDays": 1
+    },
+    "order": 5,
+    "status": "published",
+    "verified": true,
+    "revision": 1,
+    "updatedAt": "2026-10-06T15:00:00.000Z"
+  },
+  {
+    "id": "event-arafah",
+    "kind": "event",
+    "translations": {
+      "uz-Latn": {
+        "title": "Arafa kuni",
+        "body": "Haj qilmayotgan kishiga Arafa kuni ro‘za tutish tavsiya etiladi. Hajdagi kishiga bu ro‘za eslatmasi tatbiq etilmaydi.",
+        "transliteration": "",
+        "videoUrl": "",
+        "sourceText": "Abu Qatoda. Sahih Muslim, 1162."
+      },
+      "ru": {
+        "title": "День Арафа",
+        "body": "Пост в день Арафа рекомендуется тем, кто не совершает хадж. Это напоминание о посте не предназначено для паломника, совершающего хадж.",
+        "transliteration": "",
+        "videoUrl": "",
+        "sourceText": "Абу Катада. Сахих Муслим, 1162."
+      },
+      "en": {
+        "title": "Day of Arafah",
+        "body": "Fasting on Arafah is recommended for those not performing Hajj. This fasting reminder is not directed to pilgrims performing Hajj.",
+        "transliteration": "",
+        "videoUrl": "",
+        "sourceText": "Abu Qatadah. Sahih Muslim, 1162."
+      },
+      "uz-Cyrl": {
+        "title": "Арафа куни",
+        "body": "Ҳаж қилмаётган кишига Арафа куни рўза тутиш тавсия этилади. Ҳаждаги кишига бу рўза эслатмаси татбиқ этилмайди.",
+        "transliteration": "",
+        "videoUrl": "",
+        "sourceText": "Абу Қатода. Саҳиҳ Муслим, 1162."
+      }
+    },
+    "transmitter": "Abu Qatadah",
+    "collection": "Sahih Muslim",
+    "hadithNumber": "1162",
+    "grade": "sahih",
+    "grader": "",
+    "event": {
+      "hijriMonth": 12,
+      "hijriDay": 9,
+      "repeatMonthly": false,
+      "fasting": "recommended",
+      "leadDays": 1
+    },
+    "order": 6,
+    "status": "published",
+    "verified": true,
+    "revision": 1,
+    "updatedAt": "2026-10-06T15:00:00.000Z"
+  },
+  {
+    "id": "event-tashriq",
+    "kind": "event",
+    "translations": {
+      "uz-Latn": {
+        "title": "Tashriq kunlari: 11–13 Zulhijja",
+        "body": "Bu uch kun yeb-ichish va Allohni zikr qilish kunlaridir. Nafl ro‘za tutilmaydi, jumladan 13-kuni ham. Qurbonlik topa olmagan tamattu’ yoki qiron hajidagi kishilar uchun alohida istisno bor.",
+        "transliteration": "",
+        "videoUrl": "",
+        "sourceText": "Nubaysha al-Huzaliy; Oisha; Abdulloh ibn Umar. Sahih Muslim; Sahih al-Buxoriy, 1141; 1998."
+      },
+      "ru": {
+        "title": "Дни ташрика: 11–13 Зуль-хиджи",
+        "body": "Это три дня еды, питья и поминания Аллаха. Добровольный пост запрещён, включая 13-е число. Есть отдельное исключение для паломников таматту или кыран, не имеющих возможности принести жертву.",
+        "transliteration": "",
+        "videoUrl": "",
+        "sourceText": "Нубайша аль-Хузали; Аиша; Абдуллах ибн Умар. Сахих Муслим; Сахих аль-Бухари, 1141; 1998."
+      },
+      "en": {
+        "title": "Days of Tashriq: 11–13 Dhul-Hijjah",
+        "body": "These are three days of eating, drinking and remembering Allah. Voluntary fasting is prohibited, including on the 13th. A specific exception applies to tamattu or qiran pilgrims unable to obtain a sacrificial animal.",
+        "transliteration": "",
+        "videoUrl": "",
+        "sourceText": "Nubayshah al-Hudhali; Aishah; Abdullah ibn Umar. Sahih Muslim; Sahih al-Bukhari, 1141; 1998."
+      },
+      "uz-Cyrl": {
+        "title": "Ташриқ кунлари: 11–13 Зулҳижжа",
+        "body": "Бу уч кун еб-ичиш ва Аллоҳни зикр қилиш кунларидир. Нафл рўза тутилмайди, жумладан 13-куни ҳам. Қурбонлик топа олмаган таматту’ ёки қирон ҳажидаги кишилар учун алоҳида истисно бор.",
+        "transliteration": "",
+        "videoUrl": "",
+        "sourceText": "Нубайша ал-Ҳузалий; Оиша; Абдуллоҳ ибн Умар. Саҳиҳ Муслим; Саҳиҳ ал-Бухорий, 1141; 1998."
+      }
+    },
+    "transmitter": "Nubayshah al-Hudhali; Aishah; Abdullah ibn Umar",
+    "collection": "Sahih Muslim; Sahih al-Bukhari",
+    "hadithNumber": "1141; 1998",
+    "grade": "sahih",
+    "grader": "",
+    "event": {
+      "hijriMonth": 12,
+      "hijriDay": 11,
+      "repeatMonthly": false,
+      "fasting": "none",
+      "leadDays": 1
+    },
+    "order": 7,
+    "status": "published",
+    "verified": true,
+    "revision": 1,
+    "updatedAt": "2026-10-06T15:00:00.000Z"
+  },
+  {
+    "id": "event-muharram",
+    "kind": "event",
+    "translations": {
+      "uz-Latn": {
+        "title": "Muharram oyida nafl ro‘za",
+        "body": "Muharram oyida nafl ro‘zani ko‘paytirish fazilatli. Bu oy davomiga oid eslatma; 1-Muharram alohida bayram yoki maxsus ro‘za kuni sifatida belgilanmaydi.",
+        "transliteration": "",
+        "videoUrl": "",
+        "sourceText": "Abu Hurayra. Sahih Muslim, 1163a."
+      },
+      "ru": {
+        "title": "Добровольный пост в Мухарраме",
+        "body": "В Мухарраме желательно больше добровольно поститься. Это напоминание о месяце; 1 Мухаррама не выделяется как отдельный праздник или особый день поста.",
+        "transliteration": "",
+        "videoUrl": "",
+        "sourceText": "Абу Хурайра. Сахих Муслим, 1163a."
+      },
+      "en": {
+        "title": "Voluntary fasting in Muharram",
+        "body": "Increase voluntary fasting in Muharram. This is a reminder about the month; 1 Muharram is not designated as a separate festival or a special fast day.",
+        "transliteration": "",
+        "videoUrl": "",
+        "sourceText": "Abu Hurayrah. Sahih Muslim, 1163a."
+      },
+      "uz-Cyrl": {
+        "title": "Муҳаррам ойида нафл рўза",
+        "body": "Муҳаррам ойида нафл рўзани кўпайтириш фазилатли. Бу ой давомига оид эслатма; 1-Муҳаррам алоҳида байрам ёки махсус рўза куни сифатида белгиланмайди.",
+        "transliteration": "",
+        "videoUrl": "",
+        "sourceText": "Абу Ҳурайра. Саҳиҳ Муслим, 1163а."
+      }
+    },
+    "transmitter": "Abu Hurayrah",
+    "collection": "Sahih Muslim",
+    "hadithNumber": "1163a",
+    "grade": "sahih",
+    "grader": "",
+    "event": {
+      "hijriMonth": 1,
+      "hijriDay": 1,
+      "repeatMonthly": false,
+      "fasting": "none",
+      "leadDays": 1
+    },
+    "order": 8,
+    "status": "published",
+    "verified": true,
+    "revision": 1,
+    "updatedAt": "2026-10-06T15:00:00.000Z"
+  },
+  {
+    "id": "event-tasua",
+    "kind": "event",
+    "translations": {
+      "uz-Latn": {
+        "title": "Ashurodan oldingi kun: 9-Muharram",
+        "body": "Ashuroning 10-kuniga qo‘shib 9-Muharramda ham ro‘za tutish tavsiya etiladi.",
+        "transliteration": "",
+        "videoUrl": "",
+        "sourceText": "Abdulloh ibn Abbos. Sahih Muslim, 1134a."
+      },
+      "ru": {
+        "title": "Перед Ашурой: 9 Мухаррама",
+        "body": "Рекомендуется поститься 9 Мухаррама вместе с 10-м — днём Ашура.",
+        "transliteration": "",
+        "videoUrl": "",
+        "sourceText": "Абдуллах ибн Аббас. Сахих Муслим, 1134a."
+      },
+      "en": {
+        "title": "Before Ashura: 9 Muharram",
+        "body": "It is recommended to fast the 9th of Muharram along with the 10th, Ashura.",
+        "transliteration": "",
+        "videoUrl": "",
+        "sourceText": "Abdullah ibn Abbas. Sahih Muslim, 1134a."
+      },
+      "uz-Cyrl": {
+        "title": "Ашуродан олдинги кун: 9-Муҳаррам",
+        "body": "Ашуронинг 10-кунига қўшиб 9-Муҳаррамда ҳам рўза тутиш тавсия этилади.",
+        "transliteration": "",
+        "videoUrl": "",
+        "sourceText": "Абдуллоҳ ибн Аббос. Саҳиҳ Муслим, 1134а."
+      }
+    },
+    "transmitter": "Abdullah ibn Abbas",
+    "collection": "Sahih Muslim",
+    "hadithNumber": "1134a",
+    "grade": "sahih",
+    "grader": "",
+    "event": {
+      "hijriMonth": 1,
+      "hijriDay": 9,
+      "repeatMonthly": false,
+      "fasting": "recommended",
+      "leadDays": 1
+    },
+    "order": 9,
+    "status": "published",
+    "verified": true,
+    "revision": 1,
+    "updatedAt": "2026-10-06T15:00:00.000Z"
+  },
+  {
+    "id": "event-ashura",
+    "kind": "event",
+    "translations": {
+      "uz-Latn": {
+        "title": "Ashuro: 10-Muharram",
+        "body": "Ashuro kuni nafl ro‘za tavsiya etiladi. Imkon bo‘lsa, oldingi 9-kunni ham qo‘shing.",
+        "transliteration": "",
+        "videoUrl": "",
+        "sourceText": "Abu Qatoda. Sahih Muslim, 1162."
+      },
+      "ru": {
+        "title": "Ашура: 10 Мухаррама",
+        "body": "В день Ашура рекомендуется добровольный пост. По возможности добавьте предшествующий день — 9 Мухаррама.",
+        "transliteration": "",
+        "videoUrl": "",
+        "sourceText": "Абу Катада. Сахих Муслим, 1162."
+      },
+      "en": {
+        "title": "Ashura: 10 Muharram",
+        "body": "Voluntary fasting on Ashura is recommended. Where possible, also fast the preceding day, 9 Muharram.",
+        "transliteration": "",
+        "videoUrl": "",
+        "sourceText": "Abu Qatadah. Sahih Muslim, 1162."
+      },
+      "uz-Cyrl": {
+        "title": "Ашуро: 10-Муҳаррам",
+        "body": "Ашуро куни нафл рўза тавсия этилади. Имкон бўлса, олдинги 9-кунни ҳам қўшинг.",
+        "transliteration": "",
+        "videoUrl": "",
+        "sourceText": "Абу Қатода. Саҳиҳ Муслим, 1162."
+      }
+    },
+    "transmitter": "Abu Qatadah",
+    "collection": "Sahih Muslim",
+    "hadithNumber": "1162",
+    "grade": "sahih",
+    "grader": "",
+    "event": {
+      "hijriMonth": 1,
+      "hijriDay": 10,
+      "repeatMonthly": false,
+      "fasting": "recommended",
+      "leadDays": 1
+    },
+    "order": 10,
+    "status": "published",
+    "verified": true,
+    "revision": 1,
+    "updatedAt": "2026-10-06T15:00:00.000Z"
+  },
+  {
+    "id": "event-white-13",
+    "kind": "event",
+    "translations": {
+      "uz-Latn": {
+        "title": "Oq kunlar: oyning 13-kuni",
+        "body": "Har hijriy oyning 13, 14 va 15-kunlarida nafl ro‘za tavsiya etiladi. Ramazonda farz ro‘za tutiladi. 13-Zulhijja tashriq kuni bo‘lgani uchun nafl ro‘za tutilmaydi.",
+        "transliteration": "",
+        "videoUrl": "",
+        "sourceText": "Abu Zarr. Jomi at-Termiziy; Sunan an-Nasoiy, 761; 2424. Al-Alboniy: sahih."
+      },
+      "ru": {
+        "title": "Белые дни: 13-е число",
+        "body": "Добровольный пост рекомендуется 13, 14 и 15-го числа лунного месяца. В Рамадане пост обязательный. На 13 Зуль-хиджи рекомендация добровольного поста не распространяется: это день ташрика.",
+        "transliteration": "",
+        "videoUrl": "",
+        "sourceText": "Абу Зарр. Джами ат-Тирмизи; Сунан ан-Насаи, 761; 2424. Аль-Альбани: сахих."
+      },
+      "en": {
+        "title": "White days: day 13",
+        "body": "Voluntary fasting is recommended on the 13th, 14th and 15th of a lunar month. Ramadan fasting is obligatory. The recommendation does not apply to 13 Dhul-Hijjah, a day of Tashriq.",
+        "transliteration": "",
+        "videoUrl": "",
+        "sourceText": "Abu Dharr. Jami at-Tirmidhi; Sunan an-Nasai, 761; 2424. Al-Albani: Sahih al-Targhib 1038."
+      },
+      "uz-Cyrl": {
+        "title": "Оқ кунлар: ойнинг 13-куни",
+        "body": "Ҳар ҳижрий ойнинг 13, 14 ва 15-кунларида нафл рўза тавсия этилади. Рамазонда фарз рўза тутилади. 13-Зулҳижжа ташриқ куни бўлгани учун нафл рўза тутилмайди.",
+        "transliteration": "",
+        "videoUrl": "",
+        "sourceText": "Абу Зарр. Жоми ат-Термизий; Сунан ан-Насоий, 761; 2424. Ал-Албоний: саҳиҳ."
+      }
+    },
+    "transmitter": "Abu Dharr",
+    "collection": "Jami at-Tirmidhi; Sunan an-Nasai",
+    "hadithNumber": "761; 2424",
+    "grade": "sahih",
+    "grader": "Al-Albani: Sahih al-Targhib 1038",
+    "event": {
+      "hijriMonth": 1,
+      "hijriDay": 13,
+      "repeatMonthly": true,
+      "fasting": "recommended",
+      "leadDays": 1
+    },
+    "order": 11,
+    "status": "published",
+    "verified": true,
+    "revision": 1,
+    "updatedAt": "2026-10-06T15:00:00.000Z"
+  },
+  {
+    "id": "event-white-14",
+    "kind": "event",
+    "translations": {
+      "uz-Latn": {
+        "title": "Oq kunlar: oyning 14-kuni",
+        "body": "Har hijriy oyning 13, 14 va 15-kunlarida nafl ro‘za tavsiya etiladi. Ramazonda farz ro‘za tutiladi. 13-Zulhijja tashriq kuni bo‘lgani uchun nafl ro‘za tutilmaydi.",
+        "transliteration": "",
+        "videoUrl": "",
+        "sourceText": "Abu Zarr. Jomi at-Termiziy; Sunan an-Nasoiy, 761; 2424. Al-Alboniy: sahih."
+      },
+      "ru": {
+        "title": "Белые дни: 14-е число",
+        "body": "Добровольный пост рекомендуется 13, 14 и 15-го числа лунного месяца. В Рамадане пост обязательный. На 13 Зуль-хиджи рекомендация добровольного поста не распространяется: это день ташрика.",
+        "transliteration": "",
+        "videoUrl": "",
+        "sourceText": "Абу Зарр. Джами ат-Тирмизи; Сунан ан-Насаи, 761; 2424. Аль-Альбани: сахих."
+      },
+      "en": {
+        "title": "White days: day 14",
+        "body": "Voluntary fasting is recommended on the 13th, 14th and 15th of a lunar month. Ramadan fasting is obligatory. The recommendation does not apply to 13 Dhul-Hijjah, a day of Tashriq.",
+        "transliteration": "",
+        "videoUrl": "",
+        "sourceText": "Abu Dharr. Jami at-Tirmidhi; Sunan an-Nasai, 761; 2424. Al-Albani: Sahih al-Targhib 1038."
+      },
+      "uz-Cyrl": {
+        "title": "Оқ кунлар: ойнинг 14-куни",
+        "body": "Ҳар ҳижрий ойнинг 13, 14 ва 15-кунларида нафл рўза тавсия этилади. Рамазонда фарз рўза тутилади. 13-Зулҳижжа ташриқ куни бўлгани учун нафл рўза тутилмайди.",
+        "transliteration": "",
+        "videoUrl": "",
+        "sourceText": "Абу Зарр. Жоми ат-Термизий; Сунан ан-Насоий, 761; 2424. Ал-Албоний: саҳиҳ."
+      }
+    },
+    "transmitter": "Abu Dharr",
+    "collection": "Jami at-Tirmidhi; Sunan an-Nasai",
+    "hadithNumber": "761; 2424",
+    "grade": "sahih",
+    "grader": "Al-Albani: Sahih al-Targhib 1038",
+    "event": {
+      "hijriMonth": 1,
+      "hijriDay": 14,
+      "repeatMonthly": true,
+      "fasting": "recommended",
+      "leadDays": 1
+    },
+    "order": 12,
+    "status": "published",
+    "verified": true,
+    "revision": 1,
+    "updatedAt": "2026-10-06T15:00:00.000Z"
+  },
+  {
+    "id": "event-white-15",
+    "kind": "event",
+    "translations": {
+      "uz-Latn": {
+        "title": "Oq kunlar: oyning 15-kuni",
+        "body": "Har hijriy oyning 13, 14 va 15-kunlarida nafl ro‘za tavsiya etiladi. Ramazonda farz ro‘za tutiladi. 13-Zulhijja tashriq kuni bo‘lgani uchun nafl ro‘za tutilmaydi.",
+        "transliteration": "",
+        "videoUrl": "",
+        "sourceText": "Abu Zarr. Jomi at-Termiziy; Sunan an-Nasoiy, 761; 2424. Al-Alboniy: sahih."
+      },
+      "ru": {
+        "title": "Белые дни: 15-е число",
+        "body": "Добровольный пост рекомендуется 13, 14 и 15-го числа лунного месяца. В Рамадане пост обязательный. На 13 Зуль-хиджи рекомендация добровольного поста не распространяется: это день ташрика.",
+        "transliteration": "",
+        "videoUrl": "",
+        "sourceText": "Абу Зарр. Джами ат-Тирмизи; Сунан ан-Насаи, 761; 2424. Аль-Альбани: сахих."
+      },
+      "en": {
+        "title": "White days: day 15",
+        "body": "Voluntary fasting is recommended on the 13th, 14th and 15th of a lunar month. Ramadan fasting is obligatory. The recommendation does not apply to 13 Dhul-Hijjah, a day of Tashriq.",
+        "transliteration": "",
+        "videoUrl": "",
+        "sourceText": "Abu Dharr. Jami at-Tirmidhi; Sunan an-Nasai, 761; 2424. Al-Albani: Sahih al-Targhib 1038."
+      },
+      "uz-Cyrl": {
+        "title": "Оқ кунлар: ойнинг 15-куни",
+        "body": "Ҳар ҳижрий ойнинг 13, 14 ва 15-кунларида нафл рўза тавсия этилади. Рамазонда фарз рўза тутилади. 13-Зулҳижжа ташриқ куни бўлгани учун нафл рўза тутилмайди.",
+        "transliteration": "",
+        "videoUrl": "",
+        "sourceText": "Абу Зарр. Жоми ат-Термизий; Сунан ан-Насоий, 761; 2424. Ал-Албоний: саҳиҳ."
+      }
+    },
+    "transmitter": "Abu Dharr",
+    "collection": "Jami at-Tirmidhi; Sunan an-Nasai",
+    "hadithNumber": "761; 2424",
+    "grade": "sahih",
+    "grader": "Al-Albani: Sahih al-Targhib 1038",
+    "event": {
+      "hijriMonth": 1,
+      "hijriDay": 15,
+      "repeatMonthly": true,
+      "fasting": "recommended",
+      "leadDays": 1
+    },
+    "order": 13,
+    "status": "published",
+    "verified": true,
+    "revision": 1,
+    "updatedAt": "2026-10-06T15:00:00.000Z"
+  },
+  {
+    "id": "event-weekly-1",
+    "kind": "event",
+    "translations": {
+      "uz-Latn": {
+        "title": "Dushanba ro‘zasi",
+        "body": "Bu haftalik nafl ro‘za eslatmasi, bayram emas. Ramazon, hayit va tashriq kunlariga to‘g‘ri kelsa, nafl ro‘za eslatmasi yuborilmaydi.",
+        "transliteration": "",
+        "videoUrl": "",
+        "sourceText": "Oisha. Jomi at-Termiziy; Sunan an-Nasoiy; Sunan Ibn Moja, 745; 2361; 1739. Al-Alboniy: sahih."
+      },
+      "ru": {
+        "title": "Пост по понедельникам",
+        "body": "Это еженедельное напоминание о добровольном посте, не праздник. В Рамадан, праздники и дни ташрика напоминание о добровольном посте не отправляется.",
+        "transliteration": "",
+        "videoUrl": "",
+        "sourceText": "Аиша. Джами ат-Тирмизи; Сунан ан-Насаи; Сунан Ибн Маджа, 745; 2361; 1739. Аль-Альбани: сахих."
+      },
+      "en": {
+        "title": "Monday fasting",
+        "body": "This is a weekly voluntary fasting reminder, not a festival. No voluntary fasting reminder is sent during Ramadan, on Eid days or during Tashriq.",
+        "transliteration": "",
+        "videoUrl": "",
+        "sourceText": "Aishah. Jami at-Tirmidhi; Sunan an-Nasai; Sunan Ibn Majah, 745; 2361; 1739. Al-Albani: Sahih al-Targhib 1044."
+      },
+      "uz-Cyrl": {
+        "title": "Душанба рўзаси",
+        "body": "Бу ҳафталик нафл рўза эслатмаси, байрам эмас. Рамазон, ҳайит ва ташриқ кунларига тўғри келса, нафл рўза эслатмаси юборилмайди.",
+        "transliteration": "",
+        "videoUrl": "",
+        "sourceText": "Оиша. Жоми ат-Термизий; Сунан ан-Насоий; Сунан Ибн Можа, 745; 2361; 1739. Ал-Албоний: саҳиҳ."
+      }
+    },
+    "transmitter": "Aishah",
+    "collection": "Jami at-Tirmidhi; Sunan an-Nasai; Sunan Ibn Majah",
+    "hadithNumber": "745; 2361; 1739",
+    "grade": "sahih",
+    "grader": "Al-Albani: Sahih al-Targhib 1044",
+    "event": {
+      "hijriMonth": 9,
+      "hijriDay": 1,
+      "repeatMonthly": false,
+      "fasting": "recommended",
+      "leadDays": 1,
+      "weekdays": [
+        1
+      ]
+    },
+    "order": 14,
+    "status": "published",
+    "verified": true,
+    "revision": 1,
+    "updatedAt": "2026-10-06T15:00:00.000Z"
+  },
+  {
+    "id": "event-weekly-4",
+    "kind": "event",
+    "translations": {
+      "uz-Latn": {
+        "title": "Payshanba ro‘zasi",
+        "body": "Bu haftalik nafl ro‘za eslatmasi, bayram emas. Ramazon, hayit va tashriq kunlariga to‘g‘ri kelsa, nafl ro‘za eslatmasi yuborilmaydi.",
+        "transliteration": "",
+        "videoUrl": "",
+        "sourceText": "Oisha. Jomi at-Termiziy; Sunan an-Nasoiy; Sunan Ibn Moja, 745; 2361; 1739. Al-Alboniy: sahih."
+      },
+      "ru": {
+        "title": "Пост по четвергам",
+        "body": "Это еженедельное напоминание о добровольном посте, не праздник. В Рамадан, праздники и дни ташрика напоминание о добровольном посте не отправляется.",
+        "transliteration": "",
+        "videoUrl": "",
+        "sourceText": "Аиша. Джами ат-Тирмизи; Сунан ан-Насаи; Сунан Ибн Маджа, 745; 2361; 1739. Аль-Альбани: сахих."
+      },
+      "en": {
+        "title": "Thursday fasting",
+        "body": "This is a weekly voluntary fasting reminder, not a festival. No voluntary fasting reminder is sent during Ramadan, on Eid days or during Tashriq.",
+        "transliteration": "",
+        "videoUrl": "",
+        "sourceText": "Aishah. Jami at-Tirmidhi; Sunan an-Nasai; Sunan Ibn Majah, 745; 2361; 1739. Al-Albani: Sahih al-Targhib 1044."
+      },
+      "uz-Cyrl": {
+        "title": "Пайшанба рўзаси",
+        "body": "Бу ҳафталик нафл рўза эслатмаси, байрам эмас. Рамазон, ҳайит ва ташриқ кунларига тўғри келса, нафл рўза эслатмаси юборилмайди.",
+        "transliteration": "",
+        "videoUrl": "",
+        "sourceText": "Оиша. Жоми ат-Термизий; Сунан ан-Насоий; Сунан Ибн Можа, 745; 2361; 1739. Ал-Албоний: саҳиҳ."
+      }
+    },
+    "transmitter": "Aishah",
+    "collection": "Jami at-Tirmidhi; Sunan an-Nasai; Sunan Ibn Majah",
+    "hadithNumber": "745; 2361; 1739",
+    "grade": "sahih",
+    "grader": "Al-Albani: Sahih al-Targhib 1044",
+    "event": {
+      "hijriMonth": 9,
+      "hijriDay": 1,
+      "repeatMonthly": false,
+      "fasting": "recommended",
+      "leadDays": 1,
+      "weekdays": [
+        4
+      ]
+    },
+    "order": 15,
+    "status": "published",
+    "verified": true,
+    "revision": 1,
+    "updatedAt": "2026-10-06T15:00:00.000Z"
+  },
+  {
+    "id": "evening-ayat-kursi",
+    "kind": "dhikr",
+    "categoryId": "evening",
+    "translations": {
+      "uz-Latn": {
+        "title": "Oyatul Kursiy",
+        "body": "Quvilgan shaytondan Allohga panoh so‘rayman.\nAlloh — Undan o‘zga ibodatga haqli iloh yo‘q. U tirik, barcha mavjudotni tutib turuvchidir. Uni mudroq ham, uyqu ham tutmaydi. Osmonlaru yerdagi barcha narsa Unikidir. Uning huzurida Uning iznisiz kim shafoat qila oladi? U ularning oldidagi va ortidagi narsalarni biladi. Ular Uning ilmidan faqat U istagan narsanigina bila oladilar. Uning Kursiysi osmonlar va yerni qamrab olgan. Ularni saqlash Uni toliqtirmaydi. U yuksak va buyukdir.",
+        "transliteration": "A‘uzu billahi minash-shaytonir-rojiym.\nAllohu la ilaha illa huval-Hayyul-Qoyyum. La ta’xuzuhu sinatun va la navm. Lahu ma fis-samavati va ma fil-ard. Man zallaziy yashfa‘u ‘indahu illa bi-iznih. Ya‘lamu ma bayna aydiyhim va ma xolfahum. Va la yuhiytuna bi-shay’in min ‘ilmihi illa bima sha’. Vasi‘a kursiyyuhus-samavati val-ard. Va la ya’uduhu hifzuhuma va huval-‘Aliyyul-‘Aziym.",
+        "videoUrl": "",
+        "sourceText": "Qur’on, 2:255. Ubay ibn Ka‘b rivoyati: Ibn Hibbon, 784; Al-Alboniy, Sahih at-targ‘ib, 662 — sahih. Tong va kechga bog‘lash borasida baho farqi bor: as-Silsila as-sahiha, 7/743 da ushbu qo‘shimcha shoz deb baholangan. Hisnul muslim, 27-bob, №75."
+      },
+      "uz-Cyrl": {
+        "title": "Оятул Курсий",
+        "body": "Қувилган шайтондан Аллоҳга паноҳ сўрайман.\nАллоҳ — Ундан ўзга ибодатга ҳақли илоҳ йўқ. У тирик, барча мавжудотни тутиб турувчидир. Уни мудроқ ҳам, уйқу ҳам тутмайди. Осмонлару ердаги барча нарса Уникидир. Унинг ҳузурида Унинг изнисиз ким шафоат қила олади? У уларнинг олдидаги ва ортидаги нарсаларни билади. Улар Унинг илмидан фақат У истаган нарсанигина била оладилар. Унинг Курсийси осмонлар ва ерни қамраб олган. Уларни сақлаш Уни толиқтирмайди. У юксак ва буюкдир.",
+        "transliteration": "Аъузу биллаҳи минаш-шайтонир-рожийм.\nАллоҳу ла илаҳа илла ҳувал-Ҳайюл-Қойюм. Ла та’хузуҳу синатун ва ла навм. Лаҳу ма фис-самавати ва ма фил-ард. Ман заллазий яшфаъу ‘индаҳу илла би-изниҳ. Яъламу ма байна айдийҳим ва ма холфаҳум. Ва ла юҳийтуна би-шай’ин мин ‘илмиҳи илла бима ша’. Васиъа курсийюҳус-самавати вал-ард. Ва ла я’удуҳу ҳифзуҳума ва ҳувал-‘Алийюл-‘Азийм.",
+        "videoUrl": "",
+        "sourceText": "Қур’он, 2:255. Убай ибн Каъб ривояти: Ибн Ҳиббон, 784; Ал-Албоний, Саҳиҳ ат-тарғиб, 662 — саҳиҳ. Тонг ва кечга боғлаш борасида баҳо фарқи бор: ас-Силсила ас-саҳиҳа, 7/743 да ушбу қўшимча шоз деб баҳоланган. Ҳиснул муслим, 27-боб, №75."
+      },
+      "ru": {
+        "title": "Аят аль-Курси",
+        "body": "Прибегаю к защите Аллаха от изгнанного шайтана.\nАллах — нет достойного поклонения, кроме Него, Живого, Вседержителя. Его не охватывают ни дремота, ни сон. Ему принадлежит всё на небесах и на земле. Кто заступится перед Ним без Его разрешения? Он знает то, что перед ними, и то, что позади них. Они постигают из Его знания лишь то, что Он пожелает. Его Престол — Курси — охватывает небеса и землю, и сохранение их не утомляет Его. Он — Всевышний, Великий.",
+        "transliteration": "А‘узу билляхи мина-ш-шайтани-р-раджим.\nАллаху ля иляха илля Хува-ль-Хаййу-ль-Каййум. Ля та’хузуху синатун ва ля наум. Ляху ма фи-с-самавати ва ма филь-ард. Ман за-ллязи йашфа‘у ‘индаху илля би-изних. Йа‘ляму ма байна айдихим ва ма хальфахум. Ва ля йухитуна би-шай’ин мин ‘ильмихи илля би-ма ша’. Васи‘а курсиййуху-с-самавати валь-ард. Ва ля йа’удуху хифзухума ва Хува-ль-‘Алиййу-ль-‘Азым.",
+        "videoUrl": "",
+        "sourceText": "Коран, 2:255. Передал Убайй ибн Кааб: Ибн Хиббан, 784; аль-Альбани, «Сахих ат-таргиб», 662 — сахих. Оценка привязки ко времени расходится: в «ас-Сильсиля ас-сахиха», 7/743, это дополнение названо отклоняющимся (шазз). «Крепость мусульманина», глава 27, №75."
+      },
+      "en": {
+        "title": "Ayat al-Kursi",
+        "body": "I seek Allah’s protection from the expelled Satan.\nAllah alone is worthy of worship, the Living One who sustains all existence. Neither slumber nor sleep overtakes Him. Everything in the heavens and on earth belongs to Him. Who can intercede before Him unless He permits it? He knows what lies before them and behind them. They grasp nothing of His knowledge except what He wills. His Kursi extends over the heavens and earth; preserving them does not weary Him. He is the Most High, the Magnificent.",
+        "transliteration": "Aʿūdhu bi-llāhi mina-sh-shayṭāni-r-rajīm.\nAllāhu lā ilāha illā huwa-l-Ḥayyu-l-Qayyūm. Lā taʾkhudhuhu sinatun wa lā nawm. Lahu mā fi-s-samāwāti wa mā fi-l-arḍ. Man dhā-lladhī yashfaʿu ʿindahu illā bi-idhnih. Yaʿlamu mā bayna aydīhim wa mā khalfahum. Wa lā yuḥīṭūna bi-shayʾin min ʿilmihi illā bi-mā shāʾ. Wasiʿa kursiyyuhu-s-samāwāti wa-l-arḍ. Wa lā yaʾūduhu ḥifẓuhumā wa huwa-l-ʿAliyyu-l-ʿAẓīm.",
+        "videoUrl": "",
+        "sourceText": "Quran 2:255. Ubayy ibn Kab: Ibn Hibban 784; al-Albani, Sahih al-Targhib 662 — sahih. The time-specific addition has differing assessments: al-Silsilah al-Sahihah 7/743 calls it anomalous (shadh). Hisn al-Muslim, chapter 27, no. 75."
+      }
+    },
+    "arabic": "أَعُوذُ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيمِ\nاللَّهُ لَا إِلَٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ لَا تَأْخُذُهُ سِنَةٌ وَلَا نَوْمٌ لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ مَنْ ذَا الَّذِي يَشْفَعُ عِنْدَهُ إِلَّا بِإِذْنِهِ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلَا يُحِيطُونَ بِشَيْءٍ مِنْ عِلْمِهِ إِلَّا بِمَا شَاءَ وَسِعَ كُرْسِيُّهُ السَّمَاوَاتِ وَالْأَرْضَ وَلَا يَئُودُهُ حِفْظُهُمَا وَهُوَ الْعَلِيُّ الْعَظِيمُ",
+    "transmitter": "Ubayy ibn Kab",
+    "collection": "Quran",
+    "hadithNumber": "2:255",
+    "grade": "quran",
+    "grader": "",
+    "repetitions": 1,
+    "order": 750,
+    "status": "published",
+    "verified": true,
+    "imageUrl": "",
+    "event": null,
+    "updatedAt": "2026-10-09T04:00:00.000Z",
+    "revision": 2
+  },
+  {
+    "id": "evening-ikhlas",
+    "kind": "dhikr",
+    "categoryId": "evening",
+    "translations": {
+      "uz-Latn": {
+        "title": "Ixlos surasi",
+        "body": "Mehribon va rahmli Alloh nomi bilan.\nAyting: U Alloh yagonadir. Alloh behojatdir, barcha Unga muhtojdir. U tug‘magan va tug‘ilmagan. Unga teng hech kim yo‘q.",
+        "transliteration": "Bismillahir-rohmanir-rohiym.\nQul huvallohu ahad. Allohus-somad. Lam yalid va lam yulad. Va lam yakul-lahu kufuvan ahad.",
+        "videoUrl": "",
+        "sourceText": "Qur’on, 112:1–4. 3 marta: Abdulloh ibn Xubayb, at-Termiziy, 3575. An-Navaviy: sahih. Hisnul muslim, 27-bob, №76."
+      },
+      "uz-Cyrl": {
+        "title": "Ихлос сураси",
+        "body": "Меҳрибон ва раҳмли Аллоҳ номи билан.\nАйтинг: У Аллоҳ ягонадир. Аллоҳ беҳожатдир, барча Унга муҳтождир. У туғмаган ва туғилмаган. Унга тенг ҳеч ким йўқ.",
+        "transliteration": "Бисмиллаҳир-роҳманир-роҳийм.\nҚул ҳуваллоҳу аҳад. Аллоҳус-сомад. Лам ялид ва лам юлад. Ва лам якул-лаҳу куфуван аҳад.",
+        "videoUrl": "",
+        "sourceText": "Қур’он, 112:1–4. 3 марта: Абдуллоҳ ибн Хубайб, ат-Термизий, 3575. Ан-Нававий: саҳиҳ. Ҳиснул муслим, 27-боб, №76."
+      },
+      "ru": {
+        "title": "Сура «Аль-Ихляс»",
+        "body": "С именем Аллаха, Милостивого, Милующего.\nСкажи: «Он — Аллах, Единственный. Аллах — Самодостаточный, в Котором нуждаются все. Он не родил и не был рождён, и нет никого равного Ему».",
+        "transliteration": "Бисмилляхи-р-рахмани-р-рахим.\nКуль Хува-Ллаху ахад. Аллаху-с-самад. Лям ялид ва лям юляд. Ва лям якуль-ляху куфуван ахад.",
+        "videoUrl": "",
+        "sourceText": "Коран, 112:1–4. Трижды: Абдуллах ибн Хубайб, ат-Тирмизи, 3575. Ан-Навави: сахих. «Крепость мусульманина», глава 27, №76."
+      },
+      "en": {
+        "title": "Surah Al-Ikhlas",
+        "body": "In Allah’s name, the Merciful, the Compassionate.\nSay: He is Allah, the One. Allah is free of need, and all depend on Him. He neither begets nor was born. No one is equal to Him.",
+        "transliteration": "Bismi-llāhi-r-Raḥmāni-r-Raḥīm.\nQul huwa-llāhu aḥad. Allāhu-ṣ-ṣamad. Lam yalid wa lam yūlad. Wa lam yakul-lahu kufuwan aḥad.",
+        "videoUrl": "",
+        "sourceText": "Quran, 112:1–4. Three times: Abdullah ibn Khubayb, at-Tirmidhi, 3575. An-Nawawi: sahih. Hisn al-Muslim, chapter 27, no. 76."
+      }
+    },
+    "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ\nقُلْ هُوَ اللَّهُ أَحَدٌ ۝ اللَّهُ الصَّمَدُ ۝ لَمْ يَلِدْ وَلَمْ يُولَدْ ۝ وَلَمْ يَكُنْ لَهُ كُفُوًا أَحَدٌ",
+    "transmitter": "Abdullah ibn Khubayb",
+    "collection": "Quran",
+    "hadithNumber": "112:1–4",
+    "grade": "quran",
+    "grader": "",
+    "repetitions": 3,
+    "order": 760,
+    "status": "published",
+    "verified": true,
+    "imageUrl": "",
+    "event": null,
+    "updatedAt": "2026-10-09T04:00:00.000Z",
+    "revision": 5
+  },
+  {
+    "id": "evening-falaq",
+    "kind": "dhikr",
+    "categoryId": "evening",
+    "translations": {
+      "uz-Latn": {
+        "title": "Falaq surasi",
+        "body": "Mehribon va rahmli Alloh nomi bilan.\nAyting: Tong Rabbidan panoh so‘rayman: U yaratgan narsalarning yomonligidan, zulmat bosgan tunning yomonligidan, tugunlarga dam soluvchilarning yomonligidan va hasad qilgan hasadgo‘yning yomonligidan.",
+        "transliteration": "Bismillahir-rohmanir-rohiym.\nQul a‘uzu birobbil-falaq. Min sharri ma xolaq. Va min sharri g‘osiqin iza vaqob. Va min sharrin-naffasati fil-‘uqod. Va min sharri hasidin iza hasad.",
+        "videoUrl": "",
+        "sourceText": "Qur’on, 113:1–5. 3 marta: Abdulloh ibn Xubayb, at-Termiziy, 3575. An-Navaviy: sahih. Hisnul muslim, 27-bob, №76."
+      },
+      "uz-Cyrl": {
+        "title": "Фалақ сураси",
+        "body": "Меҳрибон ва раҳмли Аллоҳ номи билан.\nАйтинг: Тонг Раббидан паноҳ сўрайман: У яратган нарсаларнинг ёмонлигидан, зулмат босган туннинг ёмонлигидан, тугунларга дам солувчиларнинг ёмонлигидан ва ҳасад қилган ҳасадгўйнинг ёмонлигидан.",
+        "transliteration": "Бисмиллаҳир-роҳманир-роҳийм.\nҚул аъузу бироббил-фалақ. Мин шарри ма холақ. Ва мин шарри ғосиқин иза вақоб. Ва мин шаррин-наффасати фил-‘уқод. Ва мин шарри ҳасидин иза ҳасад.",
+        "videoUrl": "",
+        "sourceText": "Қур’он, 113:1–5. 3 марта: Абдуллоҳ ибн Хубайб, ат-Термизий, 3575. Ан-Нававий: саҳиҳ. Ҳиснул муслим, 27-боб, №76."
+      },
+      "ru": {
+        "title": "Сура «Аль-Фаляк»",
+        "body": "С именем Аллаха, Милостивого, Милующего.\nСкажи: «Прибегаю к защите Господа рассвета от зла того, что Он сотворил, от зла ночи, когда она сгущается, от зла дующих на узлы и от зла завистника, когда он завидует».",
+        "transliteration": "Бисмилляхи-р-рахмани-р-рахим.\nКуль а‘узу би-Рабби-ль-фаляк. Мин шарри ма халяк. Ва мин шарри гасикин иза вакаб. Ва мин шарри-н-наффасати филь-‘укад. Ва мин шарри хасидин иза хасад.",
+        "videoUrl": "",
+        "sourceText": "Коран, 113:1–5. Трижды: Абдуллах ибн Хубайб, ат-Тирмизи, 3575. Ан-Навави: сахих. «Крепость мусульманина», глава 27, №76."
+      },
+      "en": {
+        "title": "Surah Al-Falaq",
+        "body": "In Allah’s name, the Merciful, the Compassionate.\nSay: I seek protection in the Lord of daybreak, from the evil of what He created, from the evil of night as it darkens, from the evil of those who blow on knots, and from the evil of an envier when they envy.",
+        "transliteration": "Bismi-llāhi-r-Raḥmāni-r-Raḥīm.\nQul aʿūdhu bi-rabbi-l-falaq. Min sharri mā khalaq. Wa min sharri ghāsiqin idhā waqab. Wa min sharri-n-naffāthāti fi-l-ʿuqad. Wa min sharri ḥāsidin idhā ḥasad.",
+        "videoUrl": "",
+        "sourceText": "Quran, 113:1–5. Three times: Abdullah ibn Khubayb, at-Tirmidhi, 3575. An-Nawawi: sahih. Hisn al-Muslim, chapter 27, no. 76."
+      }
+    },
+    "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ\nقُلْ أَعُوذُ بِرَبِّ الْفَلَقِ ۝ مِنْ شَرِّ مَا خَلَقَ ۝ وَمِنْ شَرِّ غَاسِقٍ إِذَا وَقَبَ ۝ وَمِنْ شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ ۝ وَمِنْ شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+    "transmitter": "Abdullah ibn Khubayb",
+    "collection": "Quran",
+    "hadithNumber": "113:1–5",
+    "grade": "quran",
+    "grader": "",
+    "repetitions": 3,
+    "order": 761,
+    "status": "published",
+    "verified": true,
+    "imageUrl": "",
+    "event": null,
+    "updatedAt": "2026-10-09T04:00:00.000Z",
+    "revision": 5
+  },
+  {
+    "id": "evening-nas",
+    "kind": "dhikr",
+    "categoryId": "evening",
+    "translations": {
+      "uz-Latn": {
+        "title": "Nos surasi",
+        "body": "Mehribon va rahmli Alloh nomi bilan.\nAyting: Odamlarning Rabbidan, odamlarning Podshohidan, odamlarning Ilohidan panoh so‘rayman: odamlarning ko‘ksiga vasvasa soladigan, yashirinadigan vasvasachining yomonligidan — jinlar va odamlar orasidan bo‘lgan vasvasachilardan.",
+        "transliteration": "Bismillahir-rohmanir-rohiym.\nQul a‘uzu birobbin-nas. Malikin-nas. Ilahin-nas. Min sharril-vasvasil-xonnas. Allaziy yuvasvisu fiy sudurin-nas. Minal-jinnati van-nas.",
+        "videoUrl": "",
+        "sourceText": "Qur’on, 114:1–6. 3 marta: Abdulloh ibn Xubayb, at-Termiziy, 3575. An-Navaviy: sahih. Hisnul muslim, 27-bob, №76."
+      },
+      "uz-Cyrl": {
+        "title": "Нос сураси",
+        "body": "Меҳрибон ва раҳмли Аллоҳ номи билан.\nАйтинг: Одамларнинг Раббидан, одамларнинг Подшоҳидан, одамларнинг Илоҳидан паноҳ сўрайман: одамларнинг кўксига васваса соладиган, яширинадиган васвасачининг ёмонлигидан — жинлар ва одамлар орасидан бўлган васвасачилардан.",
+        "transliteration": "Бисмиллаҳир-роҳманир-роҳийм.\nҚул аъузу бироббин-нас. Маликин-нас. Илаҳин-нас. Мин шаррил-васвасил-хоннас. Аллазий ювасвису фий судурин-нас. Минал-жиннати ван-нас.",
+        "videoUrl": "",
+        "sourceText": "Қур’он, 114:1–6. 3 марта: Абдуллоҳ ибн Хубайб, ат-Термизий, 3575. Ан-Нававий: саҳиҳ. Ҳиснул муслим, 27-боб, №76."
+      },
+      "ru": {
+        "title": "Сура «Ан-Нас»",
+        "body": "С именем Аллаха, Милостивого, Милующего.\nСкажи: «Прибегаю к защите Господа людей, Царя людей, Бога людей от зла наущателя, отступающего и скрывающегося, который нашёптывает в груди людей, из числа джиннов и людей».",
+        "transliteration": "Бисмилляхи-р-рахмани-р-рахим.\nКуль а‘узу би-Рабби-н-нас. Малики-н-нас. Иляхи-н-нас. Мин шарри-ль-васваси-ль-ханнас. Аллязи ювасвису фи судури-н-нас. Мина-ль-джиннати ва-н-нас.",
+        "videoUrl": "",
+        "sourceText": "Коран, 114:1–6. Трижды: Абдуллах ибн Хубайб, ат-Тирмизи, 3575. Ан-Навави: сахих. «Крепость мусульманина», глава 27, №76."
+      },
+      "en": {
+        "title": "Surah An-Nas",
+        "body": "In Allah’s name, the Merciful, the Compassionate.\nSay: I seek protection in the Lord of people, the King of people, the God of people, from the evil of the retreating whisperer who whispers into people’s hearts, from among jinn and people.",
+        "transliteration": "Bismi-llāhi-r-Raḥmāni-r-Raḥīm.\nQul aʿūdhu bi-rabbi-n-nās. Maliki-n-nās. Ilāhi-n-nās. Min sharri-l-waswāsi-l-khannās. Alladhī yuwaswisu fī ṣudūri-n-nās. Mina-l-jinnati wa-n-nās.",
+        "videoUrl": "",
+        "sourceText": "Quran, 114:1–6. Three times: Abdullah ibn Khubayb, at-Tirmidhi, 3575. An-Nawawi: sahih. Hisn al-Muslim, chapter 27, no. 76."
+      }
+    },
+    "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ\nقُلْ أَعُوذُ بِرَبِّ النَّاسِ ۝ مَلِكِ النَّاسِ ۝ إِلَهِ النَّاسِ ۝ مِنْ شَرِّ الْوَسْوَاسِ الْخَنَّاسِ ۝ الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ ۝ مِنَ الْجِنَّةِ وَالنَّاسِ",
+    "transmitter": "Abdullah ibn Khubayb",
+    "collection": "Quran",
+    "hadithNumber": "114:1–6",
+    "grade": "quran",
+    "grader": "",
+    "repetitions": 3,
+    "order": 762,
+    "status": "published",
+    "verified": true,
+    "imageUrl": "",
+    "event": null,
+    "updatedAt": "2026-10-09T04:00:00.000Z",
+    "revision": 5
+  },
+  {
+    "id": "evening-sovereignty",
+    "kind": "dhikr",
+    "categoryId": "evening",
+    "translations": {
+      "uz-Latn": {
+        "title": "Kecha yaxshiligini so‘rash",
+        "body": "Kechga yetdik, barcha hukmronlik Allohnikidir. Allohga hamd bo‘lsin. Yagona Allohdan o‘zga ibodatga haqli iloh yo‘q, Uning sherigi yo‘q. Hukmronlik va hamd Ungadir, U har bir narsaga qodir. Rabbim, Sendan bu kechaning va undan keyingi vaqtning yaxshiligini so‘rayman. Bu kechaning va undan keyingi vaqtning yomonligidan Senga panoh so‘rayman. Rabbim, dangasalik va keksalikning yomonligidan Senga panoh so‘rayman. Rabbim, do‘zax azobi va qabr azobidan Senga panoh so‘rayman.",
+        "transliteration": "Amsayna va amsal-mulku lillahi val-hamdu lillah. La ilaha illallohu vahdahu la shariyka lah. Lahul-mulku va lahul-hamdu va huva ‘ala kulli shay’in qodiyr. Robbi as’aluka xoyro ma fiy hazihil-laylati va xoyro ma ba‘daha. Va a‘uzu bika min sharri ma fiy hazihil-laylati va sharri ma ba‘daha. Robbi a‘uzu bika minal-kasali va su’il-kibar. Robbi a‘uzu bika min ‘azabin fin-nari va ‘azabin fil-qobr.",
+        "videoUrl": "",
+        "sourceText": "Abdulloh ibn Mas’ud. Sahih Muslim, 2723b. Hisnul muslim, 27-bob, №77."
+      },
+      "uz-Cyrl": {
+        "title": "Кеча яхшилигини сўраш",
+        "body": "Кечга етдик, барча ҳукмронлик Аллоҳникидир. Аллоҳга ҳамд бўлсин. Ягона Аллоҳдан ўзга ибодатга ҳақли илоҳ йўқ, Унинг шериги йўқ. Ҳукмронлик ва ҳамд Унгадир, У ҳар бир нарсага қодир. Раббим, Сендан бу кечанинг ва ундан кейинги вақтнинг яхшилигини сўрайман. Бу кечанинг ва ундан кейинги вақтнинг ёмонлигидан Сенга паноҳ сўрайман. Раббим, дангасалик ва кексаликнинг ёмонлигидан Сенга паноҳ сўрайман. Раббим, дўзах азоби ва қабр азобидан Сенга паноҳ сўрайман.",
+        "transliteration": "Амсайна ва амсал-мулку лиллаҳи вал-ҳамду лиллаҳ. Ла илаҳа иллаллоҳу ваҳдаҳу ла шарийка лаҳ. Лаҳул-мулку ва лаҳул-ҳамду ва ҳува ‘ала кулли шай’ин қодийр. Робби ас’алука хойро ма фий ҳазиҳил-лайлати ва хойро ма баъдаҳа. Ва аъузу бика мин шарри ма фий ҳазиҳил-лайлати ва шарри ма баъдаҳа. Робби аъузу бика минал-касали ва су’ил-кибар. Робби аъузу бика мин ‘азабин фин-нари ва ‘азабин фил-қобр.",
+        "videoUrl": "",
+        "sourceText": "Абдуллоҳ ибн Мас’уд. Саҳиҳ Муслим, 2723б. Ҳиснул муслим, 27-боб, №77."
+      },
+      "ru": {
+        "title": "Просьба о благе ночи",
+        "body": "Мы встретили вечер, и вся власть принадлежит Аллаху. Хвала Аллаху! Нет достойного поклонения, кроме одного Аллаха, у Которого нет сотоварища. Ему принадлежат власть и хвала, и Он способен на всякую вещь. Господь мой, прошу у Тебя блага в этой ночи и после неё; прибегаю к Твоей защите от зла в этой ночи и после неё. Господь мой, прибегаю к Твоей защите от лени и тягот старости. Господь мой, прибегаю к Твоей защите от мучений в Огне и в могиле.",
+        "transliteration": "Амсайна ва амса-ль-мульку ли-Лляхи ва-ль-хамду ли-Ллях. Ля иляха илля-Ллаху вахдаху ля шарика лях. Ляху-ль-мульку ва ляху-ль-хамду ва Хува ‘аля кулли шай’ин кадир. Рабби ас’алюка хайра ма фи хазихи-ль-ляйляти ва хайра ма ба‘даха. Ва а‘узу бика мин шарри ма фи хазихи-ль-ляйляти ва шарри ма ба‘даха. Рабби а‘узу бика мина-ль-касали ва су’и-ль-кибар. Рабби а‘узу бика мин ‘азабин фи-н-нари ва ‘азабин фи-ль-кабр.",
+        "videoUrl": "",
+        "sourceText": "Абдуллах ибн Мас‘уд. Сахих Муслим, 2723b. «Крепость мусульманина», глава 27, №77."
+      },
+      "en": {
+        "title": "Asking for the night’s good",
+        "body": "We have reached the evening, and all dominion belongs to Allah. Praise be to Allah! None is worthy of worship except Allah alone, without any partner. Dominion and praise belong to Him, and He has power over all things. My Lord, grant me the good in this night and what follows it; protect me from the evil in this night and what follows it. My Lord, protect me from laziness and the hardships of old age. My Lord, protect me from punishment in the Fire and in the grave.",
+        "transliteration": "Amsaynā wa amsa-l-mulku lillāhi wa-l-ḥamdu lillāh. Lā ilāha illa-llāhu waḥdahu lā sharīka lah. Lahu-l-mulku wa lahu-l-ḥamdu wa huwa ʿalā kulli shayʾin qadīr. Rabbi asʾaluka khayra mā fī hādhihi-l-laylati wa khayra mā baʿdahā. Wa aʿūdhu bika min sharri mā fī hādhihi-l-laylati wa sharri mā baʿdahā. Rabbi aʿūdhu bika mina-l-kasali wa sūʾi-l-kibar. Rabbi aʿūdhu bika min ʿadhābin fi-n-nāri wa ʿadhābin fi-l-qabr.",
+        "videoUrl": "",
+        "sourceText": "Abdullah ibn Masud. Sahih Muslim, 2723b. Hisn al-Muslim, chapter 27, no. 77."
+      }
+    },
+    "arabic": "أَمْسَيْنَا وَأَمْسَى الْمُلْكُ لِلَّهِ وَالْحَمْدُ لِلَّهِ، لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ، رَبِّ أَسْأَلُكَ خَيْرَ مَا فِي هَذِهِ اللَّيْلَةِ وَخَيْرَ مَا بَعْدَهَا، وَأَعُوذُ بِكَ مِنْ شَرِّ مَا فِي هَذِهِ اللَّيْلَةِ وَشَرِّ مَا بَعْدَهَا، رَبِّ أَعُوذُ بِكَ مِنَ الْكَسَلِ وَسُوءِ الْكِبَرِ، رَبِّ أَعُوذُ بِكَ مِنْ عَذَابٍ فِي النَّارِ وَعَذَابٍ فِي الْقَبْرِ",
+    "transmitter": "Abdullah ibn Masud",
+    "collection": "Sahih Muslim",
+    "hadithNumber": "2723b",
+    "grade": "sahih",
+    "grader": "",
+    "repetitions": null,
+    "order": 770,
+    "status": "published",
+    "verified": true,
+    "imageUrl": "",
+    "event": null,
+    "updatedAt": "2026-10-09T04:00:00.000Z",
+    "revision": 4
+  },
+  {
+    "id": "evening-by-you",
+    "kind": "dhikr",
+    "categoryId": "evening",
+    "translations": {
+      "uz-Latn": {
+        "title": "Allohning qudrati bilan kechga yetish",
+        "body": "Allohim, Sening qudrating bilan kechga yetdik va tong ottirdik. Sen tufayli yashaymiz va vafot etamiz. Qaytishimiz Sengadir.",
+        "transliteration": "Allohumma bika amsayna va bika asbahna va bika nahya va bika namutu va ilaykan-masiyr.",
+        "videoUrl": "",
+        "sourceText": "Abu Hurayra. Abu Dovud, 5068; Nasaiy, as-Sunan al-kubro, 10399. Ushbu lafz: Ibn Hajar, Nataij al-afkor, 2/350 — sahih g‘arib. Rivoyatlarda oxirgi jumla variantlari bor. Hisnul muslim, 27-bob, №78."
+      },
+      "uz-Cyrl": {
+        "title": "Аллоҳнинг қудрати билан кечга етиш",
+        "body": "Аллоҳим, Сенинг қудратинг билан кечга етдик ва тонг оттирдик. Сен туфайли яшаймиз ва вафот этамиз. Қайтишимиз Сенгадир.",
+        "transliteration": "Аллоҳумма бика амсайна ва бика асбаҳна ва бика наҳя ва бика намуту ва илайкан-масийр.",
+        "videoUrl": "",
+        "sourceText": "Абу Ҳурайра. Абу Довуд, 5068; Насаий, ас-Сунан ал-кубро, 10399. Ушбу лафз: Ибн Ҳажар, Натаиж ал-афкор, 2/350 — саҳиҳ ғариб. Ривоятларда охирги жумла вариантлари бор. Ҳиснул муслим, 27-боб, №78."
+      },
+      "ru": {
+        "title": "Благодаря Аллаху мы встретили вечер",
+        "body": "О Аллах, благодаря Тебе мы встретили вечер и утро. По Твоей воле мы живём и умираем, и к Тебе наше возвращение.",
+        "transliteration": "Аллахумма бика амсайна ва бика асбахна ва бика нахйа ва бика намуту ва иляйка-ль-масыр.",
+        "videoUrl": "",
+        "sourceText": "Абу Хурайра. Абу Дауд, 5068; ан-Насаи, ас-Сунан аль-кубра, 10399. Эта формулировка: Ибн Хаджар, «Натаидж аль-афкар», 2/350 — сахих гариб. В передачах есть варианты заключительной фразы. «Крепость мусульманина», глава 27, №78."
+      },
+      "en": {
+        "title": "Through Allah we reach evening",
+        "body": "O Allah, through You we reach evening and morning; through You we live and die, and to You is our return.",
+        "transliteration": "Allāhumma bika amsaynā wa bika aṣbaḥnā wa bika naḥyā wa bika namūtu wa ilayka-l-maṣīr.",
+        "videoUrl": "",
+        "sourceText": "Abu Hurayrah. Abu Dawud 5068; al-Nasai, al-Sunan al-Kubra 10399. This wording: Ibn Hajar, Nataij al-Afkar 2/350 — sahih gharib. Narrations have different concluding phrases. Hisn al-Muslim, chapter 27, no. 78."
+      }
+    },
+    "arabic": "اللَّهُمَّ بِكَ أَمْسَيْنَا وَبِكَ أَصْبَحْنَا وَبِكَ نَحْيَا وَبِكَ نَمُوتُ وَإِلَيْكَ الْمَصِيرُ",
+    "transmitter": "Abu Hurayrah",
+    "collection": "Sunan Abi Dawud / al-Sunan al-Kubra",
+    "hadithNumber": "5068 / 10399",
+    "grade": "sahih",
+    "grader": "Ibn Hajar: sahih gharib (Nataij al-Afkar 2/350)",
+    "repetitions": null,
+    "order": 780,
+    "status": "published",
+    "verified": true,
+    "imageUrl": "",
+    "event": null,
+    "updatedAt": "2026-10-09T04:00:00.000Z",
+    "revision": 2
+  },
+  {
+    "id": "evening-sayyid-istighfar",
+    "kind": "dhikr",
+    "categoryId": "evening",
+    "translations": {
+      "uz-Latn": {
+        "title": "Sayyidul istig‘for",
+        "body": "Allohim, Sen mening Rabbimsan. Sendan o‘zga ibodatga haqli iloh yo‘q. Meni Sen yaratding, men Sening bandangman. Kuchim yetganicha Senga bergan ahdim va va‘damda turaman. Qilgan ishlarimning yomonligidan Senga panoh so‘rayman. Menga bergan ne‘matlaringni va gunohimni e‘tirof etaman. Meni kechir, chunki gunohlarni faqat Sen kechirasan.",
+        "transliteration": "Allohumma anta Robbiy, la ilaha illa anta. Xolaqtaniy va ana ‘abduka, va ana ‘ala ‘ahdika va va‘dika mastato‘tu. A‘uzu bika min sharri ma sona‘tu. Abu’u laka bini‘matika ‘alayya, va abu’u laka bizanbiy. Fag‘fir liy, fa innahu la yag‘firuz-zunuba illa anta.",
+        "videoUrl": "",
+        "sourceText": "Shaddod ibn Avs. Sahih al-Buxoriy, 6306. Hisnul muslim, 27-bob, №79."
+      },
+      "uz-Cyrl": {
+        "title": "Саййидул истиғфор",
+        "body": "Аллоҳим, Сен менинг Раббимсан. Сендан ўзга ибодатга ҳақли илоҳ йўқ. Мени Сен яратдинг, мен Сенинг бандангман. Кучим етганича Сенга берган аҳдим ва ваъдамда тураман. Қилган ишларимнинг ёмонлигидан Сенга паноҳ сўрайман. Менга берган неъматларингни ва гуноҳимни эътироф этаман. Мени кечир, чунки гуноҳларни фақат Сен кечирасан.",
+        "transliteration": "Аллоҳумма анта Роббий, ла илаҳа илла анта. Холақтаний ва ана ‘абдука, ва ана ‘ала ‘аҳдика ва ваъдика мастатўту. Аъузу бика мин шарри ма сонаъту. Абу’у лака биниъматика ‘алайя, ва абу’у лака бизанбий. Фағфир лий, фа иннаҳу ла яғфируз-зунуба илла анта.",
+        "videoUrl": "",
+        "sourceText": "Шаддод ибн Авс. Саҳиҳ ал-Бухорий, 6306. Ҳиснул муслим, 27-боб, №79."
+      },
+      "ru": {
+        "title": "Саййид аль-истигфар",
+        "body": "О Аллах, Ты — мой Господь, и нет достойного поклонения, кроме Тебя. Ты создал меня, и я — Твой раб. Я верен завету и обещанию Тебе, насколько могу. Прибегаю к Твоей защите от зла содеянного мной. Признаю Твои милости ко мне и свой грех. Прости меня, ведь никто, кроме Тебя, не прощает грехов.",
+        "transliteration": "Аллахумма Анта Рабби, ля иляха илля Анта. Халяктани ва ана ‘абдука, ва ана ‘аля ‘ахдика ва ва‘дика мастата‘ту. А‘узу бика мин шарри ма сана‘ту. Абу’у ляка бини‘матика ‘аляйя, ва абу’у ляка бизанби. Фагфир ли, фа иннаху ля ягфиру-з-зунуба илля Анта.",
+        "videoUrl": "",
+        "sourceText": "Шаддад ибн Аус. Сахих аль-Бухари, 6306. «Крепость мусульманина», глава 27, №79."
+      },
+      "en": {
+        "title": "Sayyid al-istighfar",
+        "body": "O Allah, You are my Lord; none is worthy of worship except You. You created me, and I am Your servant. I keep my covenant and promise to You as best I can. I seek Your protection from the evil I have done. I acknowledge Your blessings upon me and confess my sin. Forgive me, for none forgives sins except You.",
+        "transliteration": "Allāhumma anta rabbī, lā ilāha illā anta. Khalaqtanī wa anā ʿabduka, wa anā ʿalā ʿahdika wa waʿdika mā-staṭaʿtu. Aʿūdhu bika min sharri mā ṣanaʿtu. Abūʾu laka biniʿmatika ʿalayya, wa abūʾu laka bidhanbī. Faghfir lī, fa innahu lā yaghfiru-dh-dhunūba illā anta.",
+        "videoUrl": "",
+        "sourceText": "Shaddad ibn Aws. Sahih al-Bukhari, 6306. Hisn al-Muslim, chapter 27, no. 79."
+      }
+    },
+    "arabic": "اللَّهُمَّ أَنْتَ رَبِّي لَا إِلَهَ إِلَّا أَنْتَ، خَلَقْتَنِي وَأَنَا عَبْدُكَ، وَأَنَا عَلَى عَهْدِكَ وَوَعْدِكَ مَا اسْتَطَعْتُ، أَعُوذُ بِكَ مِنْ شَرِّ مَا صَنَعْتُ، أَبُوءُ لَكَ بِنِعْمَتِكَ عَلَيَّ، وَأَبُوءُ لَكَ بِذَنْبِي، فَاغْفِرْ لِي، فَإِنَّهُ لَا يَغْفِرُ الذُّنُوبَ إِلَّا أَنْتَ",
+    "transmitter": "Shaddad ibn Aws",
+    "collection": "Sahih al-Bukhari",
+    "hadithNumber": "6306",
+    "grade": "sahih",
+    "grader": "",
+    "repetitions": 1,
+    "order": 790,
+    "status": "published",
+    "verified": true,
+    "imageUrl": "",
+    "event": null,
+    "updatedAt": "2026-10-09T04:00:00.000Z",
+    "revision": 5
+  },
+  {
+    "id": "evening-wellbeing",
+    "kind": "dhikr",
+    "categoryId": "evening",
+    "translations": {
+      "uz-Latn": {
+        "title": "Afv va ofiyat so‘rash",
+        "body": "Allohim, Sendan dunyo va oxiratda ofiyat so‘rayman. Allohim, dinimda, dunyoviy ishlarimda, oilam va molimda afv va ofiyat so‘rayman. Allohim, ayblarimni berkit, qo‘rquvlarimdan omon qil. Allohim, meni oldimdan, ortimdan, o‘ngimdan, chapimdan va tepamdan asra. Ostimdan kutilmaganda halokatga uchrashdan Sening ulug‘liging bilan panoh so‘rayman.",
+        "transliteration": "Allohumma inniy as’alukal-‘afiyata fid-dunya val-axiroh. Allohumma inniy as’alukal-‘afva val-‘afiyata fiy diyniy va dunyaya va ahliy va maliy. Allohummastur ‘avrotiy va amin rov‘atiy. Allohummahfazniy min bayni yadayya va min xolfiy va ‘an yamiyniy va ‘an shimaliy va min favqiy. Va a‘uzu bi‘azomatika an ug‘tala min tahtiy.",
+        "videoUrl": "",
+        "sourceText": "Abdulloh ibn Umar. Sunan Abu Dovud, 5074. Al-Alboniy: sahih. Hisnul muslim, 27-bob, №84."
+      },
+      "uz-Cyrl": {
+        "title": "Афв ва офият сўраш",
+        "body": "Аллоҳим, Сендан дунё ва охиратда офият сўрайман. Аллоҳим, динимда, дунёвий ишларимда, оилам ва молимда афв ва офият сўрайман. Аллоҳим, айбларимни беркит, қўрқувларимдан омон қил. Аллоҳим, мени олдимдан, ортимдан, ўнгимдан, чапимдан ва тепамдан асра. Остимдан кутилмаганда ҳалокатга учрашдан Сенинг улуғлигинг билан паноҳ сўрайман.",
+        "transliteration": "Аллоҳумма инний ас’алукал-‘афията фид-дуня вал-ахироҳ. Аллоҳумма инний ас’алукал-‘афва вал-‘афията фий дийний ва дуняя ва аҳлий ва малий. Аллоҳуммастур ‘авротий ва амин ровъатий. Аллоҳуммаҳфазний мин байни ядайя ва мин холфий ва ‘ан ямийний ва ‘ан шималий ва мин фавқий. Ва аъузу биъазоматика ан уғтала мин таҳтий.",
+        "videoUrl": "",
+        "sourceText": "Абдуллоҳ ибн Умар. Сунан Абу Довуд, 5074. Ал-Албоний: саҳиҳ. Ҳиснул муслим, 27-боб, №84."
+      },
+      "ru": {
+        "title": "Просьба о прощении и благополучии",
+        "body": "О Аллах, прошу у Тебя благополучия в этой жизни и в Последней. О Аллах, прошу у Тебя прощения и благополучия в моей религии, мирских делах, семье и имуществе. О Аллах, скрой мои недостатки и избавь меня от страхов. О Аллах, защити меня спереди, сзади, справа, слева и сверху. Прибегаю к Твоему величию от внезапной гибели снизу.",
+        "transliteration": "Аллахумма инни ас’алюка-ль-‘афията фи-д-дунья ва-ль-ахира. Аллахумма инни ас’алюка-ль-‘афва ва-ль-‘афията фи дини ва дуньяя ва ахли ва мали. Аллахумма-стур ‘аурати ва амин рау‘ати. Аллахумма-хфазни мин байни ядайя ва мин хальфи ва ‘ан ямини ва ‘ан шимали ва мин фаукы. Ва а‘узу би-‘азаматика ан угталя мин тахти.",
+        "videoUrl": "",
+        "sourceText": "Абдуллах ибн Умар. Сунан Абу Дауд, 5074. Аль-Альбани: сахих. «Крепость мусульманина», глава 27, №84."
+      },
+      "en": {
+        "title": "Asking for pardon and well-being",
+        "body": "O Allah, grant me well-being in this life and the next. O Allah, grant me pardon and well-being in my faith, worldly affairs, family and possessions. O Allah, cover my faults and free me from my fears. O Allah, protect me in front, behind, to my right, to my left and above. I seek refuge in Your greatness from sudden destruction beneath me.",
+        "transliteration": "Allāhumma innī asʾaluka-l-ʿāfiyata fi-d-dunyā wa-l-ākhirah. Allāhumma innī asʾaluka-l-ʿafwa wa-l-ʿāfiyata fī dīnī wa dunyāya wa ahlī wa mālī. Allāhumma-stur ʿawrātī wa āmin rawʿātī. Allāhumma-ḥfaẓnī min bayni yadayya wa min khalfī wa ʿan yamīnī wa ʿan shimālī wa min fawqī. Wa aʿūdhu biʿaẓamatika an ughtāla min taḥtī.",
+        "videoUrl": "",
+        "sourceText": "Abdullah ibn Umar. Sunan Abi Dawud, 5074. Al-Albani: sahih. Hisn al-Muslim, chapter 27, no. 84."
+      }
+    },
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْعَافِيَةَ فِي الدُّنْيَا وَالْآخِرَةِ، اللَّهُمَّ إِنِّي أَسْأَلُكَ الْعَفْوَ وَالْعَافِيَةَ فِي دِينِي وَدُنْيَايَ وَأَهْلِي وَمَالِي، اللَّهُمَّ اسْتُرْ عَوْرَاتِي وَآمِنْ رَوْعَاتِي، اللَّهُمَّ احْفَظْنِي مِنْ بَيْنِ يَدَيَّ وَمِنْ خَلْفِي وَعَنْ يَمِينِي وَعَنْ شِمَالِي وَمِنْ فَوْقِي، وَأَعُوذُ بِعَظَمَتِكَ أَنْ أُغْتَالَ مِنْ تَحْتِي",
+    "transmitter": "Abdullah ibn Umar",
+    "collection": "Sunan Abi Dawud",
+    "hadithNumber": "5074",
+    "grade": "sahih",
+    "grader": "Al-Albani",
+    "repetitions": null,
+    "order": 840,
+    "status": "published",
+    "verified": true,
+    "imageUrl": "",
+    "event": null,
+    "updatedAt": "2026-10-09T04:00:00.000Z",
+    "revision": 4
+  },
+  {
+    "id": "evening-unseen",
+    "kind": "dhikr",
+    "categoryId": "evening",
+    "translations": {
+      "uz-Latn": {
+        "title": "Nafs va shayton yomonligidan panoh",
+        "body": "Allohim, osmonlar va yerni yaratgan, g‘ayb va oshkorni bilgan, har bir narsaning Rabbi va Egasi! Guvohlik beramanki, Sendan o‘zga ibodatga haqli iloh yo‘q. Nafsimning yomonligidan, shaytonning yomonligi va shirkka chaqirishidan Senga panoh so‘rayman. O‘zimga yomonlik qilishdan yoki uni bir musulmonga yetkazishdan ham Senga panoh so‘rayman.",
+        "transliteration": "Allohumma fatiros-samavati val-ard, ‘alimal-g‘oybi vash-shahadah, robba kulli shay’in va malikah. Ashhadu al-la ilaha illa anta. A‘uzu bika min sharri nafsiy va sharrish-shaytoni va shirkih. Va an aqtarifa ‘ala nafsiy su’an av ajurrohu ila muslim.",
+        "videoUrl": "",
+        "sourceText": "Abu Hurayra Abu Bakr haqida rivoyat qilgan. Sunan Abu Dovud, 5067. Al-Alboniy: sahih. Qo‘shimcha: Abdulloh ibn Amr, al-Adab al-mufrad, 1204; Al-Alboniy, Sahih al-Adab al-mufrad, 914: sahih. Hisnul muslim, 27-bob, №85."
+      },
+      "uz-Cyrl": {
+        "title": "Нафс ва шайтон ёмонлигидан паноҳ",
+        "body": "Аллоҳим, осмонлар ва ерни яратган, ғайб ва ошкорни билган, ҳар бир нарсанинг Рабби ва Эгаси! Гувоҳлик бераманки, Сендан ўзга ибодатга ҳақли илоҳ йўқ. Нафсимнинг ёмонлигидан, шайтоннинг ёмонлиги ва ширкка чақиришидан Сенга паноҳ сўрайман. Ўзимга ёмонлик қилишдан ёки уни бир мусулмонга етказишдан ҳам Сенга паноҳ сўрайман.",
+        "transliteration": "Аллоҳумма фатирос-самавати вал-ард, ‘алимал-ғойби ваш-шаҳадаҳ, робба кулли шай’ин ва маликаҳ. Ашҳаду ал-ла илаҳа илла анта. Аъузу бика мин шарри нафсий ва шарриш-шайтони ва ширкиҳ. Ва ан ақтарифа ‘ала нафсий су’ан ав ажурроҳу ила муслим.",
+        "videoUrl": "",
+        "sourceText": "Абу Ҳурайра Абу Бакр ҳақида ривоят қилган. Сунан Абу Довуд, 5067. Ал-Албоний: саҳиҳ. Қўшимча: Абдуллоҳ ибн Амр, ал-Адаб ал-муфрад, 1204; Ал-Албоний, Саҳиҳ ал-Адаб ал-муфрад, 914: саҳиҳ. Ҳиснул муслим, 27-боб, №85."
+      },
+      "ru": {
+        "title": "Защита от зла души и шайтана",
+        "body": "О Аллах, Творец небес и земли, Знающий сокровенное и явное, Господь и Владыка всего! Свидетельствую, что нет достойного поклонения, кроме Тебя. Прибегаю к Твоей защите от зла моей души, от зла шайтана и его призыва к многобожию. Также прибегаю к Твоей защите от того, чтобы причинить зло себе или другому мусульманину.",
+        "transliteration": "Аллахумма фатыра-с-самавати ва-ль-ард, ‘алима-ль-гайби ва-ш-шахада, Рабба кулли шай’ин ва маликах. Ашхаду ал-ля иляха илля Анта. А‘узу бика мин шарри нафси ва шарри-ш-шайтани ва ширких. Ва ан актарифа ‘аля нафси су’ан ау аджурраху иля муслим.",
+        "videoUrl": "",
+        "sourceText": "Абу Хурайра передал рассказ об Абу Бакре. Сунан Абу Дауд, 5067. Аль-Альбани: сахих. Дополнение: Абдуллах ибн Амр, «аль-Адаб аль-муфрад», 1204; аль-Альбани, «Сахих аль-Адаб аль-муфрад», 914: сахих. «Крепость мусульманина», глава 27, №85."
+      },
+      "en": {
+        "title": "Protection from the soul’s evil and Satan",
+        "body": "O Allah, Originator of the heavens and earth, Knower of the hidden and the visible, Lord and Owner of all things! I testify that none is worthy of worship except You. I seek Your protection from the evil of my own soul, from Satan’s evil and his call to associate partners with You. I also seek Your protection from doing evil to myself or causing it to another Muslim.",
+        "transliteration": "Allāhumma fāṭira-s-samāwāti wa-l-arḍ, ʿālima-l-ghaybi wa-sh-shahādah, rabba kulli shayʾin wa malīkah. Ashhadu al-lā ilāha illā anta. Aʿūdhu bika min sharri nafsī wa sharri-sh-shayṭāni wa shirkih. Wa an aqtarifa ʿalā nafsī sūʾan aw ajurrahu ilā muslim.",
+        "videoUrl": "",
+        "sourceText": "Abu Huraira reported the account of Abu Bakr. Sunan Abi Dawud, 5067. Al-Albani: sahih. Addition: Abdullah ibn Amr, al-Adab al-Mufrad 1204; al-Albani, Sahih al-Adab al-Mufrad 914: sahih. Hisn al-Muslim, chapter 27, no. 85."
+      }
+    },
+    "arabic": "اللَّهُمَّ فَاطِرَ السَّمَاوَاتِ وَالْأَرْضِ، عَالِمَ الْغَيْبِ وَالشَّهَادَةِ، رَبَّ كُلِّ شَيْءٍ وَمَلِيكَهُ، أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا أَنْتَ، أَعُوذُ بِكَ مِنْ شَرِّ نَفْسِي وَشَرِّ الشَّيْطَانِ وَشِرْكِهِ وَأَنْ أَقْتَرِفَ عَلَى نَفْسِي سُوءًا أَوْ أَجُرَّهُ إِلَى مُسْلِمٍ",
+    "transmitter": "Abu Huraira, reporting Abu Bakr",
+    "collection": "Sunan Abi Dawud",
+    "hadithNumber": "5067",
+    "grade": "sahih",
+    "grader": "Al-Albani",
+    "repetitions": null,
+    "order": 850,
+    "status": "published",
+    "verified": true,
+    "imageUrl": "",
+    "event": null,
+    "updatedAt": "2026-10-09T04:00:00.000Z",
+    "revision": 4
+  },
+  {
+    "id": "evening-bismillah",
+    "kind": "dhikr",
+    "categoryId": "evening",
+    "translations": {
+      "uz-Latn": {
+        "title": "Allohning nomi bilan himoya so‘rash",
+        "body": "Allohning nomi bilan. Uning nomi zikr qilinganda yerda ham, osmonda ham hech narsa zarar yetkaza olmaydi. U Eshituvchi, Biluvchidir.",
+        "transliteration": "Bismillahil-laziy la yadurru ma‘a-smihi shay’un fil-ardi va la fis-sama’i, va huvas-Sami‘ul-‘Aliym.",
+        "videoUrl": "",
+        "sourceText": "Usmon ibn Affon. Sunan Abu Dovud, 5088. Al-Alboniy: sahih. Hisnul muslim, 27-bob, №86."
+      },
+      "uz-Cyrl": {
+        "title": "Аллоҳнинг номи билан ҳимоя сўраш",
+        "body": "Аллоҳнинг номи билан. Унинг номи зикр қилинганда ерда ҳам, осмонда ҳам ҳеч нарса зарар етказа олмайди. У Эшитувчи, Билувчидир.",
+        "transliteration": "Бисмиллаҳил-лазий ла ядурру маъа-смиҳи шай’ун фил-арди ва ла фис-сама’и, ва ҳувас-Самиъул-‘Алийм.",
+        "videoUrl": "",
+        "sourceText": "Усмон ибн Аффон. Сунан Абу Довуд, 5088. Ал-Албоний: саҳиҳ. Ҳиснул муслим, 27-боб, №86."
+      },
+      "ru": {
+        "title": "Защита с именем Аллаха",
+        "body": "С именем Аллаха, с именем Которого ничто не причинит вреда ни на земле, ни на небе. Он — Слышащий, Знающий.",
+        "transliteration": "Бисмилляхи-ллязи ля ядурру ма‘а-смихи шай’ун филь-арды ва ля фис-сама’и, ва Хува-с-Сами‘у-ль-‘Алим.",
+        "videoUrl": "",
+        "sourceText": "Усман ибн Аффан. Сунан Абу Дауд, 5088. Аль-Альбани: сахих. «Крепость мусульманина», глава 27, №86."
+      },
+      "en": {
+        "title": "Seeking protection in Allah’s name",
+        "body": "In the name of Allah, with whose name nothing on earth or in heaven can cause harm. He is the All-Hearing, the All-Knowing.",
+        "transliteration": "Bismillāhi-lladhī lā yaḍurru maʿa-smihi shayʾun fi-l-arḍi wa lā fi-s-samāʾi, wa huwa-s-Samīʿu-l-ʿAlīm.",
+        "videoUrl": "",
+        "sourceText": "Uthman ibn Affan. Sunan Abi Dawud, 5088. Al-Albani: sahih. Hisn al-Muslim, chapter 27, no. 86."
+      }
+    },
+    "arabic": "بِسْمِ اللَّهِ الَّذِي لَا يَضُرُّ مَعَ اسْمِهِ شَيْءٌ فِي الْأَرْضِ وَلَا فِي السَّمَاءِ وَهُوَ السَّمِيعُ الْعَلِيمُ",
+    "transmitter": "Uthman ibn Affan",
+    "collection": "Sunan Abi Dawud",
+    "hadithNumber": "5088",
+    "grade": "sahih",
+    "grader": "Al-Albani",
+    "repetitions": 3,
+    "order": 860,
+    "status": "published",
+    "verified": true,
+    "imageUrl": "",
+    "event": null,
+    "updatedAt": "2026-10-09T04:00:00.000Z",
+    "revision": 5
+  },
+  {
+    "id": "evening-contentment",
+    "kind": "dhikr",
+    "categoryId": "evening",
+    "translations": {
+      "uz-Latn": {
+        "title": "Alloh, Islom va Payg‘ambardan rozi bo‘lish",
+        "body": "Allohni Rabbim, Islomni dinim, Muhammadni — Allohning salovoti va salomi unga bo‘lsin — payg‘ambarim deb rozi bo‘ldim.",
+        "transliteration": "Roziytu billahi Robban va bil-Islami diynan va bi-Muhammadin sollallohu ‘alayhi va sallama nabiyyan.",
+        "videoUrl": "",
+        "sourceText": "Payg‘ambarning xizmatkoridan rivoyat. Musnad Ahmad, 18967. Shuayb al-Arnaut: sahih li-g‘ayrihi — boshqa rivoyatlar bilan quvvatlangan. Ertalab va kechqurun 3 marta. Hisnul muslim, 27-bob, №87."
+      },
+      "uz-Cyrl": {
+        "title": "Аллоҳ, Ислом ва Пайғамбардан рози бўлиш",
+        "body": "Аллоҳни Раббим, Исломни диним, Муҳаммадни — Аллоҳнинг саловоти ва саломи унга бўлсин — пайғамбарим деб рози бўлдим.",
+        "transliteration": "Розийту биллаҳи Роббан ва бил-Ислами дийнан ва би-Муҳаммадин соллаллоҳу ‘алайҳи ва саллама набийян.",
+        "videoUrl": "",
+        "sourceText": "Пайғамбарнинг хизматкоридан ривоят. Муснад Аҳмад, 18967. Шуайб ал-Арнаут: саҳиҳ ли-ғайриҳи — бошқа ривоятлар билан қувватланган. Эрталаб ва кечқурун 3 марта. Ҳиснул муслим, 27-боб, №87."
+      },
+      "ru": {
+        "title": "Довольство Аллахом, исламом и Пророком",
+        "body": "Я доволен Аллахом как Господом, исламом как религией и Мухаммадом, да благословит его Аллах и приветствует, как пророком.",
+        "transliteration": "Радыту билляхи Раббан ва би-ль-ислями динан ва би-Мухаммадин салляллаху ‘аляйхи ва салляма набиййан.",
+        "videoUrl": "",
+        "sourceText": "Передал служивший Пророку. Муснад Ахмад, 18967. Шуайб аль-Арнаут: сахих ли-гайрихи — достоверный благодаря подкрепляющим передачам. Утром и вечером по 3 раза. «Крепость мусульманина», глава 27, №87."
+      },
+      "en": {
+        "title": "Contentment with Allah, Islam and the Prophet",
+        "body": "I am content with Allah as my Lord, Islam as my religion, and Muhammad, may Allah bless him and grant him peace, as my prophet.",
+        "transliteration": "Raḍītu bi-llāhi rabban wa bi-l-Islāmi dīnan wa bi-Muḥammadin ṣallā-llāhu ʿalayhi wa sallama nabiyyan.",
+        "videoUrl": "",
+        "sourceText": "Narrated by a servant of the Prophet. Musnad Ahmad 18967. Shuayb al-Arnaut: sahih li-ghayrihi, authenticated through supporting narrations. Three times in the morning and evening. Hisn al-Muslim, chapter 27, no. 87."
+      }
+    },
+    "arabic": "رَضِيتُ بِاللَّهِ رَبًّا وَبِالْإِسْلَامِ دِينًا وَبِمُحَمَّدٍ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ نَبِيًّا",
+    "transmitter": "A servant of the Prophet",
+    "collection": "Musnad Ahmad",
+    "hadithNumber": "18967",
+    "grade": "sahih",
+    "grader": "Shuayb al-Arnaut: sahih li-ghayrihi",
+    "repetitions": 3,
+    "order": 870,
+    "status": "published",
+    "verified": true,
+    "imageUrl": "",
+    "event": null,
+    "updatedAt": "2026-10-09T04:00:00.000Z",
+    "revision": 2
+  },
+  {
+    "id": "evening-living-sustainer",
+    "kind": "dhikr",
+    "categoryId": "evening",
+    "translations": {
+      "uz-Latn": {
+        "title": "Ey Hayy, ey Qayyum",
+        "body": "Ey abadiy Tirik, barcha mavjudotni tutib turuvchi Zot! Rahmating bilan yordam so‘rayman. Barcha ishlarimni o‘ngla va meni ko‘z ochib yumguncha ham o‘z holimga tashlab qo‘yma.",
+        "transliteration": "Ya Hayyu ya Qoyyumu birohmatika astag‘iys, aslih liy sha’niy kullahu va la takilniy ila nafsiy torfata ‘ayn.",
+        "videoUrl": "",
+        "sourceText": "Anas ibn Molik. Al-Hokim, al-Mustadrak, 1/545: isnodi sahih («Hisnul muslim» izohi). Al-Alboniy, as-Silsila as-sahiha, 227: hasan. Baholarda farq bor. Hisnul muslim, 27-bob, №88."
+      },
+      "uz-Cyrl": {
+        "title": "Эй Ҳайй, эй Қайюм",
+        "body": "Эй абадий Тирик, барча мавжудотни тутиб турувчи Зот! Раҳматинг билан ёрдам сўрайман. Барча ишларимни ўнгла ва мени кўз очиб юмгунча ҳам ўз ҳолимга ташлаб қўйма.",
+        "transliteration": "Я Ҳайю я Қойюму бироҳматика астағийс, аслиҳ лий ша’ний куллаҳу ва ла такилний ила нафсий торфата ‘айн.",
+        "videoUrl": "",
+        "sourceText": "Анас ибн Молик. Ал-Ҳоким, ал-Мустадрак, 1/545: исноди саҳиҳ («Ҳиснул муслим» изоҳи). Ал-Албоний, ас-Силсила ас-саҳиҳа, 227: ҳасан. Баҳоларда фарқ бор. Ҳиснул муслим, 27-боб, №88."
+      },
+      "ru": {
+        "title": "О Живой, о Вседержитель",
+        "body": "О Живой, о Вседержитель! К Твоей милости обращаюсь за помощью. Исправь все мои дела и не оставляй меня на самого себя даже на мгновение.",
+        "transliteration": "Йа Хаййу йа Каййуму би-рахматика астагис, аслих ли ша’ни кулляху ва ля такильни иля нафси тарфата ‘айн.",
+        "videoUrl": "",
+        "sourceText": "Анас ибн Малик. Аль-Хаким, «аль-Мустадрак», 1/545: иснад сахих (примечание «Крепости мусульманина»). Аль-Альбани, «ас-Сильсиля ас-сахиха», 227: хасан. Оценки различаются. «Крепость мусульманина», глава 27, №88."
+      },
+      "en": {
+        "title": "O Living One, O Sustainer",
+        "body": "O Living One who sustains all! I seek help through Your mercy. Set all my affairs right and do not leave me to myself even for an instant.",
+        "transliteration": "Yā Ḥayyu yā Qayyūmu bi-raḥmatika astaghīth, aṣliḥ lī shaʾnī kullahu wa lā takilnī ilā nafsī ṭarfata ʿayn.",
+        "videoUrl": "",
+        "sourceText": "Anas ibn Malik. Al-Hakim, al-Mustadrak 1/545: sahih chain, as cited by Hisn al-Muslim. Al-Albani, al-Silsilah al-Sahihah 227: hasan. Assessments differ. Hisn al-Muslim, chapter 27, no. 88."
+      }
+    },
+    "arabic": "يَا حَيُّ يَا قَيُّومُ بِرَحْمَتِكَ أَسْتَغِيثُ أَصْلِحْ لِي شَأْنِي كُلَّهُ وَلَا تَكِلْنِي إِلَى نَفْسِي طَرْفَةَ عَيْنٍ",
+    "transmitter": "Anas ibn Malik",
+    "collection": "Al-Mustadrak",
+    "hadithNumber": "1/545",
+    "grade": "sahih",
+    "grader": "Al-Hakim: sahih isnad; al-Albani: hasan",
+    "repetitions": null,
+    "order": 880,
+    "status": "published",
+    "verified": true,
+    "imageUrl": "",
+    "event": null,
+    "updatedAt": "2026-10-09T04:00:00.000Z",
+    "revision": 1
+  },
+  {
+    "id": "evening-fitrah",
+    "kind": "dhikr",
+    "categoryId": "evening",
+    "translations": {
+      "uz-Latn": {
+        "title": "Islom fitratida",
+        "body": "Kechga yetdik — Islom fitratida, ixlos kalimasida, payg‘ambarimiz Muhammadning — Allohning salovoti va salomi unga bo‘lsin — dinida va otamiz Ibrohimning yo‘lida. U haq dinga yuzlangan musulmon edi va mushriklardan emas edi.",
+        "transliteration": "Amsayna ‘ala fitratil-Islam va ‘ala kalimatil-ixlos va ‘ala diyni nabiyyina Muhammadin sollallohu ‘alayhi va sallam va ‘ala millati abiyna Ibrohiyma haniyfan musliman va ma kana minal-mushrikiyn.",
+        "videoUrl": "",
+        "sourceText": "Abdurrahmon ibn Abzo. Musnad Ahmad, 15363. Ibn Boz, Majmu‘ al-fatovo, 26/32: isnodi sahih. Kechqurun «amsayna» deyiladi. Takror soni belgilanmagan. Hisnul muslim, 27-bob, №90."
+      },
+      "uz-Cyrl": {
+        "title": "Ислом фитратида",
+        "body": "Кечга етдик — Ислом фитратида, ихлос калимасида, пайғамбаримиз Муҳаммаднинг — Аллоҳнинг саловоти ва саломи унга бўлсин — динида ва отамиз Иброҳимнинг йўлида. У ҳақ динга юзланган мусулмон эди ва мушриклардан эмас эди.",
+        "transliteration": "Амсайна ‘ала фитратил-Ислам ва ‘ала калиматил-ихлос ва ‘ала дийни набиййина Муҳаммадин соллаллоҳу ‘алайҳи ва саллам ва ‘ала миллати абийна Иброҳийма ҳанийфан муслиман ва ма кана минал-мушрикийн.",
+        "videoUrl": "",
+        "sourceText": "Абдурраҳмон ибн Абзо. Муснад Аҳмад, 15363. Ибн Боз, Мажмуъ ал-фатово, 26/32: исноди саҳиҳ. Кечқурун «амсайна» дейилади. Такрор сони белгиланмаган. Ҳиснул муслим, 27-боб, №90."
+      },
+      "ru": {
+        "title": "На естестве ислама",
+        "body": "Мы встретили вечер на естестве ислама, на слове искреннего единобожия, на религии нашего пророка Мухаммада, да благословит его Аллах и приветствует, и на вере нашего отца Ибрахима, единобожника, покорного Аллаху и не бывшего многобожником.",
+        "transliteration": "Амсайна ‘аля фитрати-ль-ислям ва ‘аля калимати-ль-ихляс ва ‘аля дини набиййина Мухаммадин салляллаху ‘аляйхи ва саллям ва ‘аля милляти абина Ибрахима ханифан муслиман ва ма кана мина-ль-мушрикин.",
+        "videoUrl": "",
+        "sourceText": "Абдуррахман ибн Абза. Муснад Ахмад, 15363. Ибн Баз, «Маджму аль-фатава», 26/32: иснад сахих. Вечером говорится «амсайна». Число повторений не установлено. «Крепость мусульманина», глава 27, №90."
+      },
+      "en": {
+        "title": "Upon the natural disposition of Islam",
+        "body": "We enter the evening upon the natural disposition of Islam, the word of sincere faith, the religion of our prophet Muhammad, may Allah bless him and grant him peace, and the way of our father Ibrahim, who turned to Allah in submission and was not an idolater.",
+        "transliteration": "Amsaynā ʿalā fiṭrati-l-Islāmi wa ʿalā kalimati-l-ikhlāṣi wa ʿalā dīni nabiyyinā Muḥammadin ṣallā-llāhu ʿalayhi wa sallama wa ʿalā millati abīnā Ibrāhīma ḥanīfan musliman wa mā kāna mina-l-mushrikīn.",
+        "videoUrl": "",
+        "sourceText": "Abd al-Rahman ibn Abza. Musnad Ahmad 15363. Ibn Baz, Majmu al-Fatawa 26/32: sahih chain. In the evening, say amsayna. No repetition count is specified. Hisn al-Muslim, chapter 27, no. 90."
+      }
+    },
+    "arabic": "أَمْسَيْنَا عَلَى فِطْرَةِ الْإِسْلَامِ وَعَلَى كَلِمَةِ الْإِخْلَاصِ وَعَلَى دِينِ نَبِيِّنَا مُحَمَّدٍ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَعَلَى مِلَّةِ أَبِينَا إِبْرَاهِيمَ حَنِيفًا مُسْلِمًا وَمَا كَانَ مِنَ الْمُشْرِكِينَ",
+    "transmitter": "Abd al-Rahman ibn Abza",
+    "collection": "Musnad Ahmad",
+    "hadithNumber": "15363",
+    "grade": "sahih",
+    "grader": "Ibn Baz: sahih isnad (26/32)",
+    "repetitions": null,
+    "order": 900,
+    "status": "published",
+    "verified": true,
+    "imageUrl": "",
+    "event": null,
+    "updatedAt": "2026-10-09T04:00:00.000Z",
+    "revision": 2
+  },
+  {
+    "id": "evening-subhanallah",
+    "kind": "dhikr",
+    "categoryId": "evening",
+    "translations": {
+      "uz-Latn": {
+        "title": "Allohni poklash va hamd aytish",
+        "body": "Allohni barcha nuqsonlardan pok deb bilaman va Unga hamd aytaman.",
+        "transliteration": "Subhanallohi va bihamdih.",
+        "videoUrl": "",
+        "sourceText": "Abu Hurayra. Sahih Muslim, 2692. Hisnul muslim, 27-bob, №91."
+      },
+      "uz-Cyrl": {
+        "title": "Аллоҳни поклаш ва ҳамд айтиш",
+        "body": "Аллоҳни барча нуқсонлардан пок деб биламан ва Унга ҳамд айтаман.",
+        "transliteration": "Субҳаналлоҳи ва биҳамдиҳ.",
+        "videoUrl": "",
+        "sourceText": "Абу Ҳурайра. Саҳиҳ Муслим, 2692. Ҳиснул муслим, 27-боб, №91."
+      },
+      "ru": {
+        "title": "Прославление и хвала Аллаху",
+        "body": "Пречист Аллах, и Ему хвала.",
+        "transliteration": "Субхана-Ллахи ва би-хамдих.",
+        "videoUrl": "",
+        "sourceText": "Абу Хурайра. Сахих Муслим, 2692. «Крепость мусульманина», глава 27, №91."
+      },
+      "en": {
+        "title": "Glorifying and praising Allah",
+        "body": "Glory and praise be to Allah.",
+        "transliteration": "Subḥāna-llāhi wa biḥamdih.",
+        "videoUrl": "",
+        "sourceText": "Abu Huraira. Sahih Muslim, 2692. Hisn al-Muslim, chapter 27, no. 91."
+      }
+    },
+    "arabic": "سُبْحَانَ اللَّهِ وَبِحَمْدِهِ",
+    "transmitter": "Abu Huraira",
+    "collection": "Sahih Muslim",
+    "hadithNumber": "2692",
+    "grade": "sahih",
+    "grader": "",
+    "repetitions": 100,
+    "order": 910,
+    "status": "published",
+    "verified": true,
+    "imageUrl": "",
+    "event": null,
+    "updatedAt": "2026-10-09T04:00:00.000Z",
+    "revision": 5
+  },
+  {
+    "id": "evening-tahlil",
+    "kind": "dhikr",
+    "categoryId": "evening",
+    "translations": {
+      "uz-Latn": {
+        "title": "Tavhid kalimasi",
+        "body": "Yagona Allohdan o‘zga ibodatga haqli iloh yo‘q. Uning sherigi yo‘q. Hukmronlik va hamd Ungadir. U har bir narsaga qodirdir.",
+        "transliteration": "La ilaha illallohu vahdahu la shariyka lah. Lahul-mulku va lahul-hamdu va huva ‘ala kulli shay’in qodiyr.",
+        "videoUrl": "",
+        "sourceText": "Abu Ayyosh. Sunan Abu Dovud, 5077. Al-Alboniy: sahih. Kitobda: 10 marta yoki sustlikda 1 marta. O‘n marta uchun Nasaiy, Amal al-yavm val-layla, 24 (kitob izohida sahih). Hisnul muslim, 27-bob, №92."
+      },
+      "uz-Cyrl": {
+        "title": "Тавҳид калимаси",
+        "body": "Ягона Аллоҳдан ўзга ибодатга ҳақли илоҳ йўқ. Унинг шериги йўқ. Ҳукмронлик ва ҳамд Унгадир. У ҳар бир нарсага қодирдир.",
+        "transliteration": "Ла илаҳа иллаллоҳу ваҳдаҳу ла шарийка лаҳ. Лаҳул-мулку ва лаҳул-ҳамду ва ҳува ‘ала кулли шай’ин қодийр.",
+        "videoUrl": "",
+        "sourceText": "Абу Айёш. Сунан Абу Довуд, 5077. Ал-Албоний: саҳиҳ. Китобда: 10 марта ёки сустликда 1 марта. Ўн марта учун Насаий, Амал ал-явм вал-лайла, 24 (китоб изоҳида саҳиҳ). Ҳиснул муслим, 27-боб, №92."
+      },
+      "ru": {
+        "title": "Слова единобожия",
+        "body": "Нет достойного поклонения, кроме одного Аллаха, у Которого нет сотоварища. Ему принадлежат власть и хвала, и Он способен на всякую вещь.",
+        "transliteration": "Ля иляха илля-Ллаху вахдаху ля шарика лях. Ляху-ль-мульку ва ляху-ль-хамду ва Хува ‘аля кулли шай’ин кадир.",
+        "videoUrl": "",
+        "sourceText": "Абу Айяш. Сунан Абу Дауд, 5077. Аль-Альбани: сахих. В книге: 10 раз или 1 раз при упадке сил. Для десяти повторений: ан-Насаи, «Амаль аль-яум ва-ль-ляйля», 24 (в примечании книги: сахих). «Крепость мусульманина», глава 27, №92."
+      },
+      "en": {
+        "title": "Words of Allah’s oneness",
+        "body": "None is worthy of worship except Allah alone, without any partner. All dominion and praise belong to Him, and He has power over all things.",
+        "transliteration": "Lā ilāha illa-llāhu waḥdahu lā sharīka lah. Lahu-l-mulku wa lahu-l-ḥamdu wa huwa ʿalā kulli shayʾin qadīr.",
+        "videoUrl": "",
+        "sourceText": "Abu Ayyash. Sunan Abi Dawud, 5077. Al-Albani: sahih. The book gives ten times, or once when lacking energy. For ten: al-Nasai, Amal al-Yawm wa-l-Laylah 24, cited as sahih in the book. Hisn al-Muslim, chapter 27, no. 92."
+      }
+    },
+    "arabic": "لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
+    "transmitter": "Abu Ayyash",
+    "collection": "Sunan Abi Dawud",
+    "hadithNumber": "5077",
+    "grade": "sahih",
+    "grader": "Al-Albani",
+    "repetitions": 10,
+    "order": 920,
+    "status": "published",
+    "verified": true,
+    "imageUrl": "",
+    "event": null,
+    "updatedAt": "2026-10-09T04:00:00.000Z",
+    "revision": 4
+  },
+  {
+    "id": "evening-perfect-words",
+    "kind": "dhikr",
+    "categoryId": "evening",
+    "translations": {
+      "uz-Latn": {
+        "title": "Kechki panoh so‘rash",
+        "body": "Allohning mukammal kalimalari bilan U yaratgan narsalarning yomonligidan panoh so‘rayman.",
+        "transliteration": "A‘uzu bikalimatillahit-tammati min sharri ma xolaq.",
+        "videoUrl": "",
+        "sourceText": "Abu Hurayra. Termiziy, 3604; Al-Alboniy, Sahih at-targ‘ib, 652: sahih. Kechqurun 3 marta. Hisnul muslim, 27-bob, №97."
+      },
+      "uz-Cyrl": {
+        "title": "Кечки паноҳ сўраш",
+        "body": "Аллоҳнинг мукаммал калималари билан У яратган нарсаларнинг ёмонлигидан паноҳ сўрайман.",
+        "transliteration": "Аъузу бикалиматиллаҳит-таммати мин шарри ма холақ.",
+        "videoUrl": "",
+        "sourceText": "Абу Ҳурайра. Термизий, 3604; Ал-Албоний, Саҳиҳ ат-тарғиб, 652: саҳиҳ. Кечқурун 3 марта. Ҳиснул муслим, 27-боб, №97."
+      },
+      "ru": {
+        "title": "Вечерняя просьба о защите",
+        "body": "Прибегаю к защите совершенных слов Аллаха от зла того, что Он сотворил.",
+        "transliteration": "А‘узу би-калимати-Лляхи-т-таммати мин шарри ма халяк.",
+        "videoUrl": "",
+        "sourceText": "Абу Хурайра. Ат-Тирмизи, 3604; аль-Альбани, «Сахих ат-таргиб», 652: сахих. Вечером 3 раза. «Крепость мусульманина», глава 27, №97."
+      },
+      "en": {
+        "title": "Evening protection",
+        "body": "I seek protection in the perfect words of Allah from the evil of what He created.",
+        "transliteration": "Aʿūdhu bi-kalimāti-llāhi-t-tāmmāti min sharri mā khalaq.",
+        "videoUrl": "",
+        "sourceText": "Abu Hurayrah. Tirmidhi 3604; al-Albani, Sahih al-Targhib 652: sahih. Three times in the evening. Hisn al-Muslim, chapter 27, no. 97."
+      }
+    },
+    "arabic": "أَعُوذُ بِكَلِمَاتِ اللَّهِ التَّامَّاتِ مِنْ شَرِّ مَا خَلَقَ",
+    "transmitter": "Abu Huraira",
+    "collection": "Jami at-Tirmidhi",
+    "hadithNumber": "3604",
+    "grade": "sahih",
+    "grader": "Al-Albani: sahih (Sahih al-Targhib 652)",
+    "repetitions": 3,
+    "order": 970,
+    "status": "published",
+    "verified": true,
+    "imageUrl": "",
+    "event": null,
+    "updatedAt": "2026-10-09T04:00:00.000Z",
+    "revision": 5
+  },
+  {
+    "id": "morning-ayat-kursi",
+    "kind": "dhikr",
+    "categoryId": "morning",
+    "translations": {
+      "uz-Latn": {
+        "title": "Oyatul Kursiy",
+        "body": "Quvilgan shaytondan Allohga panoh so‘rayman.\nAlloh — Undan o‘zga ibodatga haqli iloh yo‘q. U tirik, barcha mavjudotni tutib turuvchidir. Uni mudroq ham, uyqu ham tutmaydi. Osmonlaru yerdagi barcha narsa Unikidir. Uning huzurida Uning iznisiz kim shafoat qila oladi? U ularning oldidagi va ortidagi narsalarni biladi. Ular Uning ilmidan faqat U istagan narsanigina bila oladilar. Uning Kursiysi osmonlar va yerni qamrab olgan. Ularni saqlash Uni toliqtirmaydi. U yuksak va buyukdir.",
+        "transliteration": "A‘uzu billahi minash-shaytonir-rojiym.\nAllohu la ilaha illa huval-Hayyul-Qoyyum. La ta’xuzuhu sinatun va la navm. Lahu ma fis-samavati va ma fil-ard. Man zallaziy yashfa‘u ‘indahu illa bi-iznih. Ya‘lamu ma bayna aydiyhim va ma xolfahum. Va la yuhiytuna bi-shay’in min ‘ilmihi illa bima sha’. Vasi‘a kursiyyuhus-samavati val-ard. Va la ya’uduhu hifzuhuma va huval-‘Aliyyul-‘Aziym.",
+        "videoUrl": "",
+        "sourceText": "Qur’on, 2:255. Ubay ibn Ka‘b rivoyati: Ibn Hibbon, 784; Al-Alboniy, Sahih at-targ‘ib, 662 — sahih. Tong va kechga bog‘lash borasida baho farqi bor: as-Silsila as-sahiha, 7/743 da ushbu qo‘shimcha shoz deb baholangan. Hisnul muslim, 27-bob, №75."
+      },
+      "uz-Cyrl": {
+        "title": "Оятул Курсий",
+        "body": "Қувилган шайтондан Аллоҳга паноҳ сўрайман.\nАллоҳ — Ундан ўзга ибодатга ҳақли илоҳ йўқ. У тирик, барча мавжудотни тутиб турувчидир. Уни мудроқ ҳам, уйқу ҳам тутмайди. Осмонлару ердаги барча нарса Уникидир. Унинг ҳузурида Унинг изнисиз ким шафоат қила олади? У уларнинг олдидаги ва ортидаги нарсаларни билади. Улар Унинг илмидан фақат У истаган нарсанигина била оладилар. Унинг Курсийси осмонлар ва ерни қамраб олган. Уларни сақлаш Уни толиқтирмайди. У юксак ва буюкдир.",
+        "transliteration": "Аъузу биллаҳи минаш-шайтонир-рожийм.\nАллоҳу ла илаҳа илла ҳувал-Ҳайюл-Қойюм. Ла та’хузуҳу синатун ва ла навм. Лаҳу ма фис-самавати ва ма фил-ард. Ман заллазий яшфаъу ‘индаҳу илла би-изниҳ. Яъламу ма байна айдийҳим ва ма холфаҳум. Ва ла юҳийтуна би-шай’ин мин ‘илмиҳи илла бима ша’. Васиъа курсийюҳус-самавати вал-ард. Ва ла я’удуҳу ҳифзуҳума ва ҳувал-‘Алийюл-‘Азийм.",
+        "videoUrl": "",
+        "sourceText": "Қур’он, 2:255. Убай ибн Каъб ривояти: Ибн Ҳиббон, 784; Ал-Албоний, Саҳиҳ ат-тарғиб, 662 — саҳиҳ. Тонг ва кечга боғлаш борасида баҳо фарқи бор: ас-Силсила ас-саҳиҳа, 7/743 да ушбу қўшимча шоз деб баҳоланган. Ҳиснул муслим, 27-боб, №75."
+      },
+      "ru": {
+        "title": "Аят аль-Курси",
+        "body": "Прибегаю к защите Аллаха от изгнанного шайтана.\nАллах — нет достойного поклонения, кроме Него, Живого, Вседержителя. Его не охватывают ни дремота, ни сон. Ему принадлежит всё на небесах и на земле. Кто заступится перед Ним без Его разрешения? Он знает то, что перед ними, и то, что позади них. Они постигают из Его знания лишь то, что Он пожелает. Его Престол — Курси — охватывает небеса и землю, и сохранение их не утомляет Его. Он — Всевышний, Великий.",
+        "transliteration": "А‘узу билляхи мина-ш-шайтани-р-раджим.\nАллаху ля иляха илля Хува-ль-Хаййу-ль-Каййум. Ля та’хузуху синатун ва ля наум. Ляху ма фи-с-самавати ва ма филь-ард. Ман за-ллязи йашфа‘у ‘индаху илля би-изних. Йа‘ляму ма байна айдихим ва ма хальфахум. Ва ля йухитуна би-шай’ин мин ‘ильмихи илля би-ма ша’. Васи‘а курсиййуху-с-самавати валь-ард. Ва ля йа’удуху хифзухума ва Хува-ль-‘Алиййу-ль-‘Азым.",
+        "videoUrl": "",
+        "sourceText": "Коран, 2:255. Передал Убайй ибн Кааб: Ибн Хиббан, 784; аль-Альбани, «Сахих ат-таргиб», 662 — сахих. Оценка привязки ко времени расходится: в «ас-Сильсиля ас-сахиха», 7/743, это дополнение названо отклоняющимся (шазз). «Крепость мусульманина», глава 27, №75."
+      },
+      "en": {
+        "title": "Ayat al-Kursi",
+        "body": "I seek Allah’s protection from the expelled Satan.\nAllah alone is worthy of worship, the Living One who sustains all existence. Neither slumber nor sleep overtakes Him. Everything in the heavens and on earth belongs to Him. Who can intercede before Him unless He permits it? He knows what lies before them and behind them. They grasp nothing of His knowledge except what He wills. His Kursi extends over the heavens and earth; preserving them does not weary Him. He is the Most High, the Magnificent.",
+        "transliteration": "Aʿūdhu bi-llāhi mina-sh-shayṭāni-r-rajīm.\nAllāhu lā ilāha illā huwa-l-Ḥayyu-l-Qayyūm. Lā taʾkhudhuhu sinatun wa lā nawm. Lahu mā fi-s-samāwāti wa mā fi-l-arḍ. Man dhā-lladhī yashfaʿu ʿindahu illā bi-idhnih. Yaʿlamu mā bayna aydīhim wa mā khalfahum. Wa lā yuḥīṭūna bi-shayʾin min ʿilmihi illā bi-mā shāʾ. Wasiʿa kursiyyuhu-s-samāwāti wa-l-arḍ. Wa lā yaʾūduhu ḥifẓuhumā wa huwa-l-ʿAliyyu-l-ʿAẓīm.",
+        "videoUrl": "",
+        "sourceText": "Quran 2:255. Ubayy ibn Kab: Ibn Hibban 784; al-Albani, Sahih al-Targhib 662 — sahih. The time-specific addition has differing assessments: al-Silsilah al-Sahihah 7/743 calls it anomalous (shadh). Hisn al-Muslim, chapter 27, no. 75."
+      }
+    },
+    "arabic": "أَعُوذُ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيمِ\nاللَّهُ لَا إِلَٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ لَا تَأْخُذُهُ سِنَةٌ وَلَا نَوْمٌ لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ مَنْ ذَا الَّذِي يَشْفَعُ عِنْدَهُ إِلَّا بِإِذْنِهِ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلَا يُحِيطُونَ بِشَيْءٍ مِنْ عِلْمِهِ إِلَّا بِمَا شَاءَ وَسِعَ كُرْسِيُّهُ السَّمَاوَاتِ وَالْأَرْضَ وَلَا يَئُودُهُ حِفْظُهُمَا وَهُوَ الْعَلِيُّ الْعَظِيمُ",
+    "transmitter": "Ubayy ibn Kab",
+    "collection": "Quran",
+    "hadithNumber": "2:255",
+    "grade": "quran",
+    "grader": "",
+    "repetitions": 1,
+    "order": 750,
+    "status": "published",
+    "verified": true,
+    "imageUrl": "",
+    "event": null,
+    "updatedAt": "2026-10-09T04:00:00.000Z",
+    "revision": 2
+  },
+  {
+    "id": "morning-ikhlas",
+    "kind": "dhikr",
+    "categoryId": "morning",
+    "translations": {
+      "uz-Latn": {
+        "title": "Ixlos surasi",
+        "body": "Mehribon va rahmli Alloh nomi bilan.\nAyting: U Alloh yagonadir. Alloh behojatdir, barcha Unga muhtojdir. U tug‘magan va tug‘ilmagan. Unga teng hech kim yo‘q.",
+        "transliteration": "Bismillahir-rohmanir-rohiym.\nQul huvallohu ahad. Allohus-somad. Lam yalid va lam yulad. Va lam yakul-lahu kufuvan ahad.",
+        "videoUrl": "",
+        "sourceText": "Qur’on, 112:1–4. 3 marta: Abdulloh ibn Xubayb, at-Termiziy, 3575. An-Navaviy: sahih. Hisnul muslim, 27-bob, №76."
+      },
+      "uz-Cyrl": {
+        "title": "Ихлос сураси",
+        "body": "Меҳрибон ва раҳмли Аллоҳ номи билан.\nАйтинг: У Аллоҳ ягонадир. Аллоҳ беҳожатдир, барча Унга муҳтождир. У туғмаган ва туғилмаган. Унга тенг ҳеч ким йўқ.",
+        "transliteration": "Бисмиллаҳир-роҳманир-роҳийм.\nҚул ҳуваллоҳу аҳад. Аллоҳус-сомад. Лам ялид ва лам юлад. Ва лам якул-лаҳу куфуван аҳад.",
+        "videoUrl": "",
+        "sourceText": "Қур’он, 112:1–4. 3 марта: Абдуллоҳ ибн Хубайб, ат-Термизий, 3575. Ан-Нававий: саҳиҳ. Ҳиснул муслим, 27-боб, №76."
+      },
+      "ru": {
+        "title": "Сура «Аль-Ихляс»",
+        "body": "С именем Аллаха, Милостивого, Милующего.\nСкажи: «Он — Аллах, Единственный. Аллах — Самодостаточный, в Котором нуждаются все. Он не родил и не был рождён, и нет никого равного Ему».",
+        "transliteration": "Бисмилляхи-р-рахмани-р-рахим.\nКуль Хува-Ллаху ахад. Аллаху-с-самад. Лям ялид ва лям юляд. Ва лям якуль-ляху куфуван ахад.",
+        "videoUrl": "",
+        "sourceText": "Коран, 112:1–4. Трижды: Абдуллах ибн Хубайб, ат-Тирмизи, 3575. Ан-Навави: сахих. «Крепость мусульманина», глава 27, №76."
+      },
+      "en": {
+        "title": "Surah Al-Ikhlas",
+        "body": "In Allah’s name, the Merciful, the Compassionate.\nSay: He is Allah, the One. Allah is free of need, and all depend on Him. He neither begets nor was born. No one is equal to Him.",
+        "transliteration": "Bismi-llāhi-r-Raḥmāni-r-Raḥīm.\nQul huwa-llāhu aḥad. Allāhu-ṣ-ṣamad. Lam yalid wa lam yūlad. Wa lam yakul-lahu kufuwan aḥad.",
+        "videoUrl": "",
+        "sourceText": "Quran, 112:1–4. Three times: Abdullah ibn Khubayb, at-Tirmidhi, 3575. An-Nawawi: sahih. Hisn al-Muslim, chapter 27, no. 76."
+      }
+    },
+    "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ\nقُلْ هُوَ اللَّهُ أَحَدٌ ۝ اللَّهُ الصَّمَدُ ۝ لَمْ يَلِدْ وَلَمْ يُولَدْ ۝ وَلَمْ يَكُنْ لَهُ كُفُوًا أَحَدٌ",
+    "transmitter": "Abdullah ibn Khubayb",
+    "collection": "Quran",
+    "hadithNumber": "112:1–4",
+    "grade": "quran",
+    "grader": "",
+    "repetitions": 3,
+    "order": 760,
+    "status": "published",
+    "verified": true,
+    "imageUrl": "",
+    "event": null,
+    "updatedAt": "2026-10-09T04:00:00.000Z",
+    "revision": 5
+  },
+  {
+    "id": "morning-falaq",
+    "kind": "dhikr",
+    "categoryId": "morning",
+    "translations": {
+      "uz-Latn": {
+        "title": "Falaq surasi",
+        "body": "Mehribon va rahmli Alloh nomi bilan.\nAyting: Tong Rabbidan panoh so‘rayman: U yaratgan narsalarning yomonligidan, zulmat bosgan tunning yomonligidan, tugunlarga dam soluvchilarning yomonligidan va hasad qilgan hasadgo‘yning yomonligidan.",
+        "transliteration": "Bismillahir-rohmanir-rohiym.\nQul a‘uzu birobbil-falaq. Min sharri ma xolaq. Va min sharri g‘osiqin iza vaqob. Va min sharrin-naffasati fil-‘uqod. Va min sharri hasidin iza hasad.",
+        "videoUrl": "",
+        "sourceText": "Qur’on, 113:1–5. 3 marta: Abdulloh ibn Xubayb, at-Termiziy, 3575. An-Navaviy: sahih. Hisnul muslim, 27-bob, №76."
+      },
+      "uz-Cyrl": {
+        "title": "Фалақ сураси",
+        "body": "Меҳрибон ва раҳмли Аллоҳ номи билан.\nАйтинг: Тонг Раббидан паноҳ сўрайман: У яратган нарсаларнинг ёмонлигидан, зулмат босган туннинг ёмонлигидан, тугунларга дам солувчиларнинг ёмонлигидан ва ҳасад қилган ҳасадгўйнинг ёмонлигидан.",
+        "transliteration": "Бисмиллаҳир-роҳманир-роҳийм.\nҚул аъузу бироббил-фалақ. Мин шарри ма холақ. Ва мин шарри ғосиқин иза вақоб. Ва мин шаррин-наффасати фил-‘уқод. Ва мин шарри ҳасидин иза ҳасад.",
+        "videoUrl": "",
+        "sourceText": "Қур’он, 113:1–5. 3 марта: Абдуллоҳ ибн Хубайб, ат-Термизий, 3575. Ан-Нававий: саҳиҳ. Ҳиснул муслим, 27-боб, №76."
+      },
+      "ru": {
+        "title": "Сура «Аль-Фаляк»",
+        "body": "С именем Аллаха, Милостивого, Милующего.\nСкажи: «Прибегаю к защите Господа рассвета от зла того, что Он сотворил, от зла ночи, когда она сгущается, от зла дующих на узлы и от зла завистника, когда он завидует».",
+        "transliteration": "Бисмилляхи-р-рахмани-р-рахим.\nКуль а‘узу би-Рабби-ль-фаляк. Мин шарри ма халяк. Ва мин шарри гасикин иза вакаб. Ва мин шарри-н-наффасати филь-‘укад. Ва мин шарри хасидин иза хасад.",
+        "videoUrl": "",
+        "sourceText": "Коран, 113:1–5. Трижды: Абдуллах ибн Хубайб, ат-Тирмизи, 3575. Ан-Навави: сахих. «Крепость мусульманина», глава 27, №76."
+      },
+      "en": {
+        "title": "Surah Al-Falaq",
+        "body": "In Allah’s name, the Merciful, the Compassionate.\nSay: I seek protection in the Lord of daybreak, from the evil of what He created, from the evil of night as it darkens, from the evil of those who blow on knots, and from the evil of an envier when they envy.",
+        "transliteration": "Bismi-llāhi-r-Raḥmāni-r-Raḥīm.\nQul aʿūdhu bi-rabbi-l-falaq. Min sharri mā khalaq. Wa min sharri ghāsiqin idhā waqab. Wa min sharri-n-naffāthāti fi-l-ʿuqad. Wa min sharri ḥāsidin idhā ḥasad.",
+        "videoUrl": "",
+        "sourceText": "Quran, 113:1–5. Three times: Abdullah ibn Khubayb, at-Tirmidhi, 3575. An-Nawawi: sahih. Hisn al-Muslim, chapter 27, no. 76."
+      }
+    },
+    "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ\nقُلْ أَعُوذُ بِرَبِّ الْفَلَقِ ۝ مِنْ شَرِّ مَا خَلَقَ ۝ وَمِنْ شَرِّ غَاسِقٍ إِذَا وَقَبَ ۝ وَمِنْ شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ ۝ وَمِنْ شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+    "transmitter": "Abdullah ibn Khubayb",
+    "collection": "Quran",
+    "hadithNumber": "113:1–5",
+    "grade": "quran",
+    "grader": "",
+    "repetitions": 3,
+    "order": 761,
+    "status": "published",
+    "verified": true,
+    "imageUrl": "",
+    "event": null,
+    "updatedAt": "2026-10-09T04:00:00.000Z",
+    "revision": 5
+  },
+  {
+    "id": "morning-nas",
+    "kind": "dhikr",
+    "categoryId": "morning",
+    "translations": {
+      "uz-Latn": {
+        "title": "Nos surasi",
+        "body": "Mehribon va rahmli Alloh nomi bilan.\nAyting: Odamlarning Rabbidan, odamlarning Podshohidan, odamlarning Ilohidan panoh so‘rayman: odamlarning ko‘ksiga vasvasa soladigan, yashirinadigan vasvasachining yomonligidan — jinlar va odamlar orasidan bo‘lgan vasvasachilardan.",
+        "transliteration": "Bismillahir-rohmanir-rohiym.\nQul a‘uzu birobbin-nas. Malikin-nas. Ilahin-nas. Min sharril-vasvasil-xonnas. Allaziy yuvasvisu fiy sudurin-nas. Minal-jinnati van-nas.",
+        "videoUrl": "",
+        "sourceText": "Qur’on, 114:1–6. 3 marta: Abdulloh ibn Xubayb, at-Termiziy, 3575. An-Navaviy: sahih. Hisnul muslim, 27-bob, №76."
+      },
+      "uz-Cyrl": {
+        "title": "Нос сураси",
+        "body": "Меҳрибон ва раҳмли Аллоҳ номи билан.\nАйтинг: Одамларнинг Раббидан, одамларнинг Подшоҳидан, одамларнинг Илоҳидан паноҳ сўрайман: одамларнинг кўксига васваса соладиган, яширинадиган васвасачининг ёмонлигидан — жинлар ва одамлар орасидан бўлган васвасачилардан.",
+        "transliteration": "Бисмиллаҳир-роҳманир-роҳийм.\nҚул аъузу бироббин-нас. Маликин-нас. Илаҳин-нас. Мин шаррил-васвасил-хоннас. Аллазий ювасвису фий судурин-нас. Минал-жиннати ван-нас.",
+        "videoUrl": "",
+        "sourceText": "Қур’он, 114:1–6. 3 марта: Абдуллоҳ ибн Хубайб, ат-Термизий, 3575. Ан-Нававий: саҳиҳ. Ҳиснул муслим, 27-боб, №76."
+      },
+      "ru": {
+        "title": "Сура «Ан-Нас»",
+        "body": "С именем Аллаха, Милостивого, Милующего.\nСкажи: «Прибегаю к защите Господа людей, Царя людей, Бога людей от зла наущателя, отступающего и скрывающегося, который нашёптывает в груди людей, из числа джиннов и людей».",
+        "transliteration": "Бисмилляхи-р-рахмани-р-рахим.\nКуль а‘узу би-Рабби-н-нас. Малики-н-нас. Иляхи-н-нас. Мин шарри-ль-васваси-ль-ханнас. Аллязи ювасвису фи судури-н-нас. Мина-ль-джиннати ва-н-нас.",
+        "videoUrl": "",
+        "sourceText": "Коран, 114:1–6. Трижды: Абдуллах ибн Хубайб, ат-Тирмизи, 3575. Ан-Навави: сахих. «Крепость мусульманина», глава 27, №76."
+      },
+      "en": {
+        "title": "Surah An-Nas",
+        "body": "In Allah’s name, the Merciful, the Compassionate.\nSay: I seek protection in the Lord of people, the King of people, the God of people, from the evil of the retreating whisperer who whispers into people’s hearts, from among jinn and people.",
+        "transliteration": "Bismi-llāhi-r-Raḥmāni-r-Raḥīm.\nQul aʿūdhu bi-rabbi-n-nās. Maliki-n-nās. Ilāhi-n-nās. Min sharri-l-waswāsi-l-khannās. Alladhī yuwaswisu fī ṣudūri-n-nās. Mina-l-jinnati wa-n-nās.",
+        "videoUrl": "",
+        "sourceText": "Quran, 114:1–6. Three times: Abdullah ibn Khubayb, at-Tirmidhi, 3575. An-Nawawi: sahih. Hisn al-Muslim, chapter 27, no. 76."
+      }
+    },
+    "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ\nقُلْ أَعُوذُ بِرَبِّ النَّاسِ ۝ مَلِكِ النَّاسِ ۝ إِلَهِ النَّاسِ ۝ مِنْ شَرِّ الْوَسْوَاسِ الْخَنَّاسِ ۝ الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ ۝ مِنَ الْجِنَّةِ وَالنَّاسِ",
+    "transmitter": "Abdullah ibn Khubayb",
+    "collection": "Quran",
+    "hadithNumber": "114:1–6",
+    "grade": "quran",
+    "grader": "",
+    "repetitions": 3,
+    "order": 762,
+    "status": "published",
+    "verified": true,
+    "imageUrl": "",
+    "event": null,
+    "updatedAt": "2026-10-09T04:00:00.000Z",
+    "revision": 5
+  },
+  {
+    "id": "morning-sovereignty",
+    "kind": "dhikr",
+    "categoryId": "morning",
+    "translations": {
+      "uz-Latn": {
+        "title": "Tong yaxshiligini so‘rash",
+        "body": "Tongga yetdik, barcha hukmronlik Allohnikidir. Allohga hamd bo‘lsin. Yagona Allohdan o‘zga ibodatga haqli iloh yo‘q, Uning sherigi yo‘q. Hukmronlik va hamd Ungadir, U har bir narsaga qodir. Rabbim, Sendan bu kunning va undan keyingi vaqtning yaxshiligini so‘rayman. Bu kunning va undan keyingi vaqtning yomonligidan Senga panoh so‘rayman. Rabbim, dangasalik va keksalikning yomonligidan Senga panoh so‘rayman. Rabbim, do‘zax azobi va qabr azobidan Senga panoh so‘rayman.",
+        "transliteration": "Asbahna va asbahal-mulku lillahi val-hamdu lillah. La ilaha illallohu vahdahu la shariyka lah. Lahul-mulku va lahul-hamdu va huva ‘ala kulli shay’in qodiyr. Robbi as’aluka xoyro ma fiy hazal-yavmi va xoyro ma ba‘dahu. Va a‘uzu bika min sharri ma fiy hazal-yavmi va sharri ma ba‘dahu. Robbi a‘uzu bika minal-kasali va su’il-kibar. Robbi a‘uzu bika min ‘azabin fin-nari va ‘azabin fil-qobr.",
+        "videoUrl": "",
+        "sourceText": "Abdulloh ibn Mas’ud. Sahih Muslim, 2723b. Hisnul muslim, 27-bob, №77."
+      },
+      "uz-Cyrl": {
+        "title": "Тонг яхшилигини сўраш",
+        "body": "Тонгга етдик, барча ҳукмронлик Аллоҳникидир. Аллоҳга ҳамд бўлсин. Ягона Аллоҳдан ўзга ибодатга ҳақли илоҳ йўқ, Унинг шериги йўқ. Ҳукмронлик ва ҳамд Унгадир, У ҳар бир нарсага қодир. Раббим, Сендан бу куннинг ва ундан кейинги вақтнинг яхшилигини сўрайман. Бу куннинг ва ундан кейинги вақтнинг ёмонлигидан Сенга паноҳ сўрайман. Раббим, дангасалик ва кексаликнинг ёмонлигидан Сенга паноҳ сўрайман. Раббим, дўзах азоби ва қабр азобидан Сенга паноҳ сўрайман.",
+        "transliteration": "Асбаҳна ва асбаҳал-мулку лиллаҳи вал-ҳамду лиллаҳ. Ла илаҳа иллаллоҳу ваҳдаҳу ла шарийка лаҳ. Лаҳул-мулку ва лаҳул-ҳамду ва ҳува ‘ала кулли шай’ин қодийр. Робби ас’алука хойро ма фий ҳазал-явми ва хойро ма баъдаҳу. Ва аъузу бика мин шарри ма фий ҳазал-явми ва шарри ма баъдаҳу. Робби аъузу бика минал-касали ва су’ил-кибар. Робби аъузу бика мин ‘азабин фин-нари ва ‘азабин фил-қобр.",
+        "videoUrl": "",
+        "sourceText": "Абдуллоҳ ибн Мас’уд. Саҳиҳ Муслим, 2723б. Ҳиснул муслим, 27-боб, №77."
+      },
+      "ru": {
+        "title": "Просьба о благе дня",
+        "body": "Мы встретили утро, и вся власть принадлежит Аллаху. Хвала Аллаху! Нет достойного поклонения, кроме одного Аллаха, у Которого нет сотоварища. Ему принадлежат власть и хвала, и Он способен на всякую вещь. Господь мой, прошу у Тебя блага в этом дне и после него; прибегаю к Твоей защите от зла в этом дне и после него. Господь мой, прибегаю к Твоей защите от лени и тягот старости. Господь мой, прибегаю к Твоей защите от мучений в Огне и в могиле.",
+        "transliteration": "Асбахна ва асбаха-ль-мульку ли-Лляхи ва-ль-хамду ли-Ллях. Ля иляха илля-Ллаху вахдаху ля шарика лях. Ляху-ль-мульку ва ляху-ль-хамду ва Хува ‘аля кулли шай’ин кадир. Рабби ас’алюка хайра ма фи хаза-ль-яуми ва хайра ма ба‘даху. Ва а‘узу бика мин шарри ма фи хаза-ль-яуми ва шарри ма ба‘даху. Рабби а‘узу бика мина-ль-касали ва су’и-ль-кибар. Рабби а‘узу бика мин ‘азабин фи-н-нари ва ‘азабин фи-ль-кабр.",
+        "videoUrl": "",
+        "sourceText": "Абдуллах ибн Мас‘уд. Сахих Муслим, 2723b. «Крепость мусульманина», глава 27, №77."
+      },
+      "en": {
+        "title": "Asking for the day’s good",
+        "body": "We have reached the morning, and all dominion belongs to Allah. Praise be to Allah! None is worthy of worship except Allah alone, without any partner. Dominion and praise belong to Him, and He has power over all things. My Lord, grant me the good in this day and what follows it; protect me from the evil in this day and what follows it. My Lord, protect me from laziness and the hardships of old age. My Lord, protect me from punishment in the Fire and in the grave.",
+        "transliteration": "Aṣbaḥnā wa aṣbaḥa-l-mulku lillāhi wa-l-ḥamdu lillāh. Lā ilāha illa-llāhu waḥdahu lā sharīka lah. Lahu-l-mulku wa lahu-l-ḥamdu wa huwa ʿalā kulli shayʾin qadīr. Rabbi asʾaluka khayra mā fī hādha-l-yawmi wa khayra mā baʿdahu. Wa aʿūdhu bika min sharri mā fī hādha-l-yawmi wa sharri mā baʿdahu. Rabbi aʿūdhu bika mina-l-kasali wa sūʾi-l-kibar. Rabbi aʿūdhu bika min ʿadhābin fi-n-nāri wa ʿadhābin fi-l-qabr.",
+        "videoUrl": "",
+        "sourceText": "Abdullah ibn Masud. Sahih Muslim, 2723b. Hisn al-Muslim, chapter 27, no. 77."
+      }
+    },
+    "arabic": "أَصْبَحْنَا وَأَصْبَحَ الْمُلْكُ لِلَّهِ وَالْحَمْدُ لِلَّهِ، لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ، رَبِّ أَسْأَلُكَ خَيْرَ مَا فِي هَذَا الْيَوْمِ وَخَيْرَ مَا بَعْدَهُ، وَأَعُوذُ بِكَ مِنْ شَرِّ مَا فِي هَذَا الْيَوْمِ وَشَرِّ مَا بَعْدَهُ، رَبِّ أَعُوذُ بِكَ مِنَ الْكَسَلِ وَسُوءِ الْكِبَرِ، رَبِّ أَعُوذُ بِكَ مِنْ عَذَابٍ فِي النَّارِ وَعَذَابٍ فِي الْقَبْرِ",
+    "transmitter": "Abdullah ibn Masud",
+    "collection": "Sahih Muslim",
+    "hadithNumber": "2723b",
+    "grade": "sahih",
+    "grader": "",
+    "repetitions": null,
+    "order": 770,
+    "status": "published",
+    "verified": true,
+    "imageUrl": "",
+    "event": null,
+    "updatedAt": "2026-10-09T04:00:00.000Z",
+    "revision": 4
+  },
+  {
+    "id": "morning-by-you",
+    "kind": "dhikr",
+    "categoryId": "morning",
+    "translations": {
+      "uz-Latn": {
+        "title": "Allohning qudrati bilan tong ottirish",
+        "body": "Allohim, Sening qudrating bilan tong ottirdik va kechga yetdik. Sen tufayli yashaymiz va vafot etamiz. Qayta tirilib Senga qaytamiz.",
+        "transliteration": "Allohumma bika asbahna va bika amsayna va bika nahya va bika namutu va ilaykan-nushur.",
+        "videoUrl": "",
+        "sourceText": "Abu Hurayra. Abu Dovud, 5068; Nasaiy, as-Sunan al-kubro, 10399. Ushbu lafz: Ibn Hajar, Nataij al-afkor, 2/350 — sahih g‘arib. Rivoyatlarda oxirgi jumla variantlari bor. Hisnul muslim, 27-bob, №78."
+      },
+      "uz-Cyrl": {
+        "title": "Аллоҳнинг қудрати билан тонг оттириш",
+        "body": "Аллоҳим, Сенинг қудратинг билан тонг оттирдик ва кечга етдик. Сен туфайли яшаймиз ва вафот этамиз. Қайта тирилиб Сенга қайтамиз.",
+        "transliteration": "Аллоҳумма бика асбаҳна ва бика амсайна ва бика наҳя ва бика намуту ва илайкан-нушур.",
+        "videoUrl": "",
+        "sourceText": "Абу Ҳурайра. Абу Довуд, 5068; Насаий, ас-Сунан ал-кубро, 10399. Ушбу лафз: Ибн Ҳажар, Натаиж ал-афкор, 2/350 — саҳиҳ ғариб. Ривоятларда охирги жумла вариантлари бор. Ҳиснул муслим, 27-боб, №78."
+      },
+      "ru": {
+        "title": "Благодаря Аллаху мы встретили утро",
+        "body": "О Аллах, благодаря Тебе мы встретили утро и вечер. По Твоей воле мы живём и умираем, и к Тебе вернёмся после воскрешения.",
+        "transliteration": "Аллахумма бика асбахна ва бика амсайна ва бика нахйа ва бика намуту ва иляйка-н-нушур.",
+        "videoUrl": "",
+        "sourceText": "Абу Хурайра. Абу Дауд, 5068; ан-Насаи, ас-Сунан аль-кубра, 10399. Эта формулировка: Ибн Хаджар, «Натаидж аль-афкар», 2/350 — сахих гариб. В передачах есть варианты заключительной фразы. «Крепость мусульманина», глава 27, №78."
+      },
+      "en": {
+        "title": "Through Allah we reach morning",
+        "body": "O Allah, through You we reach morning and evening; through You we live and die, and to You we shall rise again.",
+        "transliteration": "Allāhumma bika aṣbaḥnā wa bika amsaynā wa bika naḥyā wa bika namūtu wa ilayka-n-nushūr.",
+        "videoUrl": "",
+        "sourceText": "Abu Hurayrah. Abu Dawud 5068; al-Nasai, al-Sunan al-Kubra 10399. This wording: Ibn Hajar, Nataij al-Afkar 2/350 — sahih gharib. Narrations have different concluding phrases. Hisn al-Muslim, chapter 27, no. 78."
+      }
+    },
+    "arabic": "اللَّهُمَّ بِكَ أَصْبَحْنَا وَبِكَ أَمْسَيْنَا وَبِكَ نَحْيَا وَبِكَ نَمُوتُ وَإِلَيْكَ النُّشُورُ",
+    "transmitter": "Abu Hurayrah",
+    "collection": "Sunan Abi Dawud / al-Sunan al-Kubra",
+    "hadithNumber": "5068 / 10399",
+    "grade": "sahih",
+    "grader": "Ibn Hajar: sahih gharib (Nataij al-Afkar 2/350)",
+    "repetitions": null,
+    "order": 780,
+    "status": "published",
+    "verified": true,
+    "imageUrl": "",
+    "event": null,
+    "updatedAt": "2026-10-09T04:00:00.000Z",
+    "revision": 2
+  },
+  {
+    "id": "morning-sayyid-istighfar",
+    "kind": "dhikr",
+    "categoryId": "morning",
+    "translations": {
+      "uz-Latn": {
+        "title": "Sayyidul istig‘for",
+        "body": "Allohim, Sen mening Rabbimsan. Sendan o‘zga ibodatga haqli iloh yo‘q. Meni Sen yaratding, men Sening bandangman. Kuchim yetganicha Senga bergan ahdim va va‘damda turaman. Qilgan ishlarimning yomonligidan Senga panoh so‘rayman. Menga bergan ne‘matlaringni va gunohimni e‘tirof etaman. Meni kechir, chunki gunohlarni faqat Sen kechirasan.",
+        "transliteration": "Allohumma anta Robbiy, la ilaha illa anta. Xolaqtaniy va ana ‘abduka, va ana ‘ala ‘ahdika va va‘dika mastato‘tu. A‘uzu bika min sharri ma sona‘tu. Abu’u laka bini‘matika ‘alayya, va abu’u laka bizanbiy. Fag‘fir liy, fa innahu la yag‘firuz-zunuba illa anta.",
+        "videoUrl": "",
+        "sourceText": "Shaddod ibn Avs. Sahih al-Buxoriy, 6306. Hisnul muslim, 27-bob, №79."
+      },
+      "uz-Cyrl": {
+        "title": "Саййидул истиғфор",
+        "body": "Аллоҳим, Сен менинг Раббимсан. Сендан ўзга ибодатга ҳақли илоҳ йўқ. Мени Сен яратдинг, мен Сенинг бандангман. Кучим етганича Сенга берган аҳдим ва ваъдамда тураман. Қилган ишларимнинг ёмонлигидан Сенга паноҳ сўрайман. Менга берган неъматларингни ва гуноҳимни эътироф этаман. Мени кечир, чунки гуноҳларни фақат Сен кечирасан.",
+        "transliteration": "Аллоҳумма анта Роббий, ла илаҳа илла анта. Холақтаний ва ана ‘абдука, ва ана ‘ала ‘аҳдика ва ваъдика мастатўту. Аъузу бика мин шарри ма сонаъту. Абу’у лака биниъматика ‘алайя, ва абу’у лака бизанбий. Фағфир лий, фа иннаҳу ла яғфируз-зунуба илла анта.",
+        "videoUrl": "",
+        "sourceText": "Шаддод ибн Авс. Саҳиҳ ал-Бухорий, 6306. Ҳиснул муслим, 27-боб, №79."
+      },
+      "ru": {
+        "title": "Саййид аль-истигфар",
+        "body": "О Аллах, Ты — мой Господь, и нет достойного поклонения, кроме Тебя. Ты создал меня, и я — Твой раб. Я верен завету и обещанию Тебе, насколько могу. Прибегаю к Твоей защите от зла содеянного мной. Признаю Твои милости ко мне и свой грех. Прости меня, ведь никто, кроме Тебя, не прощает грехов.",
+        "transliteration": "Аллахумма Анта Рабби, ля иляха илля Анта. Халяктани ва ана ‘абдука, ва ана ‘аля ‘ахдика ва ва‘дика мастата‘ту. А‘узу бика мин шарри ма сана‘ту. Абу’у ляка бини‘матика ‘аляйя, ва абу’у ляка бизанби. Фагфир ли, фа иннаху ля ягфиру-з-зунуба илля Анта.",
+        "videoUrl": "",
+        "sourceText": "Шаддад ибн Аус. Сахих аль-Бухари, 6306. «Крепость мусульманина», глава 27, №79."
+      },
+      "en": {
+        "title": "Sayyid al-istighfar",
+        "body": "O Allah, You are my Lord; none is worthy of worship except You. You created me, and I am Your servant. I keep my covenant and promise to You as best I can. I seek Your protection from the evil I have done. I acknowledge Your blessings upon me and confess my sin. Forgive me, for none forgives sins except You.",
+        "transliteration": "Allāhumma anta rabbī, lā ilāha illā anta. Khalaqtanī wa anā ʿabduka, wa anā ʿalā ʿahdika wa waʿdika mā-staṭaʿtu. Aʿūdhu bika min sharri mā ṣanaʿtu. Abūʾu laka biniʿmatika ʿalayya, wa abūʾu laka bidhanbī. Faghfir lī, fa innahu lā yaghfiru-dh-dhunūba illā anta.",
+        "videoUrl": "",
+        "sourceText": "Shaddad ibn Aws. Sahih al-Bukhari, 6306. Hisn al-Muslim, chapter 27, no. 79."
+      }
+    },
+    "arabic": "اللَّهُمَّ أَنْتَ رَبِّي لَا إِلَهَ إِلَّا أَنْتَ، خَلَقْتَنِي وَأَنَا عَبْدُكَ، وَأَنَا عَلَى عَهْدِكَ وَوَعْدِكَ مَا اسْتَطَعْتُ، أَعُوذُ بِكَ مِنْ شَرِّ مَا صَنَعْتُ، أَبُوءُ لَكَ بِنِعْمَتِكَ عَلَيَّ، وَأَبُوءُ لَكَ بِذَنْبِي، فَاغْفِرْ لِي، فَإِنَّهُ لَا يَغْفِرُ الذُّنُوبَ إِلَّا أَنْتَ",
+    "transmitter": "Shaddad ibn Aws",
+    "collection": "Sahih al-Bukhari",
+    "hadithNumber": "6306",
+    "grade": "sahih",
+    "grader": "",
+    "repetitions": 1,
+    "order": 790,
+    "status": "published",
+    "verified": true,
+    "imageUrl": "",
+    "event": null,
+    "updatedAt": "2026-10-09T04:00:00.000Z",
+    "revision": 5
+  },
+  {
+    "id": "morning-wellbeing",
+    "kind": "dhikr",
+    "categoryId": "morning",
+    "translations": {
+      "uz-Latn": {
+        "title": "Afv va ofiyat so‘rash",
+        "body": "Allohim, Sendan dunyo va oxiratda ofiyat so‘rayman. Allohim, dinimda, dunyoviy ishlarimda, oilam va molimda afv va ofiyat so‘rayman. Allohim, ayblarimni berkit, qo‘rquvlarimdan omon qil. Allohim, meni oldimdan, ortimdan, o‘ngimdan, chapimdan va tepamdan asra. Ostimdan kutilmaganda halokatga uchrashdan Sening ulug‘liging bilan panoh so‘rayman.",
+        "transliteration": "Allohumma inniy as’alukal-‘afiyata fid-dunya val-axiroh. Allohumma inniy as’alukal-‘afva val-‘afiyata fiy diyniy va dunyaya va ahliy va maliy. Allohummastur ‘avrotiy va amin rov‘atiy. Allohummahfazniy min bayni yadayya va min xolfiy va ‘an yamiyniy va ‘an shimaliy va min favqiy. Va a‘uzu bi‘azomatika an ug‘tala min tahtiy.",
+        "videoUrl": "",
+        "sourceText": "Abdulloh ibn Umar. Sunan Abu Dovud, 5074. Al-Alboniy: sahih. Hisnul muslim, 27-bob, №84."
+      },
+      "uz-Cyrl": {
+        "title": "Афв ва офият сўраш",
+        "body": "Аллоҳим, Сендан дунё ва охиратда офият сўрайман. Аллоҳим, динимда, дунёвий ишларимда, оилам ва молимда афв ва офият сўрайман. Аллоҳим, айбларимни беркит, қўрқувларимдан омон қил. Аллоҳим, мени олдимдан, ортимдан, ўнгимдан, чапимдан ва тепамдан асра. Остимдан кутилмаганда ҳалокатга учрашдан Сенинг улуғлигинг билан паноҳ сўрайман.",
+        "transliteration": "Аллоҳумма инний ас’алукал-‘афията фид-дуня вал-ахироҳ. Аллоҳумма инний ас’алукал-‘афва вал-‘афията фий дийний ва дуняя ва аҳлий ва малий. Аллоҳуммастур ‘авротий ва амин ровъатий. Аллоҳуммаҳфазний мин байни ядайя ва мин холфий ва ‘ан ямийний ва ‘ан шималий ва мин фавқий. Ва аъузу биъазоматика ан уғтала мин таҳтий.",
+        "videoUrl": "",
+        "sourceText": "Абдуллоҳ ибн Умар. Сунан Абу Довуд, 5074. Ал-Албоний: саҳиҳ. Ҳиснул муслим, 27-боб, №84."
+      },
+      "ru": {
+        "title": "Просьба о прощении и благополучии",
+        "body": "О Аллах, прошу у Тебя благополучия в этой жизни и в Последней. О Аллах, прошу у Тебя прощения и благополучия в моей религии, мирских делах, семье и имуществе. О Аллах, скрой мои недостатки и избавь меня от страхов. О Аллах, защити меня спереди, сзади, справа, слева и сверху. Прибегаю к Твоему величию от внезапной гибели снизу.",
+        "transliteration": "Аллахумма инни ас’алюка-ль-‘афията фи-д-дунья ва-ль-ахира. Аллахумма инни ас’алюка-ль-‘афва ва-ль-‘афията фи дини ва дуньяя ва ахли ва мали. Аллахумма-стур ‘аурати ва амин рау‘ати. Аллахумма-хфазни мин байни ядайя ва мин хальфи ва ‘ан ямини ва ‘ан шимали ва мин фаукы. Ва а‘узу би-‘азаматика ан угталя мин тахти.",
+        "videoUrl": "",
+        "sourceText": "Абдуллах ибн Умар. Сунан Абу Дауд, 5074. Аль-Альбани: сахих. «Крепость мусульманина», глава 27, №84."
+      },
+      "en": {
+        "title": "Asking for pardon and well-being",
+        "body": "O Allah, grant me well-being in this life and the next. O Allah, grant me pardon and well-being in my faith, worldly affairs, family and possessions. O Allah, cover my faults and free me from my fears. O Allah, protect me in front, behind, to my right, to my left and above. I seek refuge in Your greatness from sudden destruction beneath me.",
+        "transliteration": "Allāhumma innī asʾaluka-l-ʿāfiyata fi-d-dunyā wa-l-ākhirah. Allāhumma innī asʾaluka-l-ʿafwa wa-l-ʿāfiyata fī dīnī wa dunyāya wa ahlī wa mālī. Allāhumma-stur ʿawrātī wa āmin rawʿātī. Allāhumma-ḥfaẓnī min bayni yadayya wa min khalfī wa ʿan yamīnī wa ʿan shimālī wa min fawqī. Wa aʿūdhu biʿaẓamatika an ughtāla min taḥtī.",
+        "videoUrl": "",
+        "sourceText": "Abdullah ibn Umar. Sunan Abi Dawud, 5074. Al-Albani: sahih. Hisn al-Muslim, chapter 27, no. 84."
+      }
+    },
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْعَافِيَةَ فِي الدُّنْيَا وَالْآخِرَةِ، اللَّهُمَّ إِنِّي أَسْأَلُكَ الْعَفْوَ وَالْعَافِيَةَ فِي دِينِي وَدُنْيَايَ وَأَهْلِي وَمَالِي، اللَّهُمَّ اسْتُرْ عَوْرَاتِي وَآمِنْ رَوْعَاتِي، اللَّهُمَّ احْفَظْنِي مِنْ بَيْنِ يَدَيَّ وَمِنْ خَلْفِي وَعَنْ يَمِينِي وَعَنْ شِمَالِي وَمِنْ فَوْقِي، وَأَعُوذُ بِعَظَمَتِكَ أَنْ أُغْتَالَ مِنْ تَحْتِي",
+    "transmitter": "Abdullah ibn Umar",
+    "collection": "Sunan Abi Dawud",
+    "hadithNumber": "5074",
+    "grade": "sahih",
+    "grader": "Al-Albani",
+    "repetitions": null,
+    "order": 840,
+    "status": "published",
+    "verified": true,
+    "imageUrl": "",
+    "event": null,
+    "updatedAt": "2026-10-09T04:00:00.000Z",
+    "revision": 4
+  },
+  {
+    "id": "morning-unseen",
+    "kind": "dhikr",
+    "categoryId": "morning",
+    "translations": {
+      "uz-Latn": {
+        "title": "Nafs va shayton yomonligidan panoh",
+        "body": "Allohim, osmonlar va yerni yaratgan, g‘ayb va oshkorni bilgan, har bir narsaning Rabbi va Egasi! Guvohlik beramanki, Sendan o‘zga ibodatga haqli iloh yo‘q. Nafsimning yomonligidan, shaytonning yomonligi va shirkka chaqirishidan Senga panoh so‘rayman. O‘zimga yomonlik qilishdan yoki uni bir musulmonga yetkazishdan ham Senga panoh so‘rayman.",
+        "transliteration": "Allohumma fatiros-samavati val-ard, ‘alimal-g‘oybi vash-shahadah, robba kulli shay’in va malikah. Ashhadu al-la ilaha illa anta. A‘uzu bika min sharri nafsiy va sharrish-shaytoni va shirkih. Va an aqtarifa ‘ala nafsiy su’an av ajurrohu ila muslim.",
+        "videoUrl": "",
+        "sourceText": "Abu Hurayra Abu Bakr haqida rivoyat qilgan. Sunan Abu Dovud, 5067. Al-Alboniy: sahih. Qo‘shimcha: Abdulloh ibn Amr, al-Adab al-mufrad, 1204; Al-Alboniy, Sahih al-Adab al-mufrad, 914: sahih. Hisnul muslim, 27-bob, №85."
+      },
+      "uz-Cyrl": {
+        "title": "Нафс ва шайтон ёмонлигидан паноҳ",
+        "body": "Аллоҳим, осмонлар ва ерни яратган, ғайб ва ошкорни билган, ҳар бир нарсанинг Рабби ва Эгаси! Гувоҳлик бераманки, Сендан ўзга ибодатга ҳақли илоҳ йўқ. Нафсимнинг ёмонлигидан, шайтоннинг ёмонлиги ва ширкка чақиришидан Сенга паноҳ сўрайман. Ўзимга ёмонлик қилишдан ёки уни бир мусулмонга етказишдан ҳам Сенга паноҳ сўрайман.",
+        "transliteration": "Аллоҳумма фатирос-самавати вал-ард, ‘алимал-ғойби ваш-шаҳадаҳ, робба кулли шай’ин ва маликаҳ. Ашҳаду ал-ла илаҳа илла анта. Аъузу бика мин шарри нафсий ва шарриш-шайтони ва ширкиҳ. Ва ан ақтарифа ‘ала нафсий су’ан ав ажурроҳу ила муслим.",
+        "videoUrl": "",
+        "sourceText": "Абу Ҳурайра Абу Бакр ҳақида ривоят қилган. Сунан Абу Довуд, 5067. Ал-Албоний: саҳиҳ. Қўшимча: Абдуллоҳ ибн Амр, ал-Адаб ал-муфрад, 1204; Ал-Албоний, Саҳиҳ ал-Адаб ал-муфрад, 914: саҳиҳ. Ҳиснул муслим, 27-боб, №85."
+      },
+      "ru": {
+        "title": "Защита от зла души и шайтана",
+        "body": "О Аллах, Творец небес и земли, Знающий сокровенное и явное, Господь и Владыка всего! Свидетельствую, что нет достойного поклонения, кроме Тебя. Прибегаю к Твоей защите от зла моей души, от зла шайтана и его призыва к многобожию. Также прибегаю к Твоей защите от того, чтобы причинить зло себе или другому мусульманину.",
+        "transliteration": "Аллахумма фатыра-с-самавати ва-ль-ард, ‘алима-ль-гайби ва-ш-шахада, Рабба кулли шай’ин ва маликах. Ашхаду ал-ля иляха илля Анта. А‘узу бика мин шарри нафси ва шарри-ш-шайтани ва ширких. Ва ан актарифа ‘аля нафси су’ан ау аджурраху иля муслим.",
+        "videoUrl": "",
+        "sourceText": "Абу Хурайра передал рассказ об Абу Бакре. Сунан Абу Дауд, 5067. Аль-Альбани: сахих. Дополнение: Абдуллах ибн Амр, «аль-Адаб аль-муфрад», 1204; аль-Альбани, «Сахих аль-Адаб аль-муфрад», 914: сахих. «Крепость мусульманина», глава 27, №85."
+      },
+      "en": {
+        "title": "Protection from the soul’s evil and Satan",
+        "body": "O Allah, Originator of the heavens and earth, Knower of the hidden and the visible, Lord and Owner of all things! I testify that none is worthy of worship except You. I seek Your protection from the evil of my own soul, from Satan’s evil and his call to associate partners with You. I also seek Your protection from doing evil to myself or causing it to another Muslim.",
+        "transliteration": "Allāhumma fāṭira-s-samāwāti wa-l-arḍ, ʿālima-l-ghaybi wa-sh-shahādah, rabba kulli shayʾin wa malīkah. Ashhadu al-lā ilāha illā anta. Aʿūdhu bika min sharri nafsī wa sharri-sh-shayṭāni wa shirkih. Wa an aqtarifa ʿalā nafsī sūʾan aw ajurrahu ilā muslim.",
+        "videoUrl": "",
+        "sourceText": "Abu Huraira reported the account of Abu Bakr. Sunan Abi Dawud, 5067. Al-Albani: sahih. Addition: Abdullah ibn Amr, al-Adab al-Mufrad 1204; al-Albani, Sahih al-Adab al-Mufrad 914: sahih. Hisn al-Muslim, chapter 27, no. 85."
+      }
+    },
+    "arabic": "اللَّهُمَّ فَاطِرَ السَّمَاوَاتِ وَالْأَرْضِ، عَالِمَ الْغَيْبِ وَالشَّهَادَةِ، رَبَّ كُلِّ شَيْءٍ وَمَلِيكَهُ، أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا أَنْتَ، أَعُوذُ بِكَ مِنْ شَرِّ نَفْسِي وَشَرِّ الشَّيْطَانِ وَشِرْكِهِ وَأَنْ أَقْتَرِفَ عَلَى نَفْسِي سُوءًا أَوْ أَجُرَّهُ إِلَى مُسْلِمٍ",
+    "transmitter": "Abu Huraira, reporting Abu Bakr",
+    "collection": "Sunan Abi Dawud",
+    "hadithNumber": "5067",
+    "grade": "sahih",
+    "grader": "Al-Albani",
+    "repetitions": null,
+    "order": 850,
+    "status": "published",
+    "verified": true,
+    "imageUrl": "",
+    "event": null,
+    "updatedAt": "2026-10-09T04:00:00.000Z",
+    "revision": 4
+  },
+  {
+    "id": "morning-bismillah",
+    "kind": "dhikr",
+    "categoryId": "morning",
+    "translations": {
+      "uz-Latn": {
+        "title": "Allohning nomi bilan himoya so‘rash",
+        "body": "Allohning nomi bilan. Uning nomi zikr qilinganda yerda ham, osmonda ham hech narsa zarar yetkaza olmaydi. U Eshituvchi, Biluvchidir.",
+        "transliteration": "Bismillahil-laziy la yadurru ma‘a-smihi shay’un fil-ardi va la fis-sama’i, va huvas-Sami‘ul-‘Aliym.",
+        "videoUrl": "",
+        "sourceText": "Usmon ibn Affon. Sunan Abu Dovud, 5088. Al-Alboniy: sahih. Hisnul muslim, 27-bob, №86."
+      },
+      "uz-Cyrl": {
+        "title": "Аллоҳнинг номи билан ҳимоя сўраш",
+        "body": "Аллоҳнинг номи билан. Унинг номи зикр қилинганда ерда ҳам, осмонда ҳам ҳеч нарса зарар етказа олмайди. У Эшитувчи, Билувчидир.",
+        "transliteration": "Бисмиллаҳил-лазий ла ядурру маъа-смиҳи шай’ун фил-арди ва ла фис-сама’и, ва ҳувас-Самиъул-‘Алийм.",
+        "videoUrl": "",
+        "sourceText": "Усмон ибн Аффон. Сунан Абу Довуд, 5088. Ал-Албоний: саҳиҳ. Ҳиснул муслим, 27-боб, №86."
+      },
+      "ru": {
+        "title": "Защита с именем Аллаха",
+        "body": "С именем Аллаха, с именем Которого ничто не причинит вреда ни на земле, ни на небе. Он — Слышащий, Знающий.",
+        "transliteration": "Бисмилляхи-ллязи ля ядурру ма‘а-смихи шай’ун филь-арды ва ля фис-сама’и, ва Хува-с-Сами‘у-ль-‘Алим.",
+        "videoUrl": "",
+        "sourceText": "Усман ибн Аффан. Сунан Абу Дауд, 5088. Аль-Альбани: сахих. «Крепость мусульманина», глава 27, №86."
+      },
+      "en": {
+        "title": "Seeking protection in Allah’s name",
+        "body": "In the name of Allah, with whose name nothing on earth or in heaven can cause harm. He is the All-Hearing, the All-Knowing.",
+        "transliteration": "Bismillāhi-lladhī lā yaḍurru maʿa-smihi shayʾun fi-l-arḍi wa lā fi-s-samāʾi, wa huwa-s-Samīʿu-l-ʿAlīm.",
+        "videoUrl": "",
+        "sourceText": "Uthman ibn Affan. Sunan Abi Dawud, 5088. Al-Albani: sahih. Hisn al-Muslim, chapter 27, no. 86."
+      }
+    },
+    "arabic": "بِسْمِ اللَّهِ الَّذِي لَا يَضُرُّ مَعَ اسْمِهِ شَيْءٌ فِي الْأَرْضِ وَلَا فِي السَّمَاءِ وَهُوَ السَّمِيعُ الْعَلِيمُ",
+    "transmitter": "Uthman ibn Affan",
+    "collection": "Sunan Abi Dawud",
+    "hadithNumber": "5088",
+    "grade": "sahih",
+    "grader": "Al-Albani",
+    "repetitions": 3,
+    "order": 860,
+    "status": "published",
+    "verified": true,
+    "imageUrl": "",
+    "event": null,
+    "updatedAt": "2026-10-09T04:00:00.000Z",
+    "revision": 5
+  },
+  {
+    "id": "morning-contentment",
+    "kind": "dhikr",
+    "categoryId": "morning",
+    "translations": {
+      "uz-Latn": {
+        "title": "Alloh, Islom va Payg‘ambardan rozi bo‘lish",
+        "body": "Allohni Rabbim, Islomni dinim, Muhammadni — Allohning salovoti va salomi unga bo‘lsin — payg‘ambarim deb rozi bo‘ldim.",
+        "transliteration": "Roziytu billahi Robban va bil-Islami diynan va bi-Muhammadin sollallohu ‘alayhi va sallama nabiyyan.",
+        "videoUrl": "",
+        "sourceText": "Payg‘ambarning xizmatkoridan rivoyat. Musnad Ahmad, 18967. Shuayb al-Arnaut: sahih li-g‘ayrihi — boshqa rivoyatlar bilan quvvatlangan. Ertalab va kechqurun 3 marta. Hisnul muslim, 27-bob, №87."
+      },
+      "uz-Cyrl": {
+        "title": "Аллоҳ, Ислом ва Пайғамбардан рози бўлиш",
+        "body": "Аллоҳни Раббим, Исломни диним, Муҳаммадни — Аллоҳнинг саловоти ва саломи унга бўлсин — пайғамбарим деб рози бўлдим.",
+        "transliteration": "Розийту биллаҳи Роббан ва бил-Ислами дийнан ва би-Муҳаммадин соллаллоҳу ‘алайҳи ва саллама набийян.",
+        "videoUrl": "",
+        "sourceText": "Пайғамбарнинг хизматкоридан ривоят. Муснад Аҳмад, 18967. Шуайб ал-Арнаут: саҳиҳ ли-ғайриҳи — бошқа ривоятлар билан қувватланган. Эрталаб ва кечқурун 3 марта. Ҳиснул муслим, 27-боб, №87."
+      },
+      "ru": {
+        "title": "Довольство Аллахом, исламом и Пророком",
+        "body": "Я доволен Аллахом как Господом, исламом как религией и Мухаммадом, да благословит его Аллах и приветствует, как пророком.",
+        "transliteration": "Радыту билляхи Раббан ва би-ль-ислями динан ва би-Мухаммадин салляллаху ‘аляйхи ва салляма набиййан.",
+        "videoUrl": "",
+        "sourceText": "Передал служивший Пророку. Муснад Ахмад, 18967. Шуайб аль-Арнаут: сахих ли-гайрихи — достоверный благодаря подкрепляющим передачам. Утром и вечером по 3 раза. «Крепость мусульманина», глава 27, №87."
+      },
+      "en": {
+        "title": "Contentment with Allah, Islam and the Prophet",
+        "body": "I am content with Allah as my Lord, Islam as my religion, and Muhammad, may Allah bless him and grant him peace, as my prophet.",
+        "transliteration": "Raḍītu bi-llāhi rabban wa bi-l-Islāmi dīnan wa bi-Muḥammadin ṣallā-llāhu ʿalayhi wa sallama nabiyyan.",
+        "videoUrl": "",
+        "sourceText": "Narrated by a servant of the Prophet. Musnad Ahmad 18967. Shuayb al-Arnaut: sahih li-ghayrihi, authenticated through supporting narrations. Three times in the morning and evening. Hisn al-Muslim, chapter 27, no. 87."
+      }
+    },
+    "arabic": "رَضِيتُ بِاللَّهِ رَبًّا وَبِالْإِسْلَامِ دِينًا وَبِمُحَمَّدٍ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ نَبِيًّا",
+    "transmitter": "A servant of the Prophet",
+    "collection": "Musnad Ahmad",
+    "hadithNumber": "18967",
+    "grade": "sahih",
+    "grader": "Shuayb al-Arnaut: sahih li-ghayrihi",
+    "repetitions": 3,
+    "order": 870,
+    "status": "published",
+    "verified": true,
+    "imageUrl": "",
+    "event": null,
+    "updatedAt": "2026-10-09T04:00:00.000Z",
+    "revision": 2
+  },
+  {
+    "id": "morning-living-sustainer",
+    "kind": "dhikr",
+    "categoryId": "morning",
+    "translations": {
+      "uz-Latn": {
+        "title": "Ey Hayy, ey Qayyum",
+        "body": "Ey abadiy Tirik, barcha mavjudotni tutib turuvchi Zot! Rahmating bilan yordam so‘rayman. Barcha ishlarimni o‘ngla va meni ko‘z ochib yumguncha ham o‘z holimga tashlab qo‘yma.",
+        "transliteration": "Ya Hayyu ya Qoyyumu birohmatika astag‘iys, aslih liy sha’niy kullahu va la takilniy ila nafsiy torfata ‘ayn.",
+        "videoUrl": "",
+        "sourceText": "Anas ibn Molik. Al-Hokim, al-Mustadrak, 1/545: isnodi sahih («Hisnul muslim» izohi). Al-Alboniy, as-Silsila as-sahiha, 227: hasan. Baholarda farq bor. Hisnul muslim, 27-bob, №88."
+      },
+      "uz-Cyrl": {
+        "title": "Эй Ҳайй, эй Қайюм",
+        "body": "Эй абадий Тирик, барча мавжудотни тутиб турувчи Зот! Раҳматинг билан ёрдам сўрайман. Барча ишларимни ўнгла ва мени кўз очиб юмгунча ҳам ўз ҳолимга ташлаб қўйма.",
+        "transliteration": "Я Ҳайю я Қойюму бироҳматика астағийс, аслиҳ лий ша’ний куллаҳу ва ла такилний ила нафсий торфата ‘айн.",
+        "videoUrl": "",
+        "sourceText": "Анас ибн Молик. Ал-Ҳоким, ал-Мустадрак, 1/545: исноди саҳиҳ («Ҳиснул муслим» изоҳи). Ал-Албоний, ас-Силсила ас-саҳиҳа, 227: ҳасан. Баҳоларда фарқ бор. Ҳиснул муслим, 27-боб, №88."
+      },
+      "ru": {
+        "title": "О Живой, о Вседержитель",
+        "body": "О Живой, о Вседержитель! К Твоей милости обращаюсь за помощью. Исправь все мои дела и не оставляй меня на самого себя даже на мгновение.",
+        "transliteration": "Йа Хаййу йа Каййуму би-рахматика астагис, аслих ли ша’ни кулляху ва ля такильни иля нафси тарфата ‘айн.",
+        "videoUrl": "",
+        "sourceText": "Анас ибн Малик. Аль-Хаким, «аль-Мустадрак», 1/545: иснад сахих (примечание «Крепости мусульманина»). Аль-Альбани, «ас-Сильсиля ас-сахиха», 227: хасан. Оценки различаются. «Крепость мусульманина», глава 27, №88."
+      },
+      "en": {
+        "title": "O Living One, O Sustainer",
+        "body": "O Living One who sustains all! I seek help through Your mercy. Set all my affairs right and do not leave me to myself even for an instant.",
+        "transliteration": "Yā Ḥayyu yā Qayyūmu bi-raḥmatika astaghīth, aṣliḥ lī shaʾnī kullahu wa lā takilnī ilā nafsī ṭarfata ʿayn.",
+        "videoUrl": "",
+        "sourceText": "Anas ibn Malik. Al-Hakim, al-Mustadrak 1/545: sahih chain, as cited by Hisn al-Muslim. Al-Albani, al-Silsilah al-Sahihah 227: hasan. Assessments differ. Hisn al-Muslim, chapter 27, no. 88."
+      }
+    },
+    "arabic": "يَا حَيُّ يَا قَيُّومُ بِرَحْمَتِكَ أَسْتَغِيثُ أَصْلِحْ لِي شَأْنِي كُلَّهُ وَلَا تَكِلْنِي إِلَى نَفْسِي طَرْفَةَ عَيْنٍ",
+    "transmitter": "Anas ibn Malik",
+    "collection": "Al-Mustadrak",
+    "hadithNumber": "1/545",
+    "grade": "sahih",
+    "grader": "Al-Hakim: sahih isnad; al-Albani: hasan",
+    "repetitions": null,
+    "order": 880,
+    "status": "published",
+    "verified": true,
+    "imageUrl": "",
+    "event": null,
+    "updatedAt": "2026-10-09T04:00:00.000Z",
+    "revision": 1
+  },
+  {
+    "id": "morning-fitrah",
+    "kind": "dhikr",
+    "categoryId": "morning",
+    "translations": {
+      "uz-Latn": {
+        "title": "Islom fitratida",
+        "body": "Tong ottirdik — Islom fitratida, ixlos kalimasida, payg‘ambarimiz Muhammadning — Allohning salovoti va salomi unga bo‘lsin — dinida va otamiz Ibrohimning yo‘lida. U haq dinga yuzlangan musulmon edi va mushriklardan emas edi.",
+        "transliteration": "Asbahna ‘ala fitratil-Islam va ‘ala kalimatil-ixlos va ‘ala diyni nabiyyina Muhammadin sollallohu ‘alayhi va sallam va ‘ala millati abiyna Ibrohiyma haniyfan musliman va ma kana minal-mushrikiyn.",
+        "videoUrl": "",
+        "sourceText": "Abdurrahmon ibn Abzo. Musnad Ahmad, 15363. Ibn Boz, Majmu‘ al-fatovo, 26/32: isnodi sahih. Kechqurun «amsayna» deyiladi. Takror soni belgilanmagan. Hisnul muslim, 27-bob, №90."
+      },
+      "uz-Cyrl": {
+        "title": "Ислом фитратида",
+        "body": "Тонг оттирдик — Ислом фитратида, ихлос калимасида, пайғамбаримиз Муҳаммаднинг — Аллоҳнинг саловоти ва саломи унга бўлсин — динида ва отамиз Иброҳимнинг йўлида. У ҳақ динга юзланган мусулмон эди ва мушриклардан эмас эди.",
+        "transliteration": "Асбаҳна ‘ала фитратил-Ислам ва ‘ала калиматил-ихлос ва ‘ала дийни набиййина Муҳаммадин соллаллоҳу ‘алайҳи ва саллам ва ‘ала миллати абийна Иброҳийма ҳанийфан муслиман ва ма кана минал-мушрикийн.",
+        "videoUrl": "",
+        "sourceText": "Абдурраҳмон ибн Абзо. Муснад Аҳмад, 15363. Ибн Боз, Мажмуъ ал-фатово, 26/32: исноди саҳиҳ. Кечқурун «амсайна» дейилади. Такрор сони белгиланмаган. Ҳиснул муслим, 27-боб, №90."
+      },
+      "ru": {
+        "title": "На естестве ислама",
+        "body": "Мы встретили утро на естестве ислама, на слове искреннего единобожия, на религии нашего пророка Мухаммада, да благословит его Аллах и приветствует, и на вере нашего отца Ибрахима, единобожника, покорного Аллаху и не бывшего многобожником.",
+        "transliteration": "Асбахна ‘аля фитрати-ль-ислям ва ‘аля калимати-ль-ихляс ва ‘аля дини набиййина Мухаммадин салляллаху ‘аляйхи ва саллям ва ‘аля милляти абина Ибрахима ханифан муслиман ва ма кана мина-ль-мушрикин.",
+        "videoUrl": "",
+        "sourceText": "Абдуррахман ибн Абза. Муснад Ахмад, 15363. Ибн Баз, «Маджму аль-фатава», 26/32: иснад сахих. Вечером говорится «амсайна». Число повторений не установлено. «Крепость мусульманина», глава 27, №90."
+      },
+      "en": {
+        "title": "Upon the natural disposition of Islam",
+        "body": "We enter the morning upon the natural disposition of Islam, the word of sincere faith, the religion of our prophet Muhammad, may Allah bless him and grant him peace, and the way of our father Ibrahim, who turned to Allah in submission and was not an idolater.",
+        "transliteration": "Aṣbaḥnā ʿalā fiṭrati-l-Islāmi wa ʿalā kalimati-l-ikhlāṣi wa ʿalā dīni nabiyyinā Muḥammadin ṣallā-llāhu ʿalayhi wa sallama wa ʿalā millati abīnā Ibrāhīma ḥanīfan musliman wa mā kāna mina-l-mushrikīn.",
+        "videoUrl": "",
+        "sourceText": "Abd al-Rahman ibn Abza. Musnad Ahmad 15363. Ibn Baz, Majmu al-Fatawa 26/32: sahih chain. In the evening, say amsayna. No repetition count is specified. Hisn al-Muslim, chapter 27, no. 90."
+      }
+    },
+    "arabic": "أَصْبَحْنَا عَلَى فِطْرَةِ الْإِسْلَامِ وَعَلَى كَلِمَةِ الْإِخْلَاصِ وَعَلَى دِينِ نَبِيِّنَا مُحَمَّدٍ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَعَلَى مِلَّةِ أَبِينَا إِبْرَاهِيمَ حَنِيفًا مُسْلِمًا وَمَا كَانَ مِنَ الْمُشْرِكِينَ",
+    "transmitter": "Abd al-Rahman ibn Abza",
+    "collection": "Musnad Ahmad",
+    "hadithNumber": "15363",
+    "grade": "sahih",
+    "grader": "Ibn Baz: sahih isnad (26/32)",
+    "repetitions": null,
+    "order": 900,
+    "status": "published",
+    "verified": true,
+    "imageUrl": "",
+    "event": null,
+    "updatedAt": "2026-10-09T04:00:00.000Z",
+    "revision": 2
+  },
+  {
+    "id": "morning-subhanallah",
+    "kind": "dhikr",
+    "categoryId": "morning",
+    "translations": {
+      "uz-Latn": {
+        "title": "Allohni poklash va hamd aytish",
+        "body": "Allohni barcha nuqsonlardan pok deb bilaman va Unga hamd aytaman.",
+        "transliteration": "Subhanallohi va bihamdih.",
+        "videoUrl": "",
+        "sourceText": "Abu Hurayra. Sahih Muslim, 2692. Hisnul muslim, 27-bob, №91."
+      },
+      "uz-Cyrl": {
+        "title": "Аллоҳни поклаш ва ҳамд айтиш",
+        "body": "Аллоҳни барча нуқсонлардан пок деб биламан ва Унга ҳамд айтаман.",
+        "transliteration": "Субҳаналлоҳи ва биҳамдиҳ.",
+        "videoUrl": "",
+        "sourceText": "Абу Ҳурайра. Саҳиҳ Муслим, 2692. Ҳиснул муслим, 27-боб, №91."
+      },
+      "ru": {
+        "title": "Прославление и хвала Аллаху",
+        "body": "Пречист Аллах, и Ему хвала.",
+        "transliteration": "Субхана-Ллахи ва би-хамдих.",
+        "videoUrl": "",
+        "sourceText": "Абу Хурайра. Сахих Муслим, 2692. «Крепость мусульманина», глава 27, №91."
+      },
+      "en": {
+        "title": "Glorifying and praising Allah",
+        "body": "Glory and praise be to Allah.",
+        "transliteration": "Subḥāna-llāhi wa biḥamdih.",
+        "videoUrl": "",
+        "sourceText": "Abu Huraira. Sahih Muslim, 2692. Hisn al-Muslim, chapter 27, no. 91."
+      }
+    },
+    "arabic": "سُبْحَانَ اللَّهِ وَبِحَمْدِهِ",
+    "transmitter": "Abu Huraira",
+    "collection": "Sahih Muslim",
+    "hadithNumber": "2692",
+    "grade": "sahih",
+    "grader": "",
+    "repetitions": 100,
+    "order": 910,
+    "status": "published",
+    "verified": true,
+    "imageUrl": "",
+    "event": null,
+    "updatedAt": "2026-10-09T04:00:00.000Z",
+    "revision": 5
+  },
+  {
+    "id": "morning-tahlil",
+    "kind": "dhikr",
+    "categoryId": "morning",
+    "translations": {
+      "uz-Latn": {
+        "title": "Tavhid kalimasi",
+        "body": "Yagona Allohdan o‘zga ibodatga haqli iloh yo‘q. Uning sherigi yo‘q. Hukmronlik va hamd Ungadir. U har bir narsaga qodirdir.",
+        "transliteration": "La ilaha illallohu vahdahu la shariyka lah. Lahul-mulku va lahul-hamdu va huva ‘ala kulli shay’in qodiyr.",
+        "videoUrl": "",
+        "sourceText": "Abu Ayyosh. Sunan Abu Dovud, 5077. Al-Alboniy: sahih. Kitobda: 10 marta yoki sustlikda 1 marta. O‘n marta uchun Nasaiy, Amal al-yavm val-layla, 24 (kitob izohida sahih). Hisnul muslim, 27-bob, №92."
+      },
+      "uz-Cyrl": {
+        "title": "Тавҳид калимаси",
+        "body": "Ягона Аллоҳдан ўзга ибодатга ҳақли илоҳ йўқ. Унинг шериги йўқ. Ҳукмронлик ва ҳамд Унгадир. У ҳар бир нарсага қодирдир.",
+        "transliteration": "Ла илаҳа иллаллоҳу ваҳдаҳу ла шарийка лаҳ. Лаҳул-мулку ва лаҳул-ҳамду ва ҳува ‘ала кулли шай’ин қодийр.",
+        "videoUrl": "",
+        "sourceText": "Абу Айёш. Сунан Абу Довуд, 5077. Ал-Албоний: саҳиҳ. Китобда: 10 марта ёки сустликда 1 марта. Ўн марта учун Насаий, Амал ал-явм вал-лайла, 24 (китоб изоҳида саҳиҳ). Ҳиснул муслим, 27-боб, №92."
+      },
+      "ru": {
+        "title": "Слова единобожия",
+        "body": "Нет достойного поклонения, кроме одного Аллаха, у Которого нет сотоварища. Ему принадлежат власть и хвала, и Он способен на всякую вещь.",
+        "transliteration": "Ля иляха илля-Ллаху вахдаху ля шарика лях. Ляху-ль-мульку ва ляху-ль-хамду ва Хува ‘аля кулли шай’ин кадир.",
+        "videoUrl": "",
+        "sourceText": "Абу Айяш. Сунан Абу Дауд, 5077. Аль-Альбани: сахих. В книге: 10 раз или 1 раз при упадке сил. Для десяти повторений: ан-Насаи, «Амаль аль-яум ва-ль-ляйля», 24 (в примечании книги: сахих). «Крепость мусульманина», глава 27, №92."
+      },
+      "en": {
+        "title": "Words of Allah’s oneness",
+        "body": "None is worthy of worship except Allah alone, without any partner. All dominion and praise belong to Him, and He has power over all things.",
+        "transliteration": "Lā ilāha illa-llāhu waḥdahu lā sharīka lah. Lahu-l-mulku wa lahu-l-ḥamdu wa huwa ʿalā kulli shayʾin qadīr.",
+        "videoUrl": "",
+        "sourceText": "Abu Ayyash. Sunan Abi Dawud, 5077. Al-Albani: sahih. The book gives ten times, or once when lacking energy. For ten: al-Nasai, Amal al-Yawm wa-l-Laylah 24, cited as sahih in the book. Hisn al-Muslim, chapter 27, no. 92."
+      }
+    },
+    "arabic": "لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
+    "transmitter": "Abu Ayyash",
+    "collection": "Sunan Abi Dawud",
+    "hadithNumber": "5077",
+    "grade": "sahih",
+    "grader": "Al-Albani",
+    "repetitions": 10,
+    "order": 920,
+    "status": "published",
+    "verified": true,
+    "imageUrl": "",
+    "event": null,
+    "updatedAt": "2026-10-09T04:00:00.000Z",
+    "revision": 4
+  },
+  {
+    "id": "morning-daily-tahlil-100",
+    "kind": "dhikr",
+    "categoryId": "morning",
+    "translations": {
+      "uz-Latn": {
+        "title": "Tahlil — kun davomida 100 marta",
+        "body": "Yagona Allohdan o‘zga ibodatga haqli iloh yo‘q. Uning sherigi yo‘q. Hukmronlik va hamd Ungadir. U har bir narsaga qodirdir.\n\nKun davomida jami 100 marta. Bu miqdor faqat ertalabga bog‘lanmagan; ertalab ham, kechqurun ham alohida 100 tadan o‘qish sharti emas.",
+        "transliteration": "La ilaha illallohu vahdahu la shariyka lah. Lahul-mulku va lahul-hamdu va huva ‘ala kulli shay’in qodiyr.",
+        "videoUrl": "",
+        "sourceText": "Abu Hurayra. Sahih al-Buxoriy, 6403. Hisnul muslim, 27-bob, №93."
+      },
+      "uz-Cyrl": {
+        "title": "Таҳлил — кун давомида 100 марта",
+        "body": "Ягона Аллоҳдан ўзга ибодатга ҳақли илоҳ йўқ. Унинг шериги йўқ. Ҳукмронлик ва ҳамд Унгадир. У ҳар бир нарсага қодирдир.\n\nКун давомида жами 100 марта. Бу миқдор фақат эрталабга боғланмаган; эрталаб ҳам, кечқурун ҳам алоҳида 100 тадан ўқиш шарти эмас.",
+        "transliteration": "Ла илаҳа иллаллоҳу ваҳдаҳу ла шарийка лаҳ. Лаҳул-мулку ва лаҳул-ҳамду ва ҳува ‘ала кулли шай’ин қодийр.",
+        "videoUrl": "",
+        "sourceText": "Абу Ҳурайра. Саҳиҳ ал-Бухорий, 6403. Ҳиснул муслим, 27-боб, №93."
+      },
+      "ru": {
+        "title": "Тахлиль — 100 раз в течение дня",
+        "body": "Нет достойного поклонения, кроме одного Аллаха, у Которого нет сотоварища. Ему принадлежат власть и хвала, и Он способен на всякую вещь.\n\nВсего 100 раз в течение дня. Это количество не ограничено утром и не означает требование читать по 100 раз отдельно утром и вечером.",
+        "transliteration": "Ля иляха илля-Ллаху вахдаху ля шарика лях. Ляху-ль-мульку ва ляху-ль-хамду ва Хува ‘аля кулли шай’ин кадир.",
+        "videoUrl": "",
+        "sourceText": "Абу Хурайра. Сахих аль-Бухари, 6403. «Крепость мусульманина», глава 27, №93."
+      },
+      "en": {
+        "title": "Tahlil — 100 times during the day",
+        "body": "None is worthy of worship except Allah alone, without any partner. All dominion and praise belong to Him, and He has power over all things.\n\nOne hundred times in total during the day. This count is not restricted to the morning and does not require a separate hundred in both morning and evening.",
+        "transliteration": "Lā ilāha illa-llāhu waḥdahu lā sharīka lah. Lahu-l-mulku wa lahu-l-ḥamdu wa huwa ʿalā kulli shayʾin qadīr.",
+        "videoUrl": "",
+        "sourceText": "Abu Hurayrah. Sahih al-Bukhari 6403. Hisn al-Muslim, chapter 27, no. 93."
+      }
+    },
+    "arabic": "لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
+    "transmitter": "Abu Hurayrah",
+    "collection": "Sahih al-Bukhari",
+    "hadithNumber": "6403",
+    "grade": "sahih",
+    "grader": "",
+    "repetitions": 100,
+    "order": 930,
+    "status": "published",
+    "verified": true,
+    "imageUrl": "",
+    "event": null,
+    "updatedAt": "2026-10-09T04:00:00.000Z",
+    "revision": 2
+  },
+  {
+    "id": "morning-creation-praise",
+    "kind": "dhikr",
+    "categoryId": "morning",
+    "translations": {
+      "uz-Latn": {
+        "title": "Tonggi hamd",
+        "body": "Allohni poklab, Unga maxluqlari sonicha, O‘zi rozi bo‘ladigan darajada, Arshining og‘irligicha va kalimalarini yozishga yetadigan siyoh miqdoricha hamd aytaman.",
+        "transliteration": "Subhanallohi va bihamdihi, ‘adada xolqihi, va rido nafsihi, va zinata ‘arshihi, va midada kalimatih.",
+        "videoUrl": "",
+        "sourceText": "Juvayriya. Sahih Muslim, 2726a. Hisnul muslim, 27-bob, №94."
+      },
+      "uz-Cyrl": {
+        "title": "Тонгги ҳамд",
+        "body": "Аллоҳни поклаб, Унга махлуқлари сонича, Ўзи рози бўладиган даражада, Аршининг оғирлигича ва калималарини ёзишга етадиган сиёҳ миқдорича ҳамд айтаман.",
+        "transliteration": "Субҳаналлоҳи ва биҳамдиҳи, ‘адада холқиҳи, ва ридо нафсиҳи, ва зината ‘аршиҳи, ва мидада калиматиҳ.",
+        "videoUrl": "",
+        "sourceText": "Жувайрия. Саҳиҳ Муслим, 2726а. Ҳиснул муслим, 27-боб, №94."
+      },
+      "ru": {
+        "title": "Утреннее прославление",
+        "body": "Пречист Аллах, и Ему хвала по числу Его творений, согласно Его довольству, по весу Его Трона и по количеству чернил для записи Его слов.",
+        "transliteration": "Субхана-Ллахи ва би-хамдихи, ‘адада халькыхи, ва рида нафсихи, ва зината ‘аршихи, ва мидада калиматих.",
+        "videoUrl": "",
+        "sourceText": "Джувайрия. Сахих Муслим, 2726a. «Крепость мусульманина», глава 27, №94."
+      },
+      "en": {
+        "title": "Morning praise",
+        "body": "Glory and praise be to Allah, as many as His creation, as much as pleases Him, as heavy as His Throne, and as abundant as the ink for His words.",
+        "transliteration": "Subḥāna-llāhi wa biḥamdihi, ʿadada khalqihi, wa riḍā nafsihi, wa zinata ʿarshihi, wa midāda kalimātih.",
+        "videoUrl": "",
+        "sourceText": "Juwayriyah. Sahih Muslim, 2726a. Hisn al-Muslim, chapter 27, no. 94."
+      }
+    },
+    "arabic": "سُبْحَانَ اللَّهِ وَبِحَمْدِهِ عَدَدَ خَلْقِهِ وَرِضَا نَفْسِهِ وَزِنَةَ عَرْشِهِ وَمِدَادَ كَلِمَاتِهِ",
+    "transmitter": "Juwayriyah",
+    "collection": "Sahih Muslim",
+    "hadithNumber": "2726a",
+    "grade": "sahih",
+    "grader": "",
+    "repetitions": 3,
+    "order": 940,
+    "status": "published",
+    "verified": true,
+    "imageUrl": "",
+    "event": null,
+    "updatedAt": "2026-10-09T04:00:00.000Z",
+    "revision": 5
+  },
+  {
+    "id": "morning-beneficial-knowledge",
+    "kind": "dhikr",
+    "categoryId": "morning",
+    "translations": {
+      "uz-Latn": {
+        "title": "Foydali ilm va qabul bo‘ladigan amal",
+        "body": "Allohim, Sendan foydali ilm, pok rizq va qabul bo‘ladigan amal so‘rayman. Bomdod namozidan salom bergach o‘qiladi.",
+        "transliteration": "Allohumma inniy as’aluka ‘ilman nafi‘an va rizqon toyyiban va ‘amalan mutaqobbala.",
+        "videoUrl": "",
+        "sourceText": "Ummu Salama. Ibn Moja, 925. Darussalom nashri: sahih. Kitob izohida isnod hasan deb ham baholangan. Hisnul muslim, 27-bob, №95."
+      },
+      "uz-Cyrl": {
+        "title": "Фойдали илм ва қабул бўладиган амал",
+        "body": "Аллоҳим, Сендан фойдали илм, пок ризқ ва қабул бўладиган амал сўрайман. Бомдод намозидан салом бергач ўқилади.",
+        "transliteration": "Аллоҳумма инний ас’алука ‘илман нафиъан ва ризқон тоййибан ва ‘амалан мутақоббала.",
+        "videoUrl": "",
+        "sourceText": "Умму Салама. Ибн Можа, 925. Даруссалом нашри: саҳиҳ. Китоб изоҳида иснод ҳасан деб ҳам баҳоланган. Ҳиснул муслим, 27-боб, №95."
+      },
+      "ru": {
+        "title": "Полезное знание и принятые дела",
+        "body": "О Аллах, прошу у Тебя полезного знания, благого удела и принятых дел. Читается после саляма утреннего намаза.",
+        "transliteration": "Аллахумма инни ас’алюка ‘ильман нафи‘ан ва ризкан таййибан ва ‘амалян мутакаббаля.",
+        "videoUrl": "",
+        "sourceText": "Умм Саляма. Ибн Маджа, 925. Оценка издания Darussalam: сахих. В примечании книги также приведена оценка иснада «хасан». «Крепость мусульманина», глава 27, №95."
+      },
+      "en": {
+        "title": "Beneficial knowledge and accepted deeds",
+        "body": "O Allah, grant me knowledge that benefits, wholesome provision and deeds that You accept. Recite after the salam of the dawn prayer.",
+        "transliteration": "Allāhumma innī asʾaluka ʿilman nāfiʿan wa rizqan ṭayyiban wa ʿamalan mutaqabbalan.",
+        "videoUrl": "",
+        "sourceText": "Umm Salamah. Ibn Majah 925. Darussalam grading: sahih. The book also cites a hasan-chain assessment. Hisn al-Muslim, chapter 27, no. 95."
+      }
+    },
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ عِلْمًا نَافِعًا وَرِزْقًا طَيِّبًا وَعَمَلًا مُتَقَبَّلًا",
+    "transmitter": "Umm Salamah",
+    "collection": "Sunan Ibn Majah",
+    "hadithNumber": "925",
+    "grade": "sahih",
+    "grader": "Darussalam: sahih",
+    "repetitions": null,
+    "order": 950,
+    "status": "published",
+    "verified": true,
+    "imageUrl": "",
+    "event": null,
+    "updatedAt": "2026-10-09T04:00:00.000Z",
+    "revision": 1
+  },
+  {
+    "id": "morning-daily-istighfar",
+    "kind": "dhikr",
+    "categoryId": "morning",
+    "translations": {
+      "uz-Latn": {
+        "title": "Istig‘for — kun davomida 100 marta",
+        "body": "Allohdan mag‘firat so‘rayman va Unga tavba qilaman. Kun davomida jami 100 marta; faqat tongga bog‘lanmagan.",
+        "transliteration": "Astag‘firulloh va atubu ilayh.",
+        "videoUrl": "",
+        "sourceText": "Abu Hurayra: Buxoriy, 6307 — istig‘for lafzi. Al-Ag‘arr al-Muzaniy: Muslim, 2702b — bir kunda 100 marta tavba. Hisnul muslim, 27-bob, №96."
+      },
+      "uz-Cyrl": {
+        "title": "Истиғфор — кун давомида 100 марта",
+        "body": "Аллоҳдан мағфират сўрайман ва Унга тавба қиламан. Кун давомида жами 100 марта; фақат тонгга боғланмаган.",
+        "transliteration": "Астағфируллоҳ ва атубу илайҳ.",
+        "videoUrl": "",
+        "sourceText": "Абу Ҳурайра: Бухорий, 6307 — истиғфор лафзи. Ал-Ағарр ал-Музаний: Муслим, 2702б — бир кунда 100 марта тавба. Ҳиснул муслим, 27-боб, №96."
+      },
+      "ru": {
+        "title": "Истигфар — 100 раз за день",
+        "body": "Прошу у Аллаха прощения и каюсь перед Ним. Всего 100 раз в течение дня; это не ограничено утренним временем.",
+        "transliteration": "Астагфируллаха ва атубу иляйх.",
+        "videoUrl": "",
+        "sourceText": "Абу Хурайра: аль-Бухари, 6307 — слова истигфара. Аль-Агарр аль-Музани: Муслим, 2702b — покаяние 100 раз за день. «Крепость мусульманина», глава 27, №96."
+      },
+      "en": {
+        "title": "Seeking forgiveness — 100 times daily",
+        "body": "I ask Allah to forgive me and turn to Him in repentance. One hundred in total over the day, not restricted to morning.",
+        "transliteration": "Astaghfirullāha wa atūbu ilayh.",
+        "videoUrl": "",
+        "sourceText": "Abu Hurayrah: Bukhari 6307, wording of seeking forgiveness. Al-Agharr al-Muzani: Muslim 2702b, repentance one hundred times a day. Hisn al-Muslim, chapter 27, no. 96."
+      }
+    },
+    "arabic": "أَسْتَغْفِرُ اللَّهَ وَأَتُوبُ إِلَيْهِ",
+    "transmitter": "Abu Hurayrah / al-Agharr al-Muzani",
+    "collection": "Sahih al-Bukhari / Sahih Muslim",
+    "hadithNumber": "6307 / 2702b",
+    "grade": "sahih",
+    "grader": "",
+    "repetitions": 100,
+    "order": 960,
+    "status": "published",
+    "verified": true,
+    "imageUrl": "",
+    "event": null,
+    "updatedAt": "2026-10-09T04:00:00.000Z",
+    "revision": 1
+  }
+]

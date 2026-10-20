@@ -1,0 +1,1 @@
+First open-source F-Droid edition. Android location without Google Play services, nearby mosque search, local prayer/event reminders, four languages. Separate package for installation alongside other Namoz releases.
