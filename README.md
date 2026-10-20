@@ -53,6 +53,16 @@ Coverage varies by location; an empty result does not prove there is no mosque.
 Prayer times depend on the selected calculation settings. Navigation can open an
 external map service. Core prayer calculations and bundled reading work offline.
 
+## Store languages
+
+F-Droid listing materials are available in [English](fastlane/metadata/android/en-US),
+[Russian](fastlane/metadata/android/ru-RU), and
+[Uzbek (Latin)](fastlane/metadata/android/uz).
+The Uzbek listing includes two 2160×4320 screenshots and a 1024×500 promo banner,
+highlighting nearby mosque search in London. The `uz` locale is the general Uzbek
+fallback; both Uzbek scripts remain available inside the app.
+See [store metadata notes](docs/STORE_METADATA.md) for asset provenance.
+
 ## License
 
 Original Namoz code and project-authored text and artwork in this repository are

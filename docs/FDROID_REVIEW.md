@@ -56,5 +56,12 @@ Physical Android GPS, compass, Android Auto and notification delivery have not
 been re-tested on a physical device for this edition.
 
 English/Russian Fastlane descriptions and seven 2160×3840 screenshots per language
-are included. Nearby mosques in London lead the screenshot sequence. All content
-references and translations are preserved from the original client.
+are included. Uzbek Latin metadata (`uz`) adds a localized title, summary,
+description, changelog, two 2160×4320 screenshots and a 1024×500 feature graphic.
+Nearby mosques in London lead the screenshot sequence. See `docs/STORE_METADATA.md`.
+All in-app content references and translations are preserved from the original client.
+
+The `v0.18.1-fdroid.1-metadata.1` tag adds only store metadata and documentation
+to `v0.18.1-fdroid.1`; Android version name and version code remain unchanged.
+Use the metadata tag for the initial packaging request so the Uzbek listing is
+present in the checked-out source. No application or dependency code is changed.

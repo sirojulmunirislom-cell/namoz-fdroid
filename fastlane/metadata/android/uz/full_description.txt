@@ -1,0 +1,19 @@
+Yangi shahar. Yaqin masjid.
+
+Namoz bilan atrofingizdagi masjidlarni xaritada toping, ulargacha bo‘lgan masofani ko‘ring va piyoda borish yo‘nalishini oching. Tanlangan shahar yoki qurilmangiz joylashuvi atrofida qidiring. Yo‘nalish tashqi xarita ilovasida ochiladi. Natijalar ochiq ma’lumotlarga asoslanadi: ayrim masjidlar ro‘yxatda bo‘lmasligi mumkin.
+
+Namoz vaqtlari, qibla yo‘nalishi va kundalik zikrlar — barchasi bitta sodda va qulay ilovada. Namoz bepul: reklama, obuna va pulli imkoniyatlar yo‘q.
+
+Kuningizni namoz bilan rejalashtiring. Kundalik namoz jadvali va keyingi namozgacha qolgan vaqtni kuzating. Shaharni qo‘lda tanlang yoki qurilmangiz joylashuvidan foydalaning. Vaqt mintaqasi, hisoblash usuli va asr vaqtini hisoblash tartibini sozlang. Namozlar va islomiy sanalar uchun eslatmalarni yoqing.
+
+Tong va oqshomni zikr bilan boshlang. Ertalabki va kechki zikrlarni alohida oching yoki ketma-ket o‘qing. Arabcha matn, o‘qilish shakli, ma’no tarjimasi va manba havolalari bir joyda. Matn o‘lchamini moslang, takrorlarni sanang va o‘qishni saqlangan joydan davom ettiring.
+
+Qibla yo‘nalishini aniqlang. Tanlangan joy uchun qibla yo‘nalishini ko‘ring va xaritani oching. Shu joyga qaytganingizda saqlangan masjid natijalaridan yana foydalaning.
+
+Muhim sanalarni unutmang. Ramazon, hayitlar va boshqa islomiy sanalar haqidagi ma’lumotlarni ko‘ring. Oy ko‘rinishiga qarab sanalar hududingizda farq qilishi mumkin.
+
+O‘zingizga mos ko‘rinishni tanlang. Yorug‘ yoki qorong‘i mavzu, o‘zbekcha lotin va kirill yozuvlari, ruscha va inglizcha interfeys mavjud. Asosiy namoz hisoblari va ilovaga kiritilgan zikr matnlari internetsiz ishlaydi. Xarita, masjid qidiruvi va yangi ma’lumotlarni olish uchun internet kerak.
+
+Namoz vaqtlari joylashuv va hisoblash sozlamalariga bog‘liq. Ularni mahalliy masjidingiz jadvali bilan solishtiring. Joylashuv, kompas va eslatmalar qurilma imkoniyatlari hamda berilgan ruxsatlarga bog‘liq.
+
+F-Droid nashri GPL-3.0 litsenziyasidagi ochiq kodga ega. Android geolokatsiyasi Google Play xizmatlarisiz ishlaydi. Namoz va islomiy sanalar uchun mahalliy eslatmalar mavjud; bulut orqali yuboriladigan push-bildirishnomalar bu nashrga kiritilmagan. Ixtiyoriy hisob va sinxronlash Namoz API orqali ishlaydi.

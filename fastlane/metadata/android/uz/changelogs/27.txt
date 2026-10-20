@@ -1,0 +1,1 @@
+F-Droid uchun ilk ochiq kodli nashr. Google Play xizmatlarisiz joylashuvni aniqlash, yaqin masjidlarni qidirish, namoz va islomiy sanalar uchun mahalliy eslatmalar. O‘zbekcha lotin va kirill, ruscha va inglizcha interfeys. Boshqa Namoz nashri bilan yonma-yon o‘rnatish mumkin.
