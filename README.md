@@ -28,13 +28,17 @@ npm ci --ignore-scripts
 npm test
 npm run native:sync
 cd android
-gradle --no-daemon assembleRelease testDebugUnitTest
+./gradlew --no-daemon assembleRelease testDebugUnitTest
 ```
 
 The output is `android/app/build/outputs/apk/release/app-release-unsigned.apk`.
 No private credentials or external account are needed to compile it.
 Release signing is performed by the distributor; this repository does not carry a key.
 F-Droid acceptance and publication are separate from a successful local build.
+
+The wrapper pins the official SHA-256 of the Gradle 8.14.3 complete distribution.
+The official `gradle-wrapper.jar` is included and its checksum was checked against
+https://gradle.org/release-checksums/ . See `docs/GRADLE_INTEGRITY.md`.
 
 `npm run dev` starts a local browser preview. Native location, widgets, compass,
 and notification behavior should be tested on Android. A browser preview does not

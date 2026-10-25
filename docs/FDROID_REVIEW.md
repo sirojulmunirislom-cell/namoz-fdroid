@@ -63,5 +63,7 @@ All in-app content references and translations are preserved from the original c
 
 The `v0.18.1-fdroid.1-metadata.1` tag adds only store metadata and documentation
 to `v0.18.1-fdroid.1`; Android version name and version code remain unchanged.
-Use the metadata tag for the initial packaging request so the Uzbek listing is
-present in the checked-out source. No application or dependency code is changed.
+The newer `v0.18.1-fdroid.1-security.1` tag includes that Uzbek listing and fixes
+the wrapper integrity finding. Use this security tag for packaging. See
+`GRADLE_INTEGRITY.md` for the official distribution and wrapper JAR hashes.
+No application or runtime dependency code is changed.
