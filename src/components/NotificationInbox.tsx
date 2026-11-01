@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react';
+import { useEffect, useRef, useState } from 'react';
 import { createPortal } from 'react-dom';
 import { Bell } from 'lucide-react';
 import { useApp } from '../store';
@@ -12,26 +12,31 @@ export function NotificationInbox({onRead}:{onRead:(c:Content)=>void}) {
   const {prefs,prayer,data,t}=useApp();
   const [open,setOpen]=useState(false),[rows,setRows]=useState<InboxItem[]>([]),[selected,setSelected]=useState<InboxItem>();
   const [error,setError]=useState(false);
+  const launchEpoch=useRef(0);
   const zone=prayer?.location.timezone || Intl.DateTimeFormat().resolvedOptions().timeZone || 'UTC';
   const days=data.appearance.notificationRetentionDays;
   const reload=async()=>{try {setRows(await listNotifications(zone,days));setError(false);}catch{setError(true);}};
   const select=async(n:InboxItem)=>{setSelected(n);setOpen(true);await markNotificationRead(n.id).catch(()=>{});await reload();};
   useEffect(()=>{
     const launch=async()=>{
+      const epoch=launchEpoch.current;
       await collectNativeNotifications().catch(()=>{});
+      if(epoch!==launchEpoch.current)return;
       const id=new URLSearchParams(location.search).get('notification');
-      if(id){const n=await readNotification(id).catch(()=>undefined);if(n)await select(n);else setOpen(true);
+      if(id){const n=await readNotification(id).catch(()=>undefined);if(epoch!==launchEpoch.current)return;if(n)await select(n);else setOpen(true);
         const url=new URL(location.href);url.searchParams.delete('notification');history.replaceState({},'',url.pathname+url.search);}
       await reload();
     };
     const action=(e:Event)=>{const n=(e as CustomEvent<InboxItem>).detail;if(n){void select(n);const url=new URL(location.href);url.searchParams.delete('notification');history.replaceState({},'',url.pathname+url.search);}};
     const visible=()=>{if(document.visibilityState==='visible')void launch();};
     const message=()=>void reload();
+    const openUmrah=()=>{launchEpoch.current++;setOpen(false);setSelected(undefined);};
     void launch(); const timer=setInterval(()=>void reload(),1000);
     window.addEventListener('namoz-notification',action);
+    window.addEventListener('namoz-umrah-reminder',openUmrah);
     document.addEventListener('visibilitychange',visible);
     navigator.serviceWorker?.addEventListener('message',message);
-    return()=>{clearInterval(timer);window.removeEventListener('namoz-notification',action);document.removeEventListener('visibilitychange',visible);navigator.serviceWorker?.removeEventListener('message',message);};
+    return()=>{launchEpoch.current++;clearInterval(timer);window.removeEventListener('namoz-notification',action);window.removeEventListener('namoz-umrah-reminder',openUmrah);document.removeEventListener('visibilitychange',visible);navigator.serviceWorker?.removeEventListener('message',message);};
   },[zone,days]);
   const unread=rows.filter(n=>!n.read).length;
   const material=selected?.contentId ? data.content.find(c=>c.id===selected.contentId) : undefined;

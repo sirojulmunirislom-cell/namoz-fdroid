@@ -15,6 +15,7 @@ import {
   X,
   Globe,
   RefreshCw,
+  Footprints,
 } from "lucide-react";
 import { useApp, useAnalytics, readLocal, writeLocal } from "./store";
 import { locales, type Locale, type Content } from "../shared/schema";
@@ -32,12 +33,12 @@ import {
   MosquesPage,
 } from "./pages/PublicPages";
 import { SettingsPage, Account } from "./pages/Settings";
-
+import { UmrahPage } from "./pages/Umrah";
 import { sectionAvailable, travelEnabled } from "./features";
 import { NotificationInbox } from "./components/NotificationInbox";
 import { ThemeToggle } from "./components/ThemeToggle";
-
 import { version as appVersion } from "../package.json";
+import { APP_NAME } from "./app-name";
 const icons = {
   prayer: Clock3,
   calendar: Plane,
@@ -48,6 +49,7 @@ const icons = {
   mosques: MapPin,
   settings: Settings2,
   admin: ShieldCheck,
+  umrah: Footprints,
 };
 const initial = () => {
   const requested = location.pathname.startsWith("/admin")
@@ -67,7 +69,7 @@ export function App() {
     () => (history.state as ReaderHistory | null)?.namozPage?.category,
   );
   const [setup, setSetup] = useState(
-    () => !location.pathname.startsWith("/admin") && !prayer,
+    () => !location.pathname.startsWith("/admin") && initial() !== "umrah" && !prayer,
   );
   const [reader, setReader] = useState<Content | null>(null);
   const [readerSequence, setReaderSequence] = useState<Content[]>([]);
@@ -141,6 +143,24 @@ export function App() {
   const closeReaderRef = useRef(closeReader);
   closeReaderRef.current = closeReader;
   useEffect(() => {
+    const openUmrahReminder = () => {
+      setSection("umrah");
+      setCategory(undefined);
+      setNav(false);
+      setSetup(false);
+      setAccount(false);
+      setReader(null);
+      setReaderSequence([]);
+      readerOpen.current = false;
+      readerClosing.current = false;
+      window.scrollTo({ top: 0, behavior: "instant" });
+    };
+    window.addEventListener("namoz-umrah-reminder", openUmrahReminder);
+    // A cold-start notification can be consumed before React attaches listeners.
+    if (initial() === "umrah") openUmrahReminder();
+    return () => window.removeEventListener("namoz-umrah-reminder", openUmrahReminder);
+  }, []);
+  useEffect(() => {
     if (!reader || Capacitor.getPlatform() !== "android") return;
     let disposed = false;
     let listener: PluginListenerHandle | undefined;
@@ -189,6 +209,7 @@ export function App() {
       !reader &&
       !autoShown.current &&
       section !== "admin" &&
+      section !== "umrah" &&
       prefs.fullScreenNewSunnah
     ) {
       const seen = readLocal<string[]>("namoz.seen-sunnahs", []);
@@ -202,8 +223,8 @@ export function App() {
     }
   }, [data.content, setup]);
   useEffect(() => {
-    document.title = `${t(section in icons ? (section as MessageKey) : "prayer")} · ${data.appearance.brandName}`;
-  }, [section, prefs.locale, data.appearance.brandName]);
+    document.title = `${t(section in icons ? (section as MessageKey) : "prayer")} · ${APP_NAME}`;
+  }, [section, prefs.locale]);
   const props = { onSetup: () => setSetup(true), onRead: openReader };
   return (
     <div
@@ -245,7 +266,7 @@ export function App() {
               <MoonStar size={27} />
             </span>
           )}
-          <strong>{data.appearance.brandName}</strong>
+          <strong>{APP_NAME}</strong>
         </a>
         <nav>
           {(data.appearance.sectionOrder.includes("events")
@@ -272,6 +293,13 @@ export function App() {
                 </button>
               );
             })}
+          <button
+            className={section === "umrah" ? "active" : ""}
+            onClick={() => navigate("umrah")}
+          >
+            <Footprints size={20} />
+            <span>{t("umrah")}</span>
+          </button>
         </nav>
         <div className="sidebar-bottom">
           <button
@@ -281,7 +309,6 @@ export function App() {
             <Settings2 size={20} />
             {t("settings")}
           </button>
-
           <div className="sidebar-foot">
             <span className={`connection-dot ${online ? "" : "offline"}`} />
             {t(online ? "online" : "offline")}
@@ -292,7 +319,7 @@ export function App() {
       <div className="workspace">
         <header className="topbar">
           <span className="breadcrumb">
-            {data.appearance.brandName}
+            {APP_NAME}
             <span>/</span>
             {t(section in icons ? (section as MessageKey) : "prayer")}
           </span>
@@ -328,7 +355,6 @@ export function App() {
           {syncError && <Banner>{t("serverUnavailable")}</Banner>}
           {section === "prayer" ? (
             <PrayerPage {...props} onSection={navigate} />
-
           ) : section === "events" ? (
             <EventsPage onRead={openReader} />
           ) : section === "sunnah" ? (
@@ -339,13 +365,14 @@ export function App() {
             <AdhkarPage initialCategory={category} onRead={openReader} />
           ) : section === "mosques" ? (
             <MosquesPage {...props} />
-
+          ) : section === "umrah" ? (
+            <UmrahPage />
           ) : (
             <SettingsPage onSetup={props.onSetup} />
           )}
         </main>
         <footer className="app-footer">
-          <span>{data.appearance.brandName}</span>
+          <span>{APP_NAME}</span>
           <button className="text-button" onClick={() => navigate("settings")}>
             {t("privacy")}
           </button>

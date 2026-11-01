@@ -1,0 +1,1 @@
+Added My Umrah: six stages, saved local progress, manual tawaf/sa’i counters, miqat directory and Arabic source cards. Optional preparation reminder from a user-entered time estimate. Renamed to Namoz — намаз и умра. Retained F-Droid package and no proprietary mobile SDKs. Draft translation and physical-device limitations remain.

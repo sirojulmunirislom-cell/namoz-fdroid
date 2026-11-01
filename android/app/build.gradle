@@ -6,8 +6,8 @@ android {
   applicationId 'app.namoz.prayer.fdroid'
   minSdkVersion rootProject.ext.minSdkVersion
   targetSdkVersion rootProject.ext.targetSdkVersion
-  versionCode 27
-  versionName '0.18.1-fdroid.1'
+  versionCode 29
+  versionName '0.19.2'
   testInstrumentationRunner 'androidx.test.runner.AndroidJUnitRunner'
  }
  buildTypes {release {minifyEnabled false}}

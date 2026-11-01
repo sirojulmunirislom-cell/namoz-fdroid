@@ -101,6 +101,19 @@ function nativeEntry(n: any, local = false): InboxItem {
     contentId: extra?.contentId || extra?.jamaatId});
 }
 async function rememberNative(n: any, local: boolean, open = false) {
+  // This device-local preparation reminder is kept by My Umrah, not the
+  // ordinary notification inbox. Opening it never confirms a ritual or marks
+  // the reminder as read; the reader acknowledges it in the guide.
+  if (local && n.extra?.umrahReminder === true && n.extra?.section === "umrah") {
+    if (open) {
+      history.replaceState({}, "", "/?section=umrah");
+      window.dispatchEvent(new Event("namoz-umrah-reminder"));
+    } else {
+      window.dispatchEvent(new Event("namoz-umrah-reminder-received"));
+    }
+    return;
+  }
+
   const entry=nativeEntry(n,local);
   if(!open && await readNotification(entry.id).catch(()=>undefined))return;
   await saveNotification(entry).catch(()=>{});

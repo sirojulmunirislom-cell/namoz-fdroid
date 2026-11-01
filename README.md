@@ -1,6 +1,7 @@
-# Namoz F-Droid edition
+# Namoz — намаз и умра · F-Droid edition
 
-Namoz helps you find nearby mosques, calculate prayer times, find the Qibla,
+Namoz includes My Umrah with six stages, local progress, manual counters and a
+user-estimated preparation reminder. It also helps you find nearby mosques, calculate prayer times, find the Qibla,
 read daily adhkar and keep local prayer and Islamic-event reminders.
 Uzbek Latin, Uzbek Cyrillic, Russian and English are included.
 
@@ -15,8 +16,11 @@ It is free to use, with no advertising or in-app purchases.
   cloud push is unavailable; content is refreshed when the app opens.
 - No administrative editor, server code, credentials, databases or signing keys
   are distributed in this repository.
-- The package is `app.namoz.prayer.fdroid`, labelled **Namoz F-Droid**, so it can
+- The package is `app.namoz.prayer.fdroid`, labelled **Namoz — намаз и умра**, so it can
   coexist with `app.namoz.prayer`. Settings are stored separately.
+
+Version **0.19.2**, Android version code **29**. See [My Umrah](docs/my-umrah.md)
+for preview labels, draft translations, local data and reminder limitations.
 
 ## Build from source
 

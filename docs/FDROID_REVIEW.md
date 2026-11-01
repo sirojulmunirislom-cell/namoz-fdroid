@@ -1,7 +1,7 @@
 # F-Droid packaging notes
 
-First-party open-source edition: Namoz F-Droid, `app.namoz.prayer.fdroid`.
-Version `0.18.1-fdroid.1`, version code `27`, GPL-3.0-only.
+First-party open-source edition: Namoz — намаз и умра, `app.namoz.prayer.fdroid`.
+Version `0.19.2`, version code `29`, GPL-3.0-only.
 This distribution uses a separate application ID and can coexist with the
 non-F-Droid release. It has no existing public signing key to preserve;
 F-Droid may sign its build. The local release output is unsigned.
@@ -11,9 +11,10 @@ F-Droid may sign its build. The local release output is unsigned.
 - Node.js 24+, npm (`legacy-peer-deps=true` is pinned in `.npmrc`).
 - OpenJDK 21, Android SDK platform 36, Gradle 8.14.3.
 - `npm ci --ignore-scripts`, `npm run native:sync`, then in `android/`:
-  `gradle --no-daemon :app:assembleRelease`.
+  `./gradlew --no-daemon :app:assembleRelease testDebugUnitTest`.
 - Capacitor sync generates the Cordova compatibility project and plugin files.
-- Gradle wrapper properties record the version; no prebuilt wrapper JAR is committed.
+- The official Gradle wrapper JAR is included; distribution and wrapper checksums
+  remain pinned and verified (see GRADLE_INTEGRITY.md).
 - No APK, AAR, native library, signing key or provider secret is checked in.
 - Build the bundled web assets from TypeScript with the pinned npm lockfile.
 - F-Droid server tooling/CI has not yet run; the packager should review any npm
@@ -55,15 +56,14 @@ parsing, calendar logic, local notification setup and native location/trip logic
 Physical Android GPS, compass, Android Auto and notification delivery have not
 been re-tested on a physical device for this edition.
 
-English/Russian Fastlane descriptions and seven 2160×3840 screenshots per language
-are included. Uzbek Latin metadata (`uz`) adds a localized title, summary,
-description, changelog, two 2160×4320 screenshots and a 1024×500 feature graphic.
-Nearby mosques in London lead the screenshot sequence. See `docs/STORE_METADATA.md`.
-All in-app content references and translations are preserved from the original client.
+Three Fastlane locales use the requested name and My Umrah-first descriptions
+and screenshots. See STORE_METADATA.md. Religious texts are transferred without
+changes; independent specialist/translation review is outstanding and the
+preview disclosure remains in the UI and listing. See my-umrah.md.
 
-The `v0.18.1-fdroid.1-metadata.1` tag adds only store metadata and documentation
-to `v0.18.1-fdroid.1`; Android version name and version code remain unchanged.
-The newer `v0.18.1-fdroid.1-security.1` tag includes that Uzbek listing and fixes
-the wrapper integrity finding. Use this security tag for packaging. See
-`GRADLE_INTEGRITY.md` for the official distribution and wrapper JAR hashes.
-No application or runtime dependency code is changed.
+The historical insecure-gradlew finding was corrected in the 25 October tag.
+This release preserves those checksums and the official wrapper. The historical
+label is for maintainers to reassess; it is not hidden or removed by this update.
+
+New tag: v0.19.2-fdroid.1. Local checks are recorded in VALIDATION_0.19.2.md;
+F-Droid's scanner, infrastructure build and final inclusion review remain pending.

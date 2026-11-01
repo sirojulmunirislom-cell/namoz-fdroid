@@ -37,3 +37,17 @@ Preferences, bundled/cached reading, notification history and prayer settings ar
 kept locally. Removing application data clears this device's local state, but does
 not delete an existing server account. App permissions can be revoked through
 Android Settings. See the source code for the actual fields and endpoints.
+
+## My Umrah (0.19.2)
+
+The six-stage progress, manual counters and user-entered preparation reminder
+are stored only on this device. They are not synced or emitted as analytics.
+A mode-specific location request is explicit and one-time; its coordinates
+are neither saved in progress nor sent to the Namoz API. External miqat map
+search links contain only the selected place name. GPS and network status
+are separate. No route tracking or automatic boundary warning is provided.
+
+An Android preparation reminder requests notification and exact-alarm access
+only when enabled. It is scheduled locally without a server or cloud-push
+token. Removing local app data removes the saved guide state. The guide is
+bundled offline; opening source pages or external maps uses their services.

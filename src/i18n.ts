@@ -1,5 +1,6 @@
 import type { Locale } from "../shared/schema";
 const entries = {
+  umrah: ["Mening umram", "Менинг умрам", "Моя умра", "My Umrah"],
   firebaseAuthInfo: [
     "Firebase orqali kirishda elektron pochta va parol ilova serveri orqali Firebase Authentication xizmatiga yuboriladi. Parol ilova bazasida saqlanmaydi.",
     "Firebase орқали киришда электрон почта ва парол илова сервери орқали Firebase Authentication хизматига юборилади. Парол илова базасида сақланмайди.",

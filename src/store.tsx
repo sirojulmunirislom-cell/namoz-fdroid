@@ -1,4 +1,5 @@
 import { analyticsMetadata } from "./analytics-preferences";
+import { APP_NAME } from "./app-name";
 import { applyTheme, resolveTheme } from "./theme";
 import {
   createContext,
@@ -166,10 +167,10 @@ export function AppProvider({ children }: { children: ReactNode }) {
   }, [refresh]);
   useEffect(() => {
     void syncNativeLocale(prefs.locale).catch(() => {});
-    void updateWidgets(prayer, prefs.locale, data.appearance.brandName).catch(
+    void updateWidgets(prayer, prefs.locale, APP_NAME).catch(
       () => {},
     );
-  }, [prayer, prefs.locale, data.appearance.brandName]);
+  }, [prayer, prefs.locale]);
   useEffect(() => {
     void syncCalendarReminders(
       data.content,
@@ -311,7 +312,8 @@ export function useApp() {
 export function useAnalytics(section: string) {
   const { prefs } = useApp();
   useEffect(() => {
-    if (!prefs.analytics) return;
+    // Umrah progress, route choices and location stay in this device-only mode.
+    if (!prefs.analytics || section === "umrah") return;
     let start = Date.now();
     let active = document.visibilityState === "visible";
     const emit = async () => {
